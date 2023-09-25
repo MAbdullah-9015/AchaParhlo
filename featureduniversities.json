@@ -1,1 +1,44 @@
 
+
+[
+    {
+        "image": "https://seeklogo.com/images/U/university-of-management-and-technology-logo-41C13AC2B5-seeklogo.com.png",
+        "name": "UMT",
+        "link": ""
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/4/41/Riphah-Logo.jpg",
+        "name": "RIPAH",
+        "link": ""
+    },
+    {
+        "image": "https://mysuptech.com/assets/img/logo.png",
+        "name": "SUPERIOR",
+        "link": ""
+    },
+    {
+        "image": "https://rahnumai.com/updata/organizations/36/logos/original/36_20200511175543.png",
+        "name": "FOUNDATION",
+        "link": ""
+    },
+    {
+        "image": "https://seeklogo.com/images/N/nust-logo-E161A9240F-seeklogo.com.png",
+        "name": "NUST",
+        "link": ""
+    },
+    {
+        "image": "https://seeklogo.com/images/C/comsats-university-islamabad-logo-B7C2E461B5-seeklogo.com.png",
+        "name": "COMSATS",
+        "link": ""
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/e/e4/National_University_of_Computer_and_Emerging_Sciences_logo.png",
+        "name": "FAST",
+        "link": ""
+    },
+    {
+        "image": "https://seeklogo.com/images/L/lums-university-logo-C5B5A2F9F9-seeklogo.com.png",
+        "name": "LUMS",
+        "link": ""
+    }
+]
