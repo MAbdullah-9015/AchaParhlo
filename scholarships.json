@@ -218,5 +218,203 @@
     "category": "Merit & Need Based",
     "area": "Khyber Pukhtonkhwa",
     "deadline": "15-03-2024"
+  },
+  {
+    "images": "https://www.eduvision.edu.pk/scholarships/images/thumbs/susi-semester-exchange-2023.webp",
+    "website": "https://www.eduvision.edu.pk/scholarships/susi-semester-exchange-program-in-usa-for-pakistani-students-scholar-7",
+    "title": "SUSI Semester Exchange Program in USA for Pakistani Students",
+    "levels": "Bachelor",
+    "fields": "All Fields",
+    "type": "International",
+    "category": "Merit Based",
+    "area": "All Pakistan",
+    "deadline": "05-11-2023"
+  },
+  {
+    "images": "https://www.eduvision.edu.pk/scholarships/images/thumbs/teaching-tea-2023.webp",
+    "website": "https://www.eduvision.edu.pk/scholarships/school-teachers-training-in-the-usa-under-tea-scholar-509",
+    "title": "School Teachers training in the USA under TEA",
+    "levels": "Bachelor",
+    "fields": "Social Sciences",
+    "type": "International",
+    "category": "Merit Based",
+    "area": "All Pakistan",
+    "deadline": "05-11-2023"
+  },
+  {
+    "images": "https://www.eduvision.edu.pk/scholarships/images/thumbs/sundar-stem-school.webp",
+    "website": "https://www.eduvision.edu.pk/scholarships/sundar-stem-school-scholarship-scholar-705",
+    "title": "Sundar STEM School scholarship",
+    "levels": "Matric, Inter",
+    "fields": "All Fields",
+    "type": "Local",
+    "category": "Merit Based",
+    "area": "All Pakistan",
+    "deadline": "15-12-2023"
+  },
+  {
+    "images": "https://www.eduvision.edu.pk/scholarships/images/thumbs/hec-scholarships-gwadar.webp",
+    "website": "https://www.eduvision.edu.pk/scholarships/hec-undergraduate-scholarship-for-gwadar-students-scholar-4",
+    "title": "HEC Undergraduate Scholarship for Gwadar Students",
+    "levels": "Bachelor",
+    "fields": "All Fields",
+    "type": "Local",
+    "category": "Merit Based",
+    "area": "Balochistan",
+    "deadline": "31-10-2023"
+  },
+  {
+    "images": "https://www.eduvision.edu.pk/scholarships/images/thumbs/mora-scholarships-2023.webp",
+    "website": "https://www.eduvision.edu.pk/scholarships/mora-scholarship-for-minority-students-scholar-626",
+    "title": "MORA Scholarship for Minority Students",
+    "levels": "All Levels",
+    "fields": "All Fields",
+    "type": "Local",
+    "category": "Need Based",
+    "area": "All Pakistan",
+    "deadline": "07-11-2023"
+  },
+  {
+    "images": "https://www.eduvision.edu.pk/scholarships/images/thumbs/ksa-scholarship-2023.webp",
+    "website": "https://www.eduvision.edu.pk/scholarships/kingdom-of-saudi-arabia-ksa-scholarships-scholar-91",
+    "title": "Kingdom of Saudi Arabia (KSA) Scholarships",
+    "levels": "Bachelor, Masters, PhD",
+    "fields": "All Fields",
+    "type": "International",
+    "category": "Merit Based",
+    "area": "All Pakistan",
+    "deadline": "07-12-2023"
+  },
+  {
+    "images": "https://www.eduvision.edu.pk/scholarships/images/thumbs/yes-scholarship-us-2022.webp",
+    "website": "https://www.eduvision.edu.pk/scholarships/yes-usa-kennedy-lugar-youth-exchange-and-study-scholar-633",
+    "title": "YES USA Kennedy-Lugar Youth Exchange and Study",
+    "levels": "Matric",
+    "fields": "",
+    "type": "International",
+    "category": "Merit Based",
+    "area": "All Pakistan",
+    "deadline": "06-10-2023"
+  },
+  {
+    "images": "https://www.eduvision.edu.pk/scholarships/images/thumbs/akhuwat-college-for-women.webp",
+    "website": "https://www.eduvision.edu.pk/scholarships/beef-scholarship-for-akhuwat-college-chakwal-scholar-154",
+    "title": "BEEF Scholarship for Akhuwat College Chakwal",
+    "levels": "Bachelor",
+    "fields": "Social Sciences",
+    "type": "Local",
+    "category": "Merit Based",
+    "area": "Balochistan",
+    "deadline": "10-09-2023"
+  },
+  {
+    "images": "https://www.eduvision.edu.pk/scholarships/images/thumbs/hec-commonwealth-scholarship.webp",
+    "website": "https://www.eduvision.edu.pk/scholarships/hec-commonwealth-uk-scholarships-scholar-73",
+    "title": "HEC Commonwealth UK Scholarships",
+    "levels": "Masters, PhD",
+    "fields": "All Fields",
+    "type": "International",
+    "category": "Merit Based",
+    "area": "All Pakistan",
+    "deadline": "17-10-2023"
+  },
+  {
+    "images": "https://www.eduvision.edu.pk/scholarships/images/thumbs/sth-iba.webp",
+    "website": "https://www.eduvision.edu.pk/scholarships/siba-sindh-talent-hunt-scholarship-sthp-scholar-80",
+    "title": "SIBA Sindh Talent Hunt Scholarship STHP",
+    "levels": "Bachelor",
+    "fields": "Engineering & IT, Natural Sciences, Social Sciences, Management Sciences",
+    "type": "Local",
+    "category": "Merit & Need Based",
+    "area": "Sindh",
+    "deadline": "07-10-2023"
+  },
+  {
+    "images": "https://www.eduvision.edu.pk/scholarships/images/thumbs/sona-welfare.webp",
+    "website": "https://www.eduvision.edu.pk/scholarships/ffc-sona-welfare-scholarship-for-inter-and-bs-scholar-628",
+    "title": "FFC Sona Welfare Scholarship for Inter and BS",
+    "levels": "Inter, Bachelor",
+    "fields": "Engineering & IT, Social Sciences, Agriculture, Management Sciences",
+    "type": "Local",
+    "category": "Merit & Need Based",
+    "area": "All Pakistan",
+    "deadline": "31-10-2023"
+  },
+  {
+    "images": "https://www.eduvision.edu.pk/scholarships/images/thumbs/ugrad-2024.webp",
+    "website": "https://www.eduvision.edu.pk/scholarships/ugrad-semester-exchange-at-usa-universities-scholar-639",
+    "title": "UGRAD Semester Exchange at USA Universities",
+    "levels": "Bachelor",
+    "fields": "All Fields",
+    "type": "International",
+    "category": "Merit Based",
+    "area": "All Pakistan",
+    "deadline": "27-09-2023"
+  },
+  {
+    "images": "https://www.eduvision.edu.pk/scholarships/images/thumbs/hec-gb-scholarship-2021.webp",
+    "website": "https://www.eduvision.edu.pk/scholarships/hec-undergraduate-scholarships-for-students-of-gb-scholar-153",
+    "title": "HEC Undergraduate scholarships for Students of GB",
+    "levels": "Bachelor",
+    "fields": "All Fields",
+    "type": "Local",
+    "category": "Merit Based",
+    "area": "Gilgit Baltistan",
+    "deadline": "24-10-2022"
+  },
+  {
+    "images": "https://www.eduvision.edu.pk/scholarships/images/thumbs/scholarships.webp",
+    "website": "https://www.eduvision.edu.pk/scholarships/karachi-shipyard-engineering-ms-scholarships-scholar-258",
+    "title": "Karachi Shipyard Engineering MS Scholarships",
+    "levels": "Masters",
+    "fields": "Engineering & IT",
+    "type": "Local",
+    "category": "Merit Based",
+    "area": "All Pakistan",
+    "deadline": "03-09-2023"
+  },
+  {
+    "images": "https://www.eduvision.edu.pk/scholarships/images/thumbs/peef-scholarhsip-sindh-2020.webp",
+    "website": "https://www.eduvision.edu.pk/scholarships/peef-announces-inter-and-bs-scholarship-for-sindh-students-scholar-656",
+    "title": "PEEF announces Inter and BS Scholarship for Sindh Students",
+    "levels": "Inter, Bachelor",
+    "fields": "All Fields",
+    "type": "Local",
+    "category": "Merit & Need Based",
+    "area": "Sindh",
+    "deadline": "15-09-2023"
+  },
+  {
+    "images": "https://www.eduvision.edu.pk/scholarships/images/thumbs/us-fulbright-scholarship-2024.webp",
+    "website": "https://www.eduvision.edu.pk/scholarships/fulbright-scholar-program-scholar-16",
+    "title": "Fulbright Scholar program",
+    "levels": "PhD",
+    "fields": "All Fields",
+    "type": "International",
+    "category": "Merit Based",
+    "area": "All Pakistan",
+    "deadline": "20-09-2023"
+  },
+  {
+    "images": "https://www.eduvision.edu.pk/scholarships/images/thumbs/worker-welfare-board-kp.webp",
+    "website": "https://www.eduvision.edu.pk/scholarships/kp-worker-welfare-fund-scholarship-scholar-685",
+    "title": "KP Worker Welfare Fund Scholarship",
+    "levels": "Inter, Bachelor, MS/MPhil",
+    "fields": "All Fields",
+    "type": "Local",
+    "category": "Merit & Need Based",
+    "area": "Khyber Pukhtonkhwa",
+    "deadline": "31-03-2024"
+  },
+  {
+    "images": "https://www.eduvision.edu.pk/scholarships/images/thumbs/scotland-pakistan-scholarship-2023.webp",
+    "website": "https://www.eduvision.edu.pk/scholarships/scotland-pakistan-undergraduate-scottish-scholarship-scholar-582",
+    "title": "Scotland Pakistan Undergraduate Scottish Scholarship",
+    "levels": "Bachelor",
+    "fields": "Medical, Engineering & IT, Natural Sciences, Social Sciences, Agriculture",
+    "type": "Merit & Need Based",
+    "category": "Local",
+    "area": "All Pakistan",
+    "deadline": "15-09-2023"
   }
 ]
