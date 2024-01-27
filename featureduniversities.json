@@ -1,44 +1,42 @@
-
-
 [
     {
         "image": "https://seeklogo.com/images/U/university-of-management-and-technology-logo-41C13AC2B5-seeklogo.com.png",
         "name": "UMT",
-        "link": ""
+        "link": "https://www.umt.edu.pk/"
     },
     {
         "image": "https://upload.wikimedia.org/wikipedia/en/4/41/Riphah-Logo.jpg",
         "name": "RIPAH",
-        "link": ""
+        "link": "https://www.riphah.edu.pk/"
     },
     {
         "image": "https://mysuptech.com/assets/img/logo.png",
         "name": "SUPERIOR",
-        "link": ""
+        "link": "https://superior.edu.pk/"
     },
     {
         "image": "https://rahnumai.com/updata/organizations/36/logos/original/36_20200511175543.png",
         "name": "FOUNDATION",
-        "link": ""
+        "link": "https://www.fui.edu.pk/"
     },
     {
         "image": "https://seeklogo.com/images/N/nust-logo-E161A9240F-seeklogo.com.png",
         "name": "NUST",
-        "link": ""
+        "link": "https://nust.edu.pk/"
     },
     {
         "image": "https://seeklogo.com/images/C/comsats-university-islamabad-logo-B7C2E461B5-seeklogo.com.png",
         "name": "COMSATS",
-        "link": ""
+        "link": "http://www.comsats.edu.pk/"
     },
     {
         "image": "https://upload.wikimedia.org/wikipedia/en/e/e4/National_University_of_Computer_and_Emerging_Sciences_logo.png",
         "name": "FAST",
-        "link": ""
+        "link": "https://www.nu.edu.pk/"
     },
     {
         "image": "https://seeklogo.com/images/L/lums-university-logo-C5B5A2F9F9-seeklogo.com.png",
         "name": "LUMS",
-        "link": ""
+        "link": "https://www.lums.edu.pk/"
     }
 ]
