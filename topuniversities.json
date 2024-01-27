@@ -1,43 +1,42 @@
-
 [
     {
         "image": "https://seeklogo.com/images/I/iiu-islamabad-logo-A0687C1762-seeklogo.com.png",
         "name": "Islamic",
-        "link": ""
+        "link": "https://www.iiu.edu.pk/"
     },
     {
         "image": "https://upload.wikimedia.org/wikipedia/en/3/35/Quaid-i-Azam_University_logo.png",
         "name": "Quaid e Azam",
-        "link": ""
+        "link": "https://www.qau.edu.pk/"
     },
     {
         "image": "https://i.pinimg.com/originals/59/e4/74/59e47443259fadca4151fd6273ac0ebd.png",
         "name": "UET",
-        "link": ""
+        "link": "http://www.uet.edu.pk/"
     },
     {
         "image": "https://upload.wikimedia.org/wikipedia/en/8/8e/Ghulam_Ishaq_Khan_Institute_of_Engineering_Sciences_and_Technology_%28insignia%29.png",
         "name": "GIKI",
-        "link": ""
+        "link": "http://www.giki.edu.pk/"
     },
     {
         "image": "https://seeklogo.com/images/N/nust-logo-E161A9240F-seeklogo.com.png",
         "name": "NUST",
-        "link": ""
+        "link": "https://www.nust.edu.pk/"
     },
     {
         "image": "https://seeklogo.com/images/C/comsats-university-islamabad-logo-B7C2E461B5-seeklogo.com.png",
         "name": "COMSATS",
-        "link": ""
+        "link": "https://www.comsats.edu.pk/"
     },
     {
         "image": "https://upload.wikimedia.org/wikipedia/en/e/e4/National_University_of_Computer_and_Emerging_Sciences_logo.png",
         "name": "FAST",
-        "link": ""
+        "link": "https://www.nu.edu.pk/"
     },
     {
         "image": "https://seeklogo.com/images/L/lums-university-logo-C5B5A2F9F9-seeklogo.com.png",
         "name": "LUMS",
-        "link": ""
+        "link": "https://www.lums.edu.pk/"
     }
 ]
