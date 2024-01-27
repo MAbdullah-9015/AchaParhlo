@@ -20,23 +20,23 @@
         "link": "https://www.fui.edu.pk/"
     },
     {
-        "image": "https://seeklogo.com/images/N/nust-logo-E161A9240F-seeklogo.com.png",
-        "name": "NUST",
-        "link": "https://nust.edu.pk/"
+        "image": "https://myu.edu.pk/images/logo-debunking.png",
+        "name": "MY",
+        "link": "https://myu.edu.pk"
     },
     {
-        "image": "https://seeklogo.com/images/C/comsats-university-islamabad-logo-B7C2E461B5-seeklogo.com.png",
-        "name": "COMSATS",
-        "link": "http://www.comsats.edu.pk/"
+        "image": "https://upload.wikimedia.org/wikipedia/en/0/07/GIFT-Logo.jpg",
+        "name": "GIFT",
+        "link": "https://www.gift.edu.pk"
     },
     {
-        "image": "https://upload.wikimedia.org/wikipedia/en/e/e4/National_University_of_Computer_and_Emerging_Sciences_logo.png",
-        "name": "FAST",
-        "link": "https://www.nu.edu.pk/"
+        "image": "https://pbs.twimg.com/profile_images/1175730806486163456/hQSVAdI1_200x200.jpg",
+        "name": "SOHAIL",
+        "link": "https://sohailuniversity.edu.pk"
     },
     {
-        "image": "https://seeklogo.com/images/L/lums-university-logo-C5B5A2F9F9-seeklogo.com.png",
-        "name": "LUMS",
-        "link": "https://www.lums.edu.pk/"
+        "image": "https://www.mul.edu.pk/images/minhaj-university-lahore.png",
+        "name": "MINHAJ",
+        "link": "https://www.mul.edu.pk/english/index.html"
     }
 ]
