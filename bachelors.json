@@ -1,5 +1,145 @@
 [
   {
+        "image": "https://www.eduvision.edu.pk/uploads/logo/2351478879665741.jpg",
+        "name": "Balochistan University Of Engineering & Technology, Khuzdar, BUET admission open",
+        "link": "https://www.eduvision.edu.pk/admissions/balochistan-university-of-engineering-technology-khuzdar-admissions-bachelor-level-8?date=14-02-2024",
+        "discipline": "Computer Sciences & Information Technology, Education, Engineering",
+        "lastdate": "14-02-2024"
+    },
+    {
+        "image": "https://www.eduvision.edu.pk/uploads/logo/31328707843978.gif",
+        "name": "Government College University Lahore, Lahore, GCU admission open",
+        "link": "https://www.eduvision.edu.pk/admissions/government-college-university-lahore-lahore-admissions-bachelor-level-12?date=15-02-2024",
+        "discipline": "Biological & Life Sciences, Computer Sciences & Information Technology, Earth & Environmental Sciences, Languages, Physics & Numerical Sciences, Social Sciences",
+        "lastdate": "15-02-2024"
+    },
+    {
+        "image": "https://www.eduvision.edu.pk/images_post/nust.jpg",
+        "name": "Government College University Lahore, Kala Shah Kaku Campus, Kala Shah Kaku, GCU admission open",
+        "link": "https://www.eduvision.edu.pk/admissions/government-college-university-lahore-kala-shah-kaku-campus-kala-shah-kaku-admissions-bachelor-level-1669201401?date=15-02-2024",
+        "discipline": "Art & Design, Chemical & Material Sciences, Computer Sciences & Information Technology, Education, Management Sciences, Physics & Numerical Sciences, Religious Studies, Social Sciences",
+        "lastdate": "15-02-2024"
+    },
+    {
+        "image": "https://www.eduvision.edu.pk/images_post/nust.jpg",
+        "name": "Sacon Institute Of Health Sciences, Lahore, SIHS admission open",
+        "link": "https://www.eduvision.edu.pk/admissions/sacon-institute-of-health-sciences-lahore-admissions-bachelor-level-1690288053?date=15-02-2024",
+        "discipline": "Medical Sciences",
+        "lastdate": "15-02-2024"
+    },
+    {
+        "image": "https://www.eduvision.edu.pk/uploads/logo/2051328588120812.gif",
+        "name": "Allama Iqbal Open University, Islamabad, AIOU admission open",
+        "link": "https://www.eduvision.edu.pk/admissions/allama-iqbal-open-university-islamabad-admissions-bachelor-level-5?date=15-02-2024",
+        "discipline": "Biological & Life Sciences, Chemical & Material Sciences, Computer Sciences & Information Technology, Earth & Environmental Sciences, Physics & Numerical Sciences, Training",
+        "lastdate": "15-02-2024"
+    },
+    {
+        "image": "https://www.eduvision.edu.pk/uploads/logo/1021482588416765.jpg",
+        "name": "Mohi-ud-din Islamic University, Mir Pur (ajk), MIU admission open",
+        "link": "https://www.eduvision.edu.pk/admissions/mohi-ud-din-islamic-university-mir-pur-ajk-admissions-bachelor-level-62?date=15-02-2024",
+        "discipline": "Biological & Life Sciences, Chemical & Material Sciences, Commerce / Finance & Accounting, Computer Sciences & Information Technology, Education, Languages, Management Sciences, Physics & Numerical Sciences, Religious Studies, Social Sciences",
+        "lastdate": "15-02-2024"
+    },
+    {
+        "image": "https://www.eduvision.edu.pk/images_post/nust.jpg",
+        "name": "Jinnah Postgraduate Medical Centre/hospital, Karachi, JPMC admission open",
+        "link": "https://www.eduvision.edu.pk/admissions/jinnah-postgraduate-medical-centre-hospital-karachi-admissions-bachelor-level-670?date=15-02-2024",
+        "discipline": "Medical Sciences",
+        "lastdate": "15-02-2024"
+    },
+    {
+        "image": "https://www.eduvision.edu.pk/images_post/nust.jpg",
+        "name": "Blessing School Of Paramedics, Karachi, BSP admission open",
+        "link": "https://www.eduvision.edu.pk/admissions/blessing-school-of-paramedics-karachi-admissions-bachelor-level-1425913075?date=17-02-2024",
+        "discipline": "Medical Sciences",
+        "lastdate": "17-02-2024"
+    },
+    {
+        "image": "https://www.eduvision.edu.pk/images_post/nust.jpg",
+        "name": "Blessing Institute Of Medical Sciences, Sukkur, BIMS admission open",
+        "link": "https://www.eduvision.edu.pk/admissions/blessing-institute-of-medical-sciences-sukkur-admissions-bachelor-level-1604920948?date=17-02-2024",
+        "discipline": "Medical Sciences",
+        "lastdate": "17-02-2024"
+    },
+    {
+        "image": "https://www.eduvision.edu.pk/uploads/logo/uchenab.jpg",
+        "name": "The University Of Chenab, Gujrat, UCHENAB admission open",
+        "link": "https://www.eduvision.edu.pk/admissions/the-university-of-chenab-gujrat-admissions-bachelor-level-1664366774?date=17-02-2024",
+        "discipline": "Commerce / Finance & Accounting, Computer Sciences & Information Technology, Languages, Management Sciences, Medical Sciences, Physics & Numerical Sciences, Social Sciences, Technical",
+        "lastdate": "17-02-2024"
+    },
+    {
+        "image": "https://www.eduvision.edu.pk/uploads/logo/1351328708809714.jpg",
+        "name": "Gift University, Gujranwala, GIFT admission open",
+        "link": "https://www.eduvision.edu.pk/admissions/gift-university-gujranwala-admissions-bachelor-level-3152?date=17-02-2024",
+        "discipline": "Art & Design, Commerce / Finance & Accounting, Computer Sciences & Information Technology, Education, Engineering, Languages, Management Sciences, Media Studies, Medical Sciences, Physics & Numerical Sciences, Religious Studies, Social Sciences",
+        "lastdate": "17-02-2024"
+    },
+    {
+        "image": "https://www.eduvision.edu.pk/uploads/logo/781328623880663.jpg",
+        "name": "Abasyn University, Peshawar, AU admission open",
+        "link": "https://www.eduvision.edu.pk/admissions/abasyn-university-peshawar-admissions-bachelor-level-4138?date=17-02-2024",
+        "discipline": "Commerce / Finance & Accounting, Computer Sciences & Information Technology, Management Sciences, Medical Sciences, Social Sciences, Technical",
+        "lastdate": "17-02-2024"
+    },
+    {
+        "image": "https://www.eduvision.edu.pk/images_post/nust.jpg",
+        "name": "National Institute Of Health And Management Sciences, Peshawar, NIHMS admission open",
+        "link": "https://www.eduvision.edu.pk/admissions/national-institute-of-health-and-management-sciences-peshawar-admissions-bachelor-level-1357665073?date=18-02-2024",
+        "discipline": "Medical Sciences",
+        "lastdate": "18-02-2024"
+    },
+    {
+        "image": "https://www.eduvision.edu.pk/images_post/nust.jpg",
+        "name": "Kohsar University, Murree, KU admission open",
+        "link": "https://www.eduvision.edu.pk/admissions/kohsar-university-murree-admissions-bachelor-level-1613568403?date=19-02-2024",
+        "discipline": "Biological & Life Sciences, Languages, Physics & Numerical Sciences, Social Sciences",
+        "lastdate": "19-02-2024"
+    },
+    {
+        "image": "https://www.eduvision.edu.pk/uploads/logo/1791478915850636.jpg",
+        "name": "Shifa Tameer-e-millat University, Islamabad, STMU admission open",
+        "link": "https://www.eduvision.edu.pk/admissions/shifa-tameer-e-millat-university-islamabad-admissions-bachelor-level-1360515204?date=20-02-2024",
+        "discipline": "Religious Studies",
+        "lastdate": "20-02-2024"
+    },
+    {
+        "image": "https://www.eduvision.edu.pk/uploads/logo/661478915819951.jpg",
+        "name": "Preston University [isb], Islamabad, PRESTON admission open",
+        "link": "https://www.eduvision.edu.pk/admissions/preston-university-isb-islamabad-admissions-bachelor-level-640?date=23-02-2024",
+        "discipline": "Biological & Life Sciences, Chemical & Material Sciences, Computer Sciences & Information Technology, Management Sciences, Physics & Numerical Sciences, Social Sciences",
+        "lastdate": "23-02-2024"
+    },
+    {
+        "image": "https://www.eduvision.edu.pk/uploads/logo/11329913841462.jpg",
+        "name": "Akhtar Saeed Medical And Dental College, Lahore, AMDC admission open",
+        "link": "https://www.eduvision.edu.pk/admissions/akhtar-saeed-medical-and-dental-college-lahore-admissions-bachelor-level-1310919358?date=24-02-2024",
+        "discipline": "Medical Sciences",
+        "lastdate": "24-02-2024"
+    },
+    {
+        "image": "https://www.eduvision.edu.pk/images_post/nust.jpg",
+        "name": "Barani Institute Of Management Sciences, Rawalpindi, BIMS admission open",
+        "link": "https://www.eduvision.edu.pk/admissions/barani-institute-of-management-sciences-rawalpindi-admissions-bachelor-level-1409238574?date=24-02-2024",
+        "discipline": "Commerce / Finance & Accounting, Computer Sciences & Information Technology, Earth & Environmental Sciences, Management Sciences, Physics & Numerical Sciences, Social Sciences",
+        "lastdate": "24-02-2024"
+    },
+    {
+        "image": "https://www.eduvision.edu.pk/images_post/nust.jpg",
+        "name": "University Of Kotli, Kotli, UOK admission open",
+        "link": "https://www.eduvision.edu.pk/admissions/university-of-kotli-kotli-admissions-bachelor-level-1542134461?date=24-02-2024",
+        "discipline": "Biological & Life Sciences, Chemical & Material Sciences, Commerce / Finance & Accounting, Computer Sciences & Information Technology, Education, Languages, Management Sciences, Physics & Numerical Sciences, Religious Studies, Social Sciences",
+        "lastdate": "24-02-2024"
+    },
+    {
+        "image": "https://www.eduvision.edu.pk/uploads/logo/211328969392874.jpg",
+        "name": "The Institute Of Management Sciences, Lahore, PAK-AIMS admission open",
+        "link": "https://www.eduvision.edu.pk/admissions/the-institute-of-management-sciences-lahore-admissions-bachelor-level-2412?date=24-02-2024",
+        "discipline": "Commerce / Finance & Accounting, Computer Sciences & Information Technology, Management Sciences",
+        "lastdate": "24-02-2024"
+    },
+  {
     "image": "https://www.eduvision.edu.pk/uploads/logo/1831482593161901.jpg",
     "name": "The Islamia University Of Bahawalpur[sub Campus], Bahawal Nagar, IUB admission open",
     "link": "https://www.eduvision.edu.pk/admissions/the-islamia-university-of-bahawalpur-sub-campus-bahawal-nagar-admissions-bachelor-level-1313150944?date=25-12-2023",
