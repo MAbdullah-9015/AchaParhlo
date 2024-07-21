@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What was the primary objective of the Pakistan Movement?",
+    "options": [
+      "To establish a federal government in India",
+      "To secure a separate homeland for Muslims",
+      "To promote economic growth in British India",
+      "To gain independence from the British Empire"
+    ],
+    "correctOption": "To secure a separate homeland for Muslims"
+  },
+  {
+    "question": "Which historical event led to the creation of the All India Muslim League?",
+    "options": [
+      "The partition of Bengal in 1905",
+      "The Khilafat Movement",
+      "The Simla Deputation of 1906",
+      "The Lahore Resolution of 1940"
+    ],
+    "correctOption": "The Simla Deputation of 1906"
+  },
+  {
+    "question": "Who was the founder of the All India Muslim League?",
+    "options": [
+      "Mohammad Ali Jinnah",
+      "Sir Syed Ahmed Khan",
+      "Aga Khan",
+      "Allama Iqbal"
+    ],
+    "correctOption": "Aga Khan"
+  }
+]
