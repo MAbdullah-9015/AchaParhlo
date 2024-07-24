@@ -1,1 +1,473 @@
+[
+  {
+    "question": "What is the value of 2 + 2 * 2?",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "10"
+    ],
+    "correctOption": "6"
+  },
+  {
+    "question": "If \( x = 3 \) and \( y = 4 \), what is \( x^2 + y^2 \)?",
+    "options": [
+      "7",
+      "12",
+      "25",
+      "13"
+    ],
+    "correctOption": "25"
+  },
+  {
+    "question": "What is the value of \( \frac{2}{3} + \frac{3}{4} \)?",
+    "options": [
+      "1",
+      "1.25",
+      "1.5",
+      "1.75"
+    ],
+    "correctOption": "1.5"
+  },
+  {
+    "question": "If \( a = 5 \) and \( b = 7 \), what is \( \frac{a+b}{a-b} \)?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctOption": "6"
+  },
+  {
+    "question": "What is the square root of 144?",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "correctOption": "12"
+  },
+  {
+    "question": "If a car travels 60 miles in 1.5 hours, what is its speed in miles per hour?",
+    "options": [
+      "30",
+      "40",
+      "50",
+      "60"
+    ],
+    "correctOption": "40"
+  },
+  {
+    "question": "If \( x - 3 = 5 \), what is \( x \)?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctOption": "8"
+  },
+  {
+    "question": "What is 25% of 200?",
+    "options": [
+      "25",
+      "50",
+      "75",
+      "100"
+    ],
+    "correctOption": "50"
+  },
+  {
+    "question": "If \( y = 2x \) and \( x = 3 \), what is \( y \)?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctOption": "6"
+  },
+  {
+    "question": "What is the next number in the sequence: 2, 4, 8, 16, ...?",
+    "options": [
+      "18",
+      "20",
+      "24",
+      "32"
+    ],
+    "correctOption": "32"
+  },
+  {
+    "question": "If a rectangle has a length of 10 units and a width of 5 units, what is its perimeter?",
+    "options": [
+      "15 units",
+      "20 units",
+      "25 units",
+      "30 units"
+    ],
+    "correctOption": "30 units"
+  },
+  {
+    "question": "What is 15% of 300?",
+    "options": [
+      "30",
+      "35",
+      "40",
+      "45"
+    ],
+    "correctOption": "45"
+  },
+  {
+    "question": "If \( 5x = 20 \), what is \( x \)?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctOption": "4"
+  },
+  {
+    "question": "What is the product of 7 and 8?",
+    "options": [
+      "48",
+      "54",
+      "56",
+      "64"
+    ],
+    "correctOption": "56"
+  },
+  {
+    "question": "What is the value of \( 2^3 \)?",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "10"
+    ],
+    "correctOption": "8"
+  },
+  {
+    "question": "If \( 3x = 12 \), what is \( x \)?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctOption": "4"
+  },
+  {
+    "question": "What is the area of a circle with a radius of 3 units? (Use π = 3.14)",
+    "options": [
+      "18.84",
+      "28.26",
+      "31.42",
+      "37.68"
+    ],
+    "correctOption": "28.26"
+  },
+  {
+    "question": "If \( y = 5x + 2 \) and \( x = 1 \), what is \( y \)?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctOption": "7"
+  },
+  {
+    "question": "What is the value of \( \frac{16}{4} + 3 \)?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctOption": "7"
+  },
+  {
+    "question": "If \( 4x = 24 \), what is \( x \)?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctOption": "6"
+  },
+  {
+    "question": "What is the cube root of 27?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctOption": "3"
+  },
+  {
+    "question": "If \( x = 5 \) and \( y = 3 \), what is \( x - y \)?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctOption": "2"
+  },
+  {
+    "question": "What is 75% of 80?",
+    "options": [
+      "40",
+      "50",
+      "60",
+      "70"
+    ],
+    "correctOption": "60"
+  },
+  {
+    "question": "If \( y = x^2 \) and \( x = 4 \), what is \( y \)?",
+    "options": [
+      "8",
+      "12",
+      "16",
+      "20"
+    ],
+    "correctOption": "16"
+  },
+  {
+    "question": "What is the value of \( 7 + 3 * 2 \)?",
+    "options": [
+      "10",
+      "13",
+      "14",
+      "17"
+    ],
+    "correctOption": "13"
+  },
+  {
+    "question": "If \( 9x = 45 \), what is \( x \)?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctOption": "5"
+  },
+  {
+    "question": "What is the value of \( 5^2 \)?",
+    "options": [
+      "10",
+      "15",
+      "20",
+      "25"
+    ],
+    "correctOption": "25"
+  },
+  {
+    "question": "If \( y = 3x \) and \( x = 5 \), what is \( y \)?",
+    "options": [
+      "10",
+      "15",
+      "20",
+      "25"
+    ],
+    "correctOption": "15"
+  },
+  {
+    "question": "What is 50% of 150?",
+    "options": [
+      "50",
+      "60",
+      "70",
+      "75"
+    ],
+    "correctOption": "75"
+  },
+  {
+    "question": "If \( x = 7 \) and \( y = 2 \), what is \( x \times y \)?",
+    "options": [
+      "10",
+      "12",
+      "14",
+      "16"
+    ],
+    "correctOption": "14"
+  },
+  {
+    "question": "What is the value of \( 6^2 \)?",
+    "options": [
+      "12",
+      "24",
+      "36",
+      "48"
+    ],
+    "correctOption": "36"
+  },
+  {
+    "question": "If \( 12x = 36 \), what is \( x \)?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctOption": "3"
+  },
+  {
+    "question": "What is the area of a square with a side length of 4 units?",
+    "options": [
+      "8",
+      "12",
+      "16",
+      "20"
+    ],
+    "correctOption": "16"
+  },
+  {
+    "question": "If \( x + y = 10 \) and \( x = 4 \), what is \( y \)?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctOption": "6"
+  },
+  {
+    "question": "What is the value of \( \frac{20}{5} + 3 \)?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctOption": "7"
+  },
+  {
+    "question": "If \( x = 8 \) and \( y = 3 \), what is \( x \div y \)?",
+    "options": [
+      "2",
+      "2.5",
+      "2.67",
+      "3"
+    ],
+    "correctOption": "2.67"
+  },
+  {
+    "question": "What is the value of \( 3^3 \)?",
+    "options": [
+      "9",
+      "18",
+      "27",
+      "36"
+    ],
+    "correctOption": "27"
+  },
+  {
+    "question": "If \( 15x = 60 \), what is \( x \)?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctOption": "4"
+  },
+  {
+    "question": "What is the perimeter of a triangle with side lengths of 3, 4, and 5 units?",
+    "options": [
+      "10 units",
+      "12 units",
+      "14 units",
+      "16 units"
+    ],
+    "correctOption": "12 units"
+  },
+  {
+    "question": "What is 30% of 90?",
+    "options": [
+      "20",
+      "25",
+      "27",
+      "30"
+    ],
+    "correctOption": "27"
+  },
+  {
+    "question": "If \( x = 9 \) and \( y = 3 \), what is \( x - y \)?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctOption": "6"
+  },
+  {
+    "question": "What is the area of a rectangle with a length of 7 units and a width of 3 units?",
+    "options": [
+      "10 units",
+      "15 units",
+      "21 units",
+      "24 units"
+    ],
+    "correctOption": "21 units"
+  },
+  {
+    "question": "If \( y = 4x \) and \( x = 6 \), what is \( y \)?",
+    "options": [
+      "18",
+      "20",
+      "24",
+      "28"
+    ],
+    "correctOption": "24"
+  },
+  {
+    "question": "What is the value of \( \frac{24}{6} + 2 \)?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctOption": "6"
+  },
+  {
+    "question": "If \( 2x = 18 \), what is \( x \)?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "correctOption": "9"
+  },
+  {
+    "question": "What is the square of 5?",
+    "options": [
+      "20",
+      "25",
+      "30",
+      "35"
+    ],
+    "correctOption": "25"
+  },
+  {
+    "question": "If \( x = 3 \) and \( y = 2 \), what is \( x^2 - y^2 \)?",
+    "options": [
+      "1",
+      "5",
+      "7",
+      "9"
+    ],
+    "correctOption": "5"
+  }
+]
 
