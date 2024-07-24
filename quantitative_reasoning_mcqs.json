@@ -33,9 +33,9 @@
     "question": "If a = 5 and b = 7, what is (a + b) / (a - b)?",
     "options": [
       "1",
-      "2",
-      "3",
-      "4"
+      "6",
+      "-6",
+      "-4"
     ],
     "correctOption": "-6"
   },
