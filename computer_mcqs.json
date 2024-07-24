@@ -1,1 +1,743 @@
+[
+  {
+    "question": "What does CPU stand for?",
+    "options": [
+      "Central Processing Unit",
+      "Computer Processing Unit",
+      "Centralized Processing Unit",
+      "Computer Program Unit"
+    ],
+    "correctOption": "Central Processing Unit"
+  },
+  {
+    "question": "Which of the following is an example of an operating system?",
+    "options": [
+      "Windows",
+      "Microsoft Office",
+      "Adobe Photoshop",
+      "Google Chrome"
+    ],
+    "correctOption": "Windows"
+  },
+  {
+    "question": "What is the primary function of the operating system?",
+    "options": [
+      "Manage hardware and software resources",
+      "Create documents",
+      "Browse the internet",
+      "Compile code"
+    ],
+    "correctOption": "Manage hardware and software resources"
+  },
+  {
+    "question": "Which programming language is known for its use in web development?",
+    "options": [
+      "JavaScript",
+      "Python",
+      "C++",
+      "Java"
+    ],
+    "correctOption": "JavaScript"
+  },
+  {
+    "question": "What does HTML stand for?",
+    "options": [
+      "HyperText Markup Language",
+      "HyperText Management Language",
+      "HighText Markup Language",
+      "HyperTransfer Markup Language"
+    ],
+    "correctOption": "HyperText Markup Language"
+  },
+  {
+    "question": "Which data structure operates on a Last In First Out (LIFO) principle?",
+    "options": [
+      "Stack",
+      "Queue",
+      "Array",
+      "Linked List"
+    ],
+    "correctOption": "Stack"
+  },
+  {
+    "question": "What is the main purpose of a database management system (DBMS)?",
+    "options": [
+      "Store and manage data",
+      "Execute programs",
+      "Manage network traffic",
+      "Provide user interfaces"
+    ],
+    "correctOption": "Store and manage data"
+  },
+  {
+    "question": "Which of the following is a version control system?",
+    "options": [
+      "Git",
+      "MySQL",
+      "Apache",
+      "Nginx"
+    ],
+    "correctOption": "Git"
+  },
+  {
+    "question": "What does the acronym URL stand for?",
+    "options": [
+      "Uniform Resource Locator",
+      "Universal Resource Locator",
+      "Uniform Resource Link",
+      "Universal Resource Link"
+    ],
+    "correctOption": "Uniform Resource Locator"
+  },
+  {
+    "question": "Which of the following is a non-volatile memory?",
+    "options": [
+      "SSD",
+      "RAM",
+      "Cache",
+      "Register"
+    ],
+    "correctOption": "SSD"
+  },
+  {
+    "question": "What is the main purpose of an algorithm?",
+    "options": [
+      "Solve a problem",
+      "Store data",
+      "Process images",
+      "Design user interfaces"
+    ],
+    "correctOption": "Solve a problem"
+  },
+  {
+    "question": "Which protocol is used to securely transfer data over the internet?",
+    "options": [
+      "HTTPS",
+      "HTTP",
+      "FTP",
+      "SMTP"
+    ],
+    "correctOption": "HTTPS"
+  },
+  {
+    "question": "Which programming paradigm focuses on objects and classes?",
+    "options": [
+      "Object-Oriented Programming",
+      "Functional Programming",
+      "Procedural Programming",
+      "Declarative Programming"
+    ],
+    "correctOption": "Object-Oriented Programming"
+  },
+  {
+    "question": "What does API stand for?",
+    "options": [
+      "Application Programming Interface",
+      "Application Process Interface",
+      "Advanced Programming Interface",
+      "Automatic Programming Interface"
+    ],
+    "correctOption": "Application Programming Interface"
+  },
+  {
+    "question": "What is the purpose of the 'for' loop in programming?",
+    "options": [
+      "Iterate over a sequence",
+      "Define a function",
+      "Create a variable",
+      "Handle errors"
+    ],
+    "correctOption": "Iterate over a sequence"
+  },
+  {
+    "question": "What is a 'bug' in computer science?",
+    "options": [
+      "An error in the code",
+      "A type of software",
+      "A system update",
+      "A programming language"
+    ],
+    "correctOption": "An error in the code"
+  },
+  {
+    "question": "What does SQL stand for?",
+    "options": [
+      "Structured Query Language",
+      "Standard Query Language",
+      "Simple Query Language",
+      "Sequential Query Language"
+    ],
+    "correctOption": "Structured Query Language"
+  },
+  {
+    "question": "Which of the following is an example of a high-level programming language?",
+    "options": [
+      "Python",
+      "Assembly",
+      "Machine Code",
+      "Binary"
+    ],
+    "correctOption": "Python"
+  },
+  {
+    "question": "What is a compiler used for?",
+    "options": [
+      "Translate code into machine language",
+      "Execute code directly",
+      "Debug code",
+      "Store code"
+    ],
+    "correctOption": "Translate code into machine language"
+  },
+  {
+    "question": "Which of the following is used to manage the hardware of a computer system?",
+    "options": [
+      "Device drivers",
+      "Web browsers",
+      "Text editors",
+      "Integrated Development Environments"
+    ],
+    "correctOption": "Device drivers"
+  },
+  {
+    "question": "What is 'cloud computing'?",
+    "options": [
+      "Delivering computing services over the internet",
+      "Storing data on a local server",
+      "Programming in the cloud",
+      "Creating cloud storage solutions"
+    ],
+    "correctOption": "Delivering computing services over the internet"
+  },
+  {
+    "question": "Which of the following is a common use of an 'if' statement in programming?",
+    "options": [
+      "Conditional execution",
+      "Looping",
+      "Variable declaration",
+      "Error handling"
+    ],
+    "correctOption": "Conditional execution"
+  },
+  {
+    "question": "What does the 'HTTP' protocol stand for?",
+    "options": [
+      "HyperText Transfer Protocol",
+      "HyperText Transmission Protocol",
+      "Hyper Transfer Text Protocol",
+      "Hyperlink Text Protocol"
+    ],
+    "correctOption": "HyperText Transfer Protocol"
+  },
+  {
+    "question": "Which of the following is a type of software development methodology?",
+    "options": [
+      "Agile",
+      "SQL",
+      "HTML",
+      "JavaScript"
+    ],
+    "correctOption": "Agile"
+  },
+  {
+    "question": "What does the acronym 'DNS' stand for?",
+    "options": [
+      "Domain Name System",
+      "Domain Network System",
+      "Digital Name Service",
+      "Dynamic Network Server"
+    ],
+    "correctOption": "Domain Name System"
+  },
+  {
+    "question": "What is the purpose of the 'return' statement in programming?",
+    "options": [
+      "End a function and return a value",
+      "Print a message",
+      "Define a function",
+      "Handle exceptions"
+    ],
+    "correctOption": "End a function and return a value"
+  },
+  {
+    "question": "What is an 'array' in programming?",
+    "options": [
+      "A collection of elements",
+      "A single variable",
+      "A type of loop",
+      "A programming function"
+    ],
+    "correctOption": "A collection of elements"
+  },
+  {
+    "question": "What is 'data encapsulation' in object-oriented programming?",
+    "options": [
+      "Bundling data with methods",
+      "Separating data into different files",
+      "Creating multiple objects",
+      "Defining functions within a class"
+    ],
+    "correctOption": "Bundling data with methods"
+  },
+  {
+    "question": "Which of the following is a type of sorting algorithm?",
+    "options": [
+      "Merge Sort",
+      "Binary Search",
+      "Hash Table",
+      "Linked List"
+    ],
+    "correctOption": "Merge Sort"
+  },
+  {
+    "question": "What is the purpose of 'debugging' in programming?",
+    "options": [
+      "Finding and fixing errors",
+      "Writing code",
+      "Compiling code",
+      "Designing algorithms"
+    ],
+    "correctOption": "Finding and fixing errors"
+  },
+  {
+    "question": "What is 'Big O notation' used for?",
+    "options": [
+      "Analyzing algorithm efficiency",
+      "Designing databases",
+      "Writing code",
+      "Creating user interfaces"
+    ],
+    "correctOption": "Analyzing algorithm efficiency"
+  },
+  {
+    "question": "Which of the following is a type of computer network topology?",
+    "options": [
+      "Star",
+      "Binary",
+      "Heap",
+      "Queue"
+    ],
+    "correctOption": "Star"
+  },
+  {
+    "question": "What does 'HTTP' stand for in a URL?",
+    "options": [
+      "Hypertext Transfer Protocol",
+      "Hypertext Transmission Protocol",
+      "Hypertext Transfer Program",
+      "Hypertext Tracking Protocol"
+    ],
+    "correctOption": "Hypertext Transfer Protocol"
+  },
+  {
+    "question": "What is a 'function' in programming?",
+    "options": [
+      "A block of code that performs a specific task",
+      "A variable that stores data",
+      "A type of loop",
+      "A data structure"
+    ],
+    "correctOption": "A block of code that performs a specific task"
+  },
+  {
+    "question": "Which of the following is a type of loop in programming?",
+    "options": [
+      "For loop",
+      "Data loop",
+      "Function loop",
+      "Variable loop"
+    ],
+    "correctOption": "For loop"
+  },
+  {
+    "question": "What is 'polymorphism' in object-oriented programming?",
+    "options": [
+      "The ability to present the same interface in different forms",
+      "The ability to inherit properties from a parent class",
+      "The ability to store data in multiple formats",
+      "The ability to execute code simultaneously"
+    ],
+    "correctOption": "The ability to present the same interface in different forms"
+  },
+  {
+    "question": "What is the primary function of 'RAM' in a computer?",
+    "options": [
+      "Store data temporarily for quick access",
+      "Store data permanently",
+      "Process data",
+      "Manage network connections"
+    ],
+    "correctOption": "Store data temporarily for quick access"
+  },
+  {
+    "question": "What does the acronym 'GUI' stand for?",
+    "options": [
+      "Graphical User Interface",
+      "General User Interface",
+      "Graphical Universal Interface",
+      "General Universal Interface"
+    ],
+    "correctOption": "Graphical User Interface"
+  },
+  {
+    "question": "What is a 'pointer' in programming?",
+    "options": [
+      "A variable that stores the address of another variable",
+      "A function that returns a value",
+      "A data structure for storing multiple values",
+      "A type of loop control statement"
+    ],
+    "correctOption": "A variable that stores the address of another variable"
+  },
+  {
+    "question": "Which of the following is a type of database relationship?",
+    "options": [
+      "One-to-Many",
+      "One-to-One",
+      "Many-to-Many",
+      "All of the above"
+    ],
+    "correctOption": "All of the above"
+  },
+  {
+    "question": "What is 'object-oriented programming'?",
+    "options": [
+      "A programming paradigm based on objects and classes",
+      "A type of database management",
+      "A method for handling errors",
+      "A way to organize files on a disk"
+    ],
+    "correctOption": "A programming paradigm based on objects and classes"
+  },
+  {
+    "question": "What is a 'class' in object-oriented programming?",
+    "options": [
+      "A blueprint for creating objects",
+      "A function that returns data",
+      "A type of loop",
+      "A variable type"
+    ],
+    "correctOption": "A blueprint for creating objects"
+  },
+  {
+    "question": "What is the purpose of 'unit testing'?",
+    "options": [
+      "Test individual components of code for correctness",
+      "Test the entire application",
+      "Check for security vulnerabilities",
+      "Monitor system performance"
+    ],
+    "correctOption": "Test individual components of code for correctness"
+  },
+  {
+    "question": "What is the 'stack' data structure used for?",
+    "options": [
+      "Managing function calls",
+      "Sorting data",
+      "Storing key-value pairs",
+      "Searching for elements"
+    ],
+    "correctOption": "Managing function calls"
+  },
+  {
+    "question": "Which of the following is a type of software development lifecycle model?",
+    "options": [
+      "Waterfall model",
+      "SQL model",
+      "HTML model",
+      "XML model"
+    ],
+    "correctOption": "Waterfall model"
+  },
+  {
+    "question": "What is 'recursion' in programming?",
+    "options": [
+      "A function that calls itself",
+      "A loop that iterates over data",
+      "A method for handling exceptions",
+      "A type of data structure"
+    ],
+    "correctOption": "A function that calls itself"
+  },
+  {
+    "question": "What does 'HTTP' stand for in web development?",
+    "options": [
+      "Hypertext Transfer Protocol",
+      "Hypertext Transmission Protocol",
+      "High Transfer Text Protocol",
+      "Hyperlink Text Protocol"
+    ],
+    "correctOption": "Hypertext Transfer Protocol"
+  },
+  {
+    "question": "What is a 'thread' in computer science?",
+    "options": [
+      "A unit of execution within a process",
+      "A type of data structure",
+      "A system for managing files",
+      "A method for encrypting data"
+    ],
+    "correctOption": "A unit of execution within a process"
+  },
+  {
+    "question": "Which of the following is a type of machine learning algorithm?",
+    "options": [
+      "Neural Network",
+      "SQL Query",
+      "HTML Document",
+      "Binary Tree"
+    ],
+    "correctOption": "Neural Network"
+  },
+  {
+    "question": "What is 'version control' used for?",
+    "options": [
+      "Tracking changes to code",
+      "Managing network traffic",
+      "Designing user interfaces",
+      "Handling data encryption"
+    ],
+    "correctOption": "Tracking changes to code"
+  },
+  {
+    "question": "What is a 'loop' in programming?",
+    "options": [
+      "A control structure that repeats a block of code",
+      "A data structure for storing values",
+      "A method for handling errors",
+      "A type of function"
+    ],
+    "correctOption": "A control structure that repeats a block of code"
+  },
+  {
+    "question": "What is 'inheritance' in object-oriented programming?",
+    "options": [
+      "A mechanism where one class derives properties from another",
+      "A method for managing memory",
+      "A way to store data",
+      "A type of function"
+    ],
+    "correctOption": "A mechanism where one class derives properties from another"
+  },
+  {
+    "question": "What is 'polymorphism' in object-oriented programming?",
+    "options": [
+      "The ability of different classes to be treated as instances of the same class through a common interface",
+      "The ability to store multiple types of data in a single variable",
+      "The ability to execute multiple threads simultaneously",
+      "The ability to encrypt data"
+    ],
+    "correctOption": "The ability of different classes to be treated as instances of the same class through a common interface"
+  },
+  {
+    "question": "Which of the following is a type of database?",
+    "options": [
+      "Relational Database",
+      "Spreadsheet Database",
+      "File Database",
+      "Document Database"
+    ],
+    "correctOption": "Relational Database"
+  },
+  {
+    "question": "What does 'IDE' stand for?",
+    "options": [
+      "Integrated Development Environment",
+      "Integrated Design Environment",
+      "Internet Development Environment",
+      "Internal Development Environment"
+    ],
+    "correctOption": "Integrated Development Environment"
+  },
+  {
+    "question": "Which programming language is known for its use in scientific computing and data analysis?",
+    "options": [
+      "Python",
+      "JavaScript",
+      "C#",
+      "Swift"
+    ],
+    "correctOption": "Python"
+  },
+  {
+    "question": "What is 'data abstraction' in programming?",
+    "options": [
+      "The concept of hiding complex implementation details and showing only the necessary features",
+      "The ability to store data in multiple formats",
+      "The method of organizing data in a database",
+      "The process of converting data to binary format"
+    ],
+    "correctOption": "The concept of hiding complex implementation details and showing only the necessary features"
+  },
+  {
+    "question": "Which of the following is an example of a file system?",
+    "options": [
+      "NTFS",
+      "HTTP",
+      "FTP",
+      "SSH"
+    ],
+    "correctOption": "NTFS"
+  },
+  {
+    "question": "What does 'SQL' stand for?",
+    "options": [
+      "Structured Query Language",
+      "Simple Query Language",
+      "Standard Query Language",
+      "Sequential Query Language"
+    ],
+    "correctOption": "Structured Query Language"
+  },
+  {
+    "question": "What is 'networking' in computer science?",
+    "options": [
+      "The practice of connecting multiple computers and devices to share resources",
+      "The process of coding algorithms",
+      "The management of software updates",
+      "The design of user interfaces"
+    ],
+    "correctOption": "The practice of connecting multiple computers and devices to share resources"
+  },
+  {
+    "question": "What is 'encryption' used for?",
+    "options": [
+      "Protecting data by converting it into a secure format",
+      "Transferring data over a network",
+      "Storing data in a database",
+      "Designing web pages"
+    ],
+    "correctOption": "Protecting data by converting it into a secure format"
+  },
+  {
+    "question": "Which of the following is a type of software testing?",
+    "options": [
+      "Unit Testing",
+      "Network Testing",
+      "User Testing",
+      "System Testing"
+    ],
+    "correctOption": "Unit Testing"
+  },
+  {
+    "question": "What is a 'hash function' used for?",
+    "options": [
+      "Mapping data to a fixed-size value",
+      "Sorting data",
+      "Encrypting data",
+      "Transferring data"
+    ],
+    "correctOption": "Mapping data to a fixed-size value"
+  },
+  {
+    "question": "What does 'API' stand for?",
+    "options": [
+      "Application Programming Interface",
+      "Application Process Interface",
+      "Advanced Programming Interface",
+      "Automatic Programming Interface"
+    ],
+    "correctOption": "Application Programming Interface"
+  },
+  {
+    "question": "Which of the following is a common programming language for web development?",
+    "options": [
+      "JavaScript",
+      "Fortran",
+      "COBOL",
+      "Assembly"
+    ],
+    "correctOption": "JavaScript"
+  },
+  {
+    "question": "What is 'Big Data'?",
+    "options": [
+      "Large and complex data sets that require advanced processing tools",
+      "A type of data storage system",
+      "A programming language",
+      "A software development model"
+    ],
+    "correctOption": "Large and complex data sets that require advanced processing tools"
+  },
+  {
+    "question": "What does 'RAM' stand for?",
+    "options": [
+      "Random Access Memory",
+      "Read Access Memory",
+      "Read-Only Memory",
+      "Rapid Access Memory"
+    ],
+    "correctOption": "Random Access Memory"
+  },
+  {
+    "question": "What is a 'software framework'?",
+    "options": [
+      "A pre-built set of libraries and tools for building applications",
+      "A type of database management system",
+      "A programming language",
+      "A method for debugging code"
+    ],
+    "correctOption": "A pre-built set of libraries and tools for building applications"
+  },
+  {
+    "question": "What is 'cloud storage'?",
+    "options": [
+      "Storing data on remote servers accessed via the internet",
+      "Storing data on local hard drives",
+      "Storing data on a physical medium",
+      "Storing data in a file system"
+    ],
+    "correctOption": "Storing data on remote servers accessed via the internet"
+  },
+  {
+    "question": "What is 'machine learning'?",
+    "options": [
+      "A subset of artificial intelligence that enables systems to learn and improve from experience",
+      "A method for designing software",
+      "A programming language",
+      "A type of hardware component"
+    ],
+    "correctOption": "A subset of artificial intelligence that enables systems to learn and improve from experience"
+  },
+  {
+    "question": "What is 'virtualization'?",
+    "options": [
+      "Creating virtual instances of physical hardware",
+      "The process of securing data",
+      "A programming technique",
+      "A type of software testing"
+    ],
+    "correctOption": "Creating virtual instances of physical hardware"
+  },
+  {
+    "question": "What is 'SQL injection'?",
+    "options": [
+      "A type of attack that involves injecting malicious SQL code into a query",
+      "A method for optimizing SQL queries",
+      "A way to encrypt SQL databases",
+      "A programming technique for handling SQL errors"
+    ],
+    "correctOption": "A type of attack that involves injecting malicious SQL code into a query"
+  },
+  {
+    "question": "What is 'open-source software'?",
+    "options": [
+      "Software with source code that is freely available for modification and distribution",
+      "Software that requires a license fee",
+      "Software that is only available as a compiled binary",
+      "Software with proprietary source code"
+    ],
+    "correctOption": "Software with source code that is freely available for modification and distribution"
+  },
+  {
+    "question": "Which of the following is a type of programming language paradigm?",
+    "options": [
+      "Functional Programming",
+      "Network Programming",
+      "Database Programming",
+      "Scripting Programming"
+    ],
+    "correctOption": "Functional Programming"
+  }
+]
 
