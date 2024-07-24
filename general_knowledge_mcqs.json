@@ -1,1 +1,723 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Paris",
+      "London",
+      "Berlin",
+      "Madrid"
+    ],
+    "correctOption": "Paris"
+  },
+  {
+    "question": "Who wrote 'To Kill a Mockingbird'?",
+    "options": [
+      "Harper Lee",
+      "Mark Twain",
+      "Ernest Hemingway",
+      "F. Scott Fitzgerald"
+    ],
+    "correctOption": "Harper Lee"
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "options": [
+      "Jupiter",
+      "Saturn",
+      "Earth",
+      "Mars"
+    ],
+    "correctOption": "Jupiter"
+  },
+  {
+    "question": "What year did the Titanic sink?",
+    "options": [
+      "1912",
+      "1905",
+      "1898",
+      "1923"
+    ],
+    "correctOption": "1912"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": [
+      "Leonardo da Vinci",
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Claude Monet"
+    ],
+    "correctOption": "Leonardo da Vinci"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "options": [
+      "Au",
+      "Ag",
+      "Pb",
+      "Fe"
+    ],
+    "correctOption": "Au"
+  },
+  {
+    "question": "Which country is the largest by land area?",
+    "options": [
+      "Russia",
+      "Canada",
+      "China",
+      "United States"
+    ],
+    "correctOption": "Russia"
+  },
+  {
+    "question": "What is the smallest prime number?",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "5"
+    ],
+    "correctOption": "2"
+  },
+  {
+    "question": "Which element is represented by the symbol 'O'?",
+    "options": [
+      "Oxygen",
+      "Gold",
+      "Silver",
+      "Osmium"
+    ],
+    "correctOption": "Oxygen"
+  },
+  {
+    "question": "What is the longest river in the world?",
+    "options": [
+      "Nile",
+      "Amazon",
+      "Yangtze",
+      "Mississippi"
+    ],
+    "correctOption": "Nile"
+  },
+  {
+    "question": "Who was the first President of the United States?",
+    "options": [
+      "George Washington",
+      "Thomas Jefferson",
+      "Abraham Lincoln",
+      "John Adams"
+    ],
+    "correctOption": "George Washington"
+  },
+  {
+    "question": "What is the main language spoken in Brazil?",
+    "options": [
+      "Portuguese",
+      "Spanish",
+      "English",
+      "French"
+    ],
+    "correctOption": "Portuguese"
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "options": [
+      "Diamond",
+      "Gold",
+      "Iron",
+      "Platinum"
+    ],
+    "correctOption": "Diamond"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Mars",
+      "Venus",
+      "Mercury",
+      "Jupiter"
+    ],
+    "correctOption": "Mars"
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "options": [
+      "Yen",
+      "Won",
+      "Dollar",
+      "Euro"
+    ],
+    "correctOption": "Yen"
+  },
+  {
+    "question": "Which ocean is the largest by surface area?",
+    "options": [
+      "Pacific Ocean",
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
+    ],
+    "correctOption": "Pacific Ocean"
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "options": [
+      "Alexander Fleming",
+      "Louis Pasteur",
+      "Marie Curie",
+      "Joseph Lister"
+    ],
+    "correctOption": "Alexander Fleming"
+  },
+  {
+    "question": "Which element is represented by the symbol 'Na'?",
+    "options": [
+      "Sodium",
+      "Neon",
+      "Nitrogen",
+      "Nickel"
+    ],
+    "correctOption": "Sodium"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "options": [
+      "Canberra",
+      "Sydney",
+      "Melbourne",
+      "Brisbane"
+    ],
+    "correctOption": "Canberra"
+  },
+  {
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "options": [
+      "Japan",
+      "China",
+      "South Korea",
+      "Thailand"
+    ],
+    "correctOption": "Japan"
+  },
+  {
+    "question": "What is the most spoken language in the world?",
+    "options": [
+      "Mandarin Chinese",
+      "English",
+      "Spanish",
+      "Hindi"
+    ],
+    "correctOption": "Mandarin Chinese"
+  },
+  {
+    "question": "Who wrote 'Pride and Prejudice'?",
+    "options": [
+      "Jane Austen",
+      "Charlotte Brontë",
+      "Emily Brontë",
+      "Charles Dickens"
+    ],
+    "correctOption": "Jane Austen"
+  },
+  {
+    "question": "What is the capital city of Canada?",
+    "options": [
+      "Ottawa",
+      "Toronto",
+      "Vancouver",
+      "Montreal"
+    ],
+    "correctOption": "Ottawa"
+  },
+  {
+    "question": "Which planet is closest to the sun?",
+    "options": [
+      "Mercury",
+      "Venus",
+      "Earth",
+      "Mars"
+    ],
+    "correctOption": "Mercury"
+  },
+  {
+    "question": "What is the largest mammal in the world?",
+    "options": [
+      "Blue Whale",
+      "Elephant",
+      "Giraffe",
+      "Hippopotamus"
+    ],
+    "correctOption": "Blue Whale"
+  },
+  {
+    "question": "Who is the author of '1984'?",
+    "options": [
+      "George Orwell",
+      "Aldous Huxley",
+      "Ray Bradbury",
+      "J.K. Rowling"
+    ],
+    "correctOption": "George Orwell"
+  },
+  {
+    "question": "What is the currency of the United Kingdom?",
+    "options": [
+      "Pound Sterling",
+      "Euro",
+      "Dollar",
+      "Yen"
+    ],
+    "correctOption": "Pound Sterling"
+  },
+  {
+    "question": "Which famous scientist developed the theory of relativity?",
+    "options": [
+      "Albert Einstein",
+      "Isaac Newton",
+      "Galileo Galilei",
+      "Niels Bohr"
+    ],
+    "correctOption": "Albert Einstein"
+  },
+  {
+    "question": "What is the largest island in the world?",
+    "options": [
+      "Greenland",
+      "New Guinea",
+      "Borneo",
+      "Madagascar"
+    ],
+    "correctOption": "Greenland"
+  },
+  {
+    "question": "Which country is famous for its pyramids?",
+    "options": [
+      "Egypt",
+      "Mexico",
+      "Peru",
+      "China"
+    ],
+    "correctOption": "Egypt"
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "options": [
+      "H2O",
+      "CO2",
+      "NaCl",
+      "O2"
+    ],
+    "correctOption": "H2O"
+  },
+  {
+    "question": "Which continent is the Sahara Desert located in?",
+    "options": [
+      "Africa",
+      "Asia",
+      "Australia",
+      "South America"
+    ],
+    "correctOption": "Africa"
+  },
+  {
+    "question": "Who is known as the father of modern physics?",
+    "options": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Galileo Galilei",
+      "Niels Bohr"
+    ],
+    "correctOption": "Isaac Newton"
+  },
+  {
+    "question": "What is the largest desert in the world?",
+    "options": [
+      "Antarctic Desert",
+      "Sahara Desert",
+      "Arabian Desert",
+      "Gobi Desert"
+    ],
+    "correctOption": "Antarctic Desert"
+  },
+  {
+    "question": "Which planet is known as the Earth's twin?",
+    "options": [
+      "Venus",
+      "Mars",
+      "Mercury",
+      "Jupiter"
+    ],
+    "correctOption": "Venus"
+  },
+  {
+    "question": "Who was the 16th President of the United States?",
+    "options": [
+      "Abraham Lincoln",
+      "Andrew Johnson",
+      "Ulysses S. Grant",
+      "Theodore Roosevelt"
+    ],
+    "correctOption": "Abraham Lincoln"
+  },
+  {
+    "question": "What is the currency of India?",
+    "options": [
+      "Rupee",
+      "Dollar",
+      "Euro",
+      "Yen"
+    ],
+    "correctOption": "Rupee"
+  },
+  {
+    "question": "Which city is known as the City of Lights?",
+    "options": [
+      "Paris",
+      "New York",
+      "Tokyo",
+      "London"
+    ],
+    "correctOption": "Paris"
+  },
+  {
+    "question": "Who is the Greek god of the sea?",
+    "options": [
+      "Poseidon",
+      "Zeus",
+      "Hades",
+      "Apollo"
+    ],
+    "correctOption": "Poseidon"
+  },
+  {
+    "question": "What is the main ingredient in guacamole?",
+    "options": [
+      "Avocado",
+      "Tomato",
+      "Pepper",
+      "Onion"
+    ],
+    "correctOption": "Avocado"
+  },
+  {
+    "question": "Which famous scientist is known for his laws of motion?",
+    "options": [
+      "Isaac Newton",
+      "Galileo Galilei",
+      "Albert Einstein",
+      "James Clerk Maxwell"
+    ],
+    "correctOption": "Isaac Newton"
+  },
+  {
+    "question": "What is the hardest natural substance known to man?",
+    "options": [
+      "Diamond",
+      "Gold",
+      "Iron",
+      "Platinum"
+    ],
+    "correctOption": "Diamond"
+  },
+  {
+    "question": "Which country is known for inventing pizza?",
+    "options": [
+      "Italy",
+      "France",
+      "Greece",
+      "Turkey"
+    ],
+    "correctOption": "Italy"
+  },
+  {
+    "question": "What is the capital of Italy?",
+    "options": [
+      "Rome",
+      "Milan",
+      "Venice",
+      "Florence"
+    ],
+    "correctOption": "Rome"
+  },
+  {
+    "question": "Who wrote 'The Great Gatsby'?",
+    "options": [
+      "F. Scott Fitzgerald",
+      "Ernest Hemingway",
+      "William Faulkner",
+      "John Steinbeck"
+    ],
+    "correctOption": "F. Scott Fitzgerald"
+  },
+  {
+    "question": "What is the smallest country in the world?",
+    "options": [
+      "Vatican City",
+      "Monaco",
+      "San Marino",
+      "Liechtenstein"
+    ],
+    "correctOption": "Vatican City"
+  },
+  {
+    "question": "Which element is the most abundant in the Earth's crust?",
+    "options": [
+      "Oxygen",
+      "Silicon",
+      "Aluminum",
+      "Iron"
+    ],
+    "correctOption": "Oxygen"
+  },
+  {
+    "question": "Who is known as the 'Father of Modern Chemistry'?",
+    "options": [
+      "Antoine Lavoisier",
+      "Dmitri Mendeleev",
+      "Robert Boyle",
+      "John Dalton"
+    ],
+    "correctOption": "Antoine Lavoisier"
+  },
+  {
+    "question": "What is the longest river in Asia?",
+    "options": [
+      "Yangtze",
+      "Ganges",
+      "Mekong",
+      "Yellow River"
+    ],
+    "correctOption": "Yangtze"
+  },
+  {
+    "question": "Who was the first person to walk on the moon?",
+    "options": [
+      "Neil Armstrong",
+      "Buzz Aldrin",
+      "Yuri Gagarin",
+      "Michael Collins"
+    ],
+    "correctOption": "Neil Armstrong"
+  },
+  {
+    "question": "Which country is known as the Land of the Free?",
+    "options": [
+      "United States",
+      "Canada",
+      "Australia",
+      "New Zealand"
+    ],
+    "correctOption": "United States"
+  },
+  {
+    "question": "What is the main language spoken in Argentina?",
+    "options": [
+      "Spanish",
+      "Portuguese",
+      "English",
+      "French"
+    ],
+    "correctOption": "Spanish"
+  },
+  {
+    "question": "Which country is home to the Great Barrier Reef?",
+    "options": [
+      "Australia",
+      "South Africa",
+      "Thailand",
+      "Mexico"
+    ],
+    "correctOption": "Australia"
+  },
+  {
+    "question": "Who was the first female Prime Minister of the United Kingdom?",
+    "options": [
+      "Margaret Thatcher",
+      "Theresa May",
+      "Priti Patel",
+      "Harriet Harman"
+    ],
+    "correctOption": "Margaret Thatcher"
+  },
+  {
+    "question": "Which famous building is located in Paris, France?",
+    "options": [
+      "Eiffel Tower",
+      "Big Ben",
+      "Colosseum",
+      "Statue of Liberty"
+    ],
+    "correctOption": "Eiffel Tower"
+  },
+  {
+    "question": "What is the capital of Brazil?",
+    "options": [
+      "Brasília",
+      "Rio de Janeiro",
+      "São Paulo",
+      "Salvador"
+    ],
+    "correctOption": "Brasília"
+  },
+  {
+    "question": "Which planet is known as the Morning Star?",
+    "options": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Saturn"
+    ],
+    "correctOption": "Venus"
+  },
+  {
+    "question": "Who was the first woman to win a Nobel Prize?",
+    "options": [
+      "Marie Curie",
+      "Rosalind Franklin",
+      "Jane Goodall",
+      "Barbara McClintock"
+    ],
+    "correctOption": "Marie Curie"
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "options": [
+      "Pacific Ocean",
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
+    ],
+    "correctOption": "Pacific Ocean"
+  },
+  {
+    "question": "Who is the author of 'Harry Potter' series?",
+    "options": [
+      "J.K. Rowling",
+      "C.S. Lewis",
+      "J.R.R. Tolkien",
+      "Philip Pullman"
+    ],
+    "correctOption": "J.K. Rowling"
+  },
+  {
+    "question": "What is the capital city of Germany?",
+    "options": [
+      "Berlin",
+      "Munich",
+      "Frankfurt",
+      "Hamburg"
+    ],
+    "correctOption": "Berlin"
+  },
+  {
+    "question": "Which famous scientist developed the theory of evolution?",
+    "options": [
+      "Charles Darwin",
+      "Gregor Mendel",
+      "Louis Pasteur",
+      "James Watson"
+    ],
+    "correctOption": "Charles Darwin"
+  },
+  {
+    "question": "What is the chemical symbol for silver?",
+    "options": [
+      "Ag",
+      "Au",
+      "Pb",
+      "Fe"
+    ],
+    "correctOption": "Ag"
+  },
+  {
+    "question": "What is the primary ingredient in traditional sushi?",
+    "options": [
+      "Rice",
+      "Noodles",
+      "Bread",
+      "Cheese"
+    ],
+    "correctOption": "Rice"
+  },
+  {
+    "question": "Which country is known for the Great Wall?",
+    "options": [
+      "China",
+      "India",
+      "Japan",
+      "Korea"
+    ],
+    "correctOption": "China"
+  },
+  {
+    "question": "What is the largest desert in Africa?",
+    "options": [
+      "Sahara Desert",
+      "Kalahari Desert",
+      "Namib Desert",
+      "Libyan Desert"
+    ],
+    "correctOption": "Sahara Desert"
+  },
+  {
+    "question": "Who is the author of 'The Catcher in the Rye'?",
+    "options": [
+      "J.D. Salinger",
+      "Harper Lee",
+      "F. Scott Fitzgerald",
+      "Ernest Hemingway"
+    ],
+    "correctOption": "J.D. Salinger"
+  },
+  {
+    "question": "Which planet is known for its rings?",
+    "options": [
+      "Saturn",
+      "Jupiter",
+      "Uranus",
+      "Neptune"
+    ],
+    "correctOption": "Saturn"
+  },
+  {
+    "question": "What is the name of the longest river in North America?",
+    "options": [
+      "Missouri River",
+      "Mississippi River",
+      "Columbia River",
+      "Colorado River"
+    ],
+    "correctOption": "Missouri River"
+  },
+  {
+    "question": "Who painted 'The Starry Night'?",
+    "options": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Claude Monet",
+      "Leonardo da Vinci"
+    ],
+    "correctOption": "Vincent van Gogh"
+  },
+  {
+    "question": "Which is the smallest continent by land area?",
+    "options": [
+      "Australia",
+      "Europe",
+      "South America",
+      "Africa"
+    ],
+    "correctOption": "Australia"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "options": [
+      "Tokyo",
+      "Osaka",
+      "Kyoto",
+      "Hiroshima"
+    ],
+    "correctOption": "Tokyo"
+  }
+]
 
