@@ -1,1 +1,733 @@
+[
+  {
+    "question": "What is the holy book of Islam?",
+    "options": [
+      "Qur'an",
+      "Bible",
+      "Torah",
+      "Vedas"
+    ],
+    "correctOption": "Qur'an"
+  },
+  {
+    "question": "Who is the Prophet of Islam?",
+    "options": [
+      "Muhammad",
+      "Moses",
+      "Jesus",
+      "Abraham"
+    ],
+    "correctOption": "Muhammad"
+  },
+  {
+    "question": "In which city was the Prophet Muhammad born?",
+    "options": [
+      "Mecca",
+      "Medina",
+      "Jerusalem",
+      "Cairo"
+    ],
+    "correctOption": "Mecca"
+  },
+  {
+    "question": "What is the name of the Islamic law system?",
+    "options": [
+      "Sharia",
+      "Halakha",
+      "Canon Law",
+      "Law of the Land"
+    ],
+    "correctOption": "Sharia"
+  },
+  {
+    "question": "Which month is considered the holiest in Islam?",
+    "options": [
+      "Ramadan",
+      "Hajj",
+      "Eid",
+      "Shawwal"
+    ],
+    "correctOption": "Ramadan"
+  },
+  {
+    "question": "What is the term for the pilgrimage to Mecca that every Muslim is required to make at least once in their lifetime?",
+    "options": [
+      "Hajj",
+      "Umrah",
+      "Zakat",
+      "Sawm"
+    ],
+    "correctOption": "Hajj"
+  },
+  {
+    "question": "Which angel delivered the revelations of the Qur'an to Prophet Muhammad?",
+    "options": [
+      "Gabriel",
+      "Michael",
+      "Raphael",
+      "Azrael"
+    ],
+    "correctOption": "Gabriel"
+  },
+  {
+    "question": "What is the term for the daily prayers in Islam?",
+    "options": [
+      "Salah",
+      "Zakat",
+      "Sawm",
+      "Hajj"
+    ],
+    "correctOption": "Salah"
+  },
+  {
+    "question": "What is the first month of the Islamic calendar?",
+    "options": [
+      "Muharram",
+      "Ramadan",
+      "Shawwal",
+      "Rajab"
+    ],
+    "correctOption": "Muharram"
+  },
+  {
+    "question": "What does the term 'Islam' mean?",
+    "options": [
+      "Submission to God",
+      "Peace",
+      "Faith",
+      "Light"
+    ],
+    "correctOption": "Submission to God"
+  },
+  {
+    "question": "What is the term for charity in Islam?",
+    "options": [
+      "Zakat",
+      "Sadaqah",
+      "Khums",
+      "Sawm"
+    ],
+    "correctOption": "Zakat"
+  },
+  {
+    "question": "What is the term for fasting during Ramadan?",
+    "options": [
+      "Sawm",
+      "Zakat",
+      "Hajj",
+      "Salah"
+    ],
+    "correctOption": "Sawm"
+  },
+  {
+    "question": "Which of the following is NOT one of the Five Pillars of Islam?",
+    "options": [
+      "Hajj",
+      "Jihad",
+      "Sawm",
+      "Zakat"
+    ],
+    "correctOption": "Jihad"
+  },
+  {
+    "question": "What is the name of the Islamic declaration of faith?",
+    "options": [
+      "Shahada",
+      "Salah",
+      "Zakat",
+      "Hajj"
+    ],
+    "correctOption": "Shahada"
+  },
+  {
+    "question": "Who was the first person to accept Islam?",
+    "options": [
+      "Khadijah",
+      "Abu Bakr",
+      "Ali",
+      "Umar"
+    ],
+    "correctOption": "Khadijah"
+  },
+  {
+    "question": "Which city is known as the City of the Prophet?",
+    "options": [
+      "Medina",
+      "Mecca",
+      "Jerusalem",
+      "Damascus"
+    ],
+    "correctOption": "Medina"
+  },
+  {
+    "question": "What is the name of the night when the Qur'an was first revealed?",
+    "options": [
+      "Laylat al-Qadr",
+      "Laylat al-Miraj",
+      "Laylat al-Mubahila",
+      "Laylat al-Mi'raj"
+    ],
+    "correctOption": "Laylat al-Qadr"
+  },
+  {
+    "question": "Which of the following is NOT a Prophet in Islam?",
+    "options": [
+      "Jesus",
+      "Moses",
+      "Buddha",
+      "Noah"
+    ],
+    "correctOption": "Buddha"
+  },
+  {
+    "question": "What is the name of the annual festival marking the end of Ramadan?",
+    "options": [
+      "Eid al-Fitr",
+      "Eid al-Adha",
+      "Eid al-Mawlid",
+      "Eid al-Ghadeer"
+    ],
+    "correctOption": "Eid al-Fitr"
+  },
+  {
+    "question": "What is the name of the festival commemorating the sacrifice of Ibrahim (Abraham)?",
+    "options": [
+      "Eid al-Adha",
+      "Eid al-Fitr",
+      "Eid al-Mawlid",
+      "Eid al-Ghadeer"
+    ],
+    "correctOption": "Eid al-Adha"
+  },
+  {
+    "question": "What is the name of the angel who is believed to blow the trumpet on the Day of Judgment?",
+    "options": [
+      "Israfil",
+      "Jibril",
+      "Mikail",
+      "Azrael"
+    ],
+    "correctOption": "Israfil"
+  },
+  {
+    "question": "Which chapter of the Qur'an is the longest?",
+    "options": [
+      "Surah Al-Baqarah",
+      "Surah Al-Fatiha",
+      "Surah Al-Ikhlas",
+      "Surah An-Nas"
+    ],
+    "correctOption": "Surah Al-Baqarah"
+  },
+  {
+    "question": "What is the Islamic term for the pilgrimage to Mecca that can be performed at any time of the year?",
+    "options": [
+      "Umrah",
+      "Hajj",
+      "Zakat",
+      "Sawm"
+    ],
+    "correctOption": "Umrah"
+  },
+  {
+    "question": "Which Prophet is known for building the Kaaba?",
+    "options": [
+      "Ibrahim",
+      "Moses",
+      "Jesus",
+      "Noah"
+    ],
+    "correctOption": "Ibrahim"
+  },
+  {
+    "question": "What is the name of the place where Muslims gather for Friday prayers?",
+    "options": [
+      "Masjid",
+      "Madrasa",
+      "Mausoleum",
+      "Haram"
+    ],
+    "correctOption": "Masjid"
+  },
+  {
+    "question": "Which Islamic month is known for fasting?",
+    "options": [
+      "Ramadan",
+      "Muharram",
+      "Rajab",
+      "Shawwal"
+    ],
+    "correctOption": "Ramadan"
+  },
+  {
+    "question": "What is the term for the obligatory charity given by Muslims?",
+    "options": [
+      "Zakat",
+      "Sadaqah",
+      "Khums",
+      "Sawm"
+    ],
+    "correctOption": "Zakat"
+  },
+  {
+    "question": "Which city is the direction of the Qibla for Muslim prayers?",
+    "options": [
+      "Mecca",
+      "Medina",
+      "Jerusalem",
+      "Cairo"
+    ],
+    "correctOption": "Mecca"
+  },
+  {
+    "question": "Who are the 'People of the Book' in Islam?",
+    "options": [
+      "Jews and Christians",
+      "Hindus and Buddhists",
+      "Sikhs and Zoroastrians",
+      "Atheists and Agnostics"
+    ],
+    "correctOption": "Jews and Christians"
+  },
+  {
+    "question": "What is the Islamic term for the concept of charity beyond Zakat?",
+    "options": [
+      "Sadaqah",
+      "Khums",
+      "Hajj",
+      "Umrah"
+    ],
+    "correctOption": "Sadaqah"
+  },
+  {
+    "question": "Which Prophet is known for parting the Red Sea?",
+    "options": [
+      "Moses",
+      "Jesus",
+      "Muhammad",
+      "Ibrahim"
+    ],
+    "correctOption": "Moses"
+  },
+  {
+    "question": "What is the term for the Islamic law governing personal conduct and community affairs?",
+    "options": [
+      "Sharia",
+      "Fiqh",
+      "Hadith",
+      "Sunnah"
+    ],
+    "correctOption": "Sharia"
+  },
+  {
+    "question": "Which of the following is NOT one of the Prophet's Companions?",
+    "options": [
+      "Abu Bakr",
+      "Ali",
+      "Umar",
+      "Luqman"
+    ],
+    "correctOption": "Luqman"
+  },
+  {
+    "question": "What is the name of the treaty between the Muslims and the Quraysh tribe of Mecca?",
+    "options": [
+      "Treaty of Hudaybiyyah",
+      "Treaty of Qadisiyyah",
+      "Treaty of Hudaibiyah",
+      "Treaty of Medina"
+    ],
+    "correctOption": "Treaty of Hudaybiyyah"
+  },
+  {
+    "question": "Which Surah of the Qur'an is known as the 'Heart of the Qur'an'?",
+    "options": [
+      "Surah Ya-Sin",
+      "Surah Al-Baqarah",
+      "Surah Al-Fatiha",
+      "Surah Al-Ikhlas"
+    ],
+    "correctOption": "Surah Ya-Sin"
+  },
+  {
+    "question": "What does 'Jihad' mean in its true sense in Islam?",
+    "options": [
+      "Struggle or effort",
+      "War",
+      "Conquest",
+      "Fighting"
+    ],
+    "correctOption": "Struggle or effort"
+  },
+  {
+    "question": "Who is considered the 'Seal of the Prophets'?",
+    "options": [
+      "Muhammad",
+      "Jesus",
+      "Moses",
+      "Ibrahim"
+    ],
+    "correctOption": "Muhammad"
+  },
+  {
+    "question": "What is the significance of the Kaaba in Islam?",
+    "options": [
+      "It is the direction of prayer.",
+      "It is where the Prophet Muhammad was born.",
+      "It is where the Qur'an was revealed.",
+      "It is a sacred burial site."
+    ],
+    "correctOption": "It is the direction of prayer."
+  },
+  {
+    "question": "What is the term for the Islamic practice of giving a portion of one's wealth to the poor?",
+    "options": [
+      "Zakat",
+      "Sadaqah",
+      "Khums",
+      "Sawm"
+    ],
+    "correctOption": "Zakat"
+  },
+  {
+    "question": "Which Prophet was known for his patience and endurance?",
+    "options": [
+      "Job (Ayub)",
+      "Moses",
+      "Muhammad",
+      "Jesus"
+    ],
+    "correctOption": "Job (Ayub)"
+  },
+  {
+    "question": "What is the name of the Islamic practice of fasting from dawn to sunset during Ramadan?",
+    "options": [
+      "Sawm",
+      "Zakat",
+      "Hajj",
+      "Salah"
+    ],
+    "correctOption": "Sawm"
+  },
+  {
+    "question": "Which Surah of the Qur'an is the shortest?",
+    "options": [
+      "Surah Al-Kawthar",
+      "Surah Al-Fatiha",
+      "Surah Al-Ikhlas",
+      "Surah Al-Nas"
+    ],
+    "correctOption": "Surah Al-Kawthar"
+  },
+  {
+    "question": "What is the term for the five daily prayers in Islam?",
+    "options": [
+      "Salah",
+      "Dua",
+      "Sawm",
+      "Zakat"
+    ],
+    "correctOption": "Salah"
+  },
+  {
+    "question": "Who is considered the first caliph after Prophet Muhammad?",
+    "options": [
+      "Abu Bakr",
+      "Ali",
+      "Umar",
+      "Uthman"
+    ],
+    "correctOption": "Abu Bakr"
+  },
+  {
+    "question": "What is the term for the Islamic practice of giving a fixed portion of wealth for charitable purposes?",
+    "options": [
+      "Zakat",
+      "Sadaqah",
+      "Khums",
+      "Hajj"
+    ],
+    "correctOption": "Zakat"
+  },
+  {
+    "question": "Which Prophet is associated with the story of the big fish or whale?",
+    "options": [
+      "Jonah (Yunus)",
+      "Moses",
+      "Jesus",
+      "Muhammad"
+    ],
+    "correctOption": "Jonah (Yunus)"
+  },
+  {
+    "question": "What is the term for the practice of giving voluntary charity in Islam?",
+    "options": [
+      "Sadaqah",
+      "Zakat",
+      "Khums",
+      "Sawm"
+    ],
+    "correctOption": "Sadaqah"
+  },
+  {
+    "question": "What is the significance of the city of Mecca in Islam?",
+    "options": [
+      "It is the birthplace of Prophet Muhammad.",
+      "It is the location of the Dome of the Rock.",
+      "It is the site of the first revelation.",
+      "It is the location of the Al-Aqsa Mosque."
+    ],
+    "correctOption": "It is the birthplace of Prophet Muhammad."
+  },
+  {
+    "question": "Which Surah of the Qur'an emphasizes the unity of God?",
+    "options": [
+      "Surah Al-Ikhlas",
+      "Surah Al-Fatiha",
+      "Surah Al-Baqarah",
+      "Surah An-Nas"
+    ],
+    "correctOption": "Surah Al-Ikhlas"
+  },
+  {
+    "question": "What is the Arabic term for the recitation of the Qur'an?",
+    "options": [
+      "Tajweed",
+      "Salah",
+      "Dua",
+      "Sadaqah"
+    ],
+    "correctOption": "Tajweed"
+  },
+  {
+    "question": "Who was the mother of Prophet Muhammad?",
+    "options": [
+      "Amina",
+      "Khadijah",
+      "Fatimah",
+      "Hawwa"
+    ],
+    "correctOption": "Amina"
+  },
+  {
+    "question": "Which battle is known as the first major battle between the Muslims and the Quraysh tribe?",
+    "options": [
+      "Battle of Badr",
+      "Battle of Uhud",
+      "Battle of Khaybar",
+      "Battle of the Trench"
+    ],
+    "correctOption": "Battle of Badr"
+  },
+  {
+    "question": "What is the term for the Islamic practice of performing good deeds and avoiding bad ones?",
+    "options": [
+      "Taqwa",
+      "Zakat",
+      "Hajj",
+      "Sawm"
+    ],
+    "correctOption": "Taqwa"
+  },
+  {
+    "question": "What is the name of the Prophet Muhammad’s first wife?",
+    "options": [
+      "Khadijah",
+      "Aisha",
+      "Hafsa",
+      "Zainab"
+    ],
+    "correctOption": "Khadijah"
+  },
+  {
+    "question": "What is the name of the book that contains the sayings and actions of Prophet Muhammad?",
+    "options": [
+      "Hadith",
+      "Qur'an",
+      "Sunnah",
+      "Fiqh"
+    ],
+    "correctOption": "Hadith"
+  },
+  {
+    "question": "Which Prophet is known for the story of the burning bush?",
+    "options": [
+      "Moses",
+      "Jesus",
+      "Muhammad",
+      "Ibrahim"
+    ],
+    "correctOption": "Moses"
+  },
+  {
+    "question": "Which companion of Prophet Muhammad is known for compiling the Qur'an into a single book format?",
+    "options": [
+      "Uthman ibn Affan",
+      "Abu Bakr",
+      "Ali ibn Abi Talib",
+      "Umar ibn al-Khattab"
+    ],
+    "correctOption": "Uthman ibn Affan"
+  },
+  {
+    "question": "Which day of the week is considered the holiest in Islam?",
+    "options": [
+      "Friday",
+      "Saturday",
+      "Sunday",
+      "Monday"
+    ],
+    "correctOption": "Friday"
+  },
+  {
+    "question": "What is the term for the act of seeking forgiveness from Allah?",
+    "options": [
+      "Tawbah",
+      "Dua",
+      "Zakat",
+      "Sadaqah"
+    ],
+    "correctOption": "Tawbah"
+  },
+  {
+    "question": "Which Surah of the Qur'an is known for its emphasis on mercy and compassion?",
+    "options": [
+      "Surah Al-Rahman",
+      "Surah Al-Fatiha",
+      "Surah Al-Baqarah",
+      "Surah Al-Nas"
+    ],
+    "correctOption": "Surah Al-Rahman"
+  },
+  {
+    "question": "What is the Arabic term for the spiritual struggle against sin?",
+    "options": [
+      "Jihad",
+      "Sadaqah",
+      "Zakat",
+      "Sawm"
+    ],
+    "correctOption": "Jihad"
+  },
+  {
+    "question": "Which Islamic month follows Ramadan?",
+    "options": [
+      "Shawwal",
+      "Muharram",
+      "Rajab",
+      "Rabi' al-Awwal"
+    ],
+    "correctOption": "Shawwal"
+  },
+  {
+    "question": "Who was the Prophet Muhammad’s cousin and son-in-law?",
+    "options": [
+      "Ali ibn Abi Talib",
+      "Abu Bakr",
+      "Umar ibn al-Khattab",
+      "Uthman ibn Affan"
+    ],
+    "correctOption": "Ali ibn Abi Talib"
+  },
+  {
+    "question": "What is the name of the Islamic prayer performed after the sunset?",
+    "options": [
+      "Maghrib",
+      "Fajr",
+      "Dhuhr",
+      "Isha"
+    ],
+    "correctOption": "Maghrib"
+  },
+  {
+    "question": "Which Prophet is known for the story of the Great Flood?",
+    "options": [
+      "Noah",
+      "Ibrahim",
+      "Moses",
+      "Jesus"
+    ],
+    "correctOption": "Noah"
+  },
+  {
+    "question": "What is the name of the celebration marking the birth of Prophet Muhammad?",
+    "options": [
+      "Mawlid al-Nabi",
+      "Eid al-Adha",
+      "Eid al-Fitr",
+      "Laylat al-Qadr"
+    ],
+    "correctOption": "Mawlid al-Nabi"
+  },
+  {
+    "question": "What is the Arabic term for the nightly prayers during Ramadan?",
+    "options": [
+      "Taraweeh",
+      "Tahajjud",
+      "Fajr",
+      "Witr"
+    ],
+    "correctOption": "Taraweeh"
+  },
+  {
+    "question": "Which Surah of the Qur'an is known for its teachings on social justice and charity?",
+    "options": [
+      "Surah Al-Baqarah",
+      "Surah Al-Fatiha",
+      "Surah Al-Ikhlas",
+      "Surah An-Nas"
+    ],
+    "correctOption": "Surah Al-Baqarah"
+  },
+  {
+    "question": "Which Prophet is associated with the story of the split moon?",
+    "options": [
+      "Muhammad",
+      "Moses",
+      "Jesus",
+      "Ibrahim"
+    ],
+    "correctOption": "Muhammad"
+  },
+  {
+    "question": "What is the name of the angel responsible for taking the souls at the time of death?",
+    "options": [
+      "Azrael",
+      "Jibril",
+      "Mikail",
+      "Israfil"
+    ],
+    "correctOption": "Azrael"
+  },
+  {
+    "question": "What is the name of the event where Prophet Muhammad ascended to heaven from Jerusalem?",
+    "options": [
+      "Isra and Mi'raj",
+      "Laylat al-Qadr",
+      "Hajj",
+      "Umrah"
+    ],
+    "correctOption": "Isra and Mi'raj"
+  },
+  {
+    "question": "What is the Arabic term for the practice of remembrance of Allah?",
+    "options": [
+      "Dhikr",
+      "Dua",
+      "Sadaqah",
+      "Sawm"
+    ],
+    "correctOption": "Dhikr"
+  },
+  {
+    "question": "Which Surah of the Qur'an discusses the concept of faith and guidance?",
+    "options": [
+      "Surah Al-Fatiha",
+      "Surah Al-Baqarah",
+      "Surah Al-Ikhlas",
+      "Surah Al-Mulk"
+    ],
+    "correctOption": "Surah Al-Fatiha"
+  }
+]
 
