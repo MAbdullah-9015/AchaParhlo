@@ -1,1 +1,461 @@
-
+[
+  {
+    "question": "A is taller than B. B is taller than C. C is taller than D. Who is the shortest?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctOption": "D"
+  },
+  {
+    "question": "If all Bloops are Razzies and all Razzies are Lazzies, then all Bloops are definitely Lazzies?",
+    "options": [
+      "True",
+      "False",
+      "Uncertain"
+    ],
+    "correctOption": "True"
+  },
+  {
+    "question": "In a class of 30 students, 20 like Math and 15 like Science. If 5 students like neither subject, how many like both?",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    "correctOption": "10"
+  },
+  {
+    "question": "A train travels 60 miles per hour. How long will it take to travel 300 miles?",
+    "options": [
+      "3 hours",
+      "4 hours",
+      "5 hours",
+      "6 hours"
+    ],
+    "correctOption": "5 hours"
+  },
+  {
+    "question": "If it takes 3 people 3 days to build 3 houses, how long will it take 6 people to build 6 houses?",
+    "options": [
+      "3 days",
+      "6 days",
+      "9 days",
+      "12 days"
+    ],
+    "correctOption": "3 days"
+  },
+  {
+    "question": "If John's age is twice that of Mary's and Mary is 10 years old, how old is John?",
+    "options": [
+      "10 years",
+      "15 years",
+      "20 years",
+      "25 years"
+    ],
+    "correctOption": "20 years"
+  },
+  {
+    "question": "A clock shows the time as 3:15. What is the angle between the hour and minute hands?",
+    "options": [
+      "0 degrees",
+      "7.5 degrees",
+      "15 degrees",
+      "22.5 degrees"
+    ],
+    "correctOption": "7.5 degrees"
+  },
+  {
+    "question": "In a family of 6 members, A is the father of B. C is the sister of A. D is the son of C. E is the brother of B. Who is the uncle of E?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctOption": "D"
+  },
+  {
+    "question": "If 5 cats can catch 5 mice in 5 minutes, how many cats are needed to catch 100 mice in 100 minutes?",
+    "options": [
+      "5",
+      "10",
+      "20",
+      "25"
+    ],
+    "correctOption": "5"
+  },
+  {
+    "question": "If a rectangle's length is doubled and its width is halved, what will be the effect on its area?",
+    "options": [
+      "It will be halved",
+      "It will remain the same",
+      "It will be doubled",
+      "It will be quadrupled"
+    ],
+    "correctOption": "It will remain the same"
+  },
+  {
+    "question": "In a code language, 'DICTIONARY' is written as 'EJDUPSBSZ'. How is 'ENCYCLOPEDIA' written in that code?",
+    "options": [
+      "FOCZDMQPFQJB",
+      "DMBXZDKNQDIB",
+      "FODZDMQPFQJB",
+      "FOCZDLQPFQIB"
+    ],
+    "correctOption": "FOCZDMQPFQJB"
+  },
+  {
+    "question": "If the second day of a month is Friday, what is the last day of the previous month?",
+    "options": [
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "correctOption": "Thursday"
+  },
+  {
+    "question": "In a race of 100 meters, A beats B by 10 meters and B beats C by 10 meters. By how many meters does A beat C?",
+    "options": [
+      "10 meters",
+      "19 meters",
+      "20 meters",
+      "21 meters"
+    ],
+    "correctOption": "19 meters"
+  },
+  {
+    "question": "If a cube's surface area is 54 square units, what is the volume of the cube?",
+    "options": [
+      "27 cubic units",
+      "54 cubic units",
+      "81 cubic units",
+      "108 cubic units"
+    ],
+    "correctOption": "27 cubic units"
+  },
+  {
+    "question": "A bag contains 3 red, 5 blue, and 2 green balls. If one ball is drawn at random, what is the probability that it is blue?",
+    "options": [
+      "1/10",
+      "1/5",
+      "1/2",
+      "3/5"
+    ],
+    "correctOption": "1/2"
+  },
+  {
+    "question": "If the ratio of the ages of two brothers is 5:7 and the sum of their ages is 36 years, what is the age of the younger brother?",
+    "options": [
+      "10 years",
+      "15 years",
+      "20 years",
+      "25 years"
+    ],
+    "correctOption": "15 years"
+  },
+  {
+    "question": "In a certain code, 'APPLE' is written as 'DSSOH'. How is 'MANGO' written in that code?",
+    "options": [
+      "OBPKQ",
+      "NCRGP",
+      "PBRHP",
+      "OCRGP"
+    ],
+    "correctOption": "OCRGP"
+  },
+  {
+    "question": "If the day before yesterday was Thursday, what will be the day after tomorrow?",
+    "options": [
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "correctOption": "Monday"
+  },
+  {
+    "question": "A car travels 60 km/hr for 2 hours and then 80 km/hr for 3 hours. What is the average speed of the car?",
+    "options": [
+      "68 km/hr",
+      "72 km/hr",
+      "76 km/hr",
+      "80 km/hr"
+    ],
+    "correctOption": "72 km/hr"
+  },
+  {
+    "question": "If a certain amount of money doubles in 5 years with simple interest, what is the annual interest rate?",
+    "options": [
+      "10%",
+      "15%",
+      "20%",
+      "25%"
+    ],
+    "correctOption": "20%"
+  },
+  {
+    "question": "In a sequence of numbers, each number is the sum of the previous two numbers. If the first two numbers are 0 and 1, what is the 7th number in the sequence?",
+    "options": [
+      "5",
+      "8",
+      "13",
+      "21"
+    ],
+    "correctOption": "8"
+  },
+  {
+    "question": "If a triangle has sides of lengths 3, 4, and 5, what type of triangle is it?",
+    "options": [
+      "Equilateral",
+      "Isosceles",
+      "Scalene",
+      "Right-angled"
+    ],
+    "correctOption": "Right-angled"
+  },
+  {
+    "question": "In a group of 5 people, each person shakes hands with every other person exactly once. How many handshakes are there in total?",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    "correctOption": "10"
+  },
+  {
+    "question": "If the perimeter of a square is 20 units, what is the area of the square?",
+    "options": [
+      "25 square units",
+      "20 square units",
+      "16 square units",
+      "15 square units"
+    ],
+    "correctOption": "25 square units"
+  },
+  {
+    "question": "If a car's speed is reduced by 20%, how much longer will it take to travel the same distance?",
+    "options": [
+      "20% more time",
+      "25% more time",
+      "30% more time",
+      "35% more time"
+    ],
+    "correctOption": "25% more time"
+  },
+  {
+    "question": "If a sum of money triples in 8 years at simple interest, what is the annual interest rate?",
+    "options": [
+      "25%",
+      "30%",
+      "35%",
+      "40%"
+    ],
+    "correctOption": "25%"
+  },
+  {
+    "question": "A rectangular garden has a length of 10 meters and a width of 5 meters. What is the perimeter of the garden?",
+    "options": [
+      "15 meters",
+      "25 meters",
+      "30 meters",
+      "40 meters"
+    ],
+    "correctOption": "30 meters"
+  },
+  {
+    "question": "If the average of three numbers is 24 and the sum of two of the numbers is 34, what is the third number?",
+    "options": [
+      "14",
+      "18",
+      "22",
+      "28"
+    ],
+    "correctOption": "14"
+  },
+  {
+    "question": "In a certain code, 'BOOK' is written as 'CPLM'. How is 'PEN' written in that code?",
+    "options": [
+      "QFO",
+      "QDL",
+      "ODL",
+      "OFO"
+    ],
+    "correctOption": "QFO"
+  },
+  {
+    "question": "If the sum of three consecutive integers is 54, what is the middle integer?",
+    "options": [
+      "17",
+      "18",
+      "19",
+      "20"
+    ],
+    "correctOption": "18"
+  },
+  {
+    "question": "If a box weighs 3 kg plus half its own weight, what is the total weight of the box?",
+    "options": [
+      "4 kg",
+      "5 kg",
+      "6 kg",
+      "7 kg"
+    ],
+    "correctOption": "6 kg"
+  },
+  {
+    "question": "In a row of 30 students, A is 5th from the left end and B is 6th from the right end. How many students are there between A and B?",
+    "options": [
+      "18",
+      "19",
+      "20",
+      "21"
+    ],
+    "correctOption": "18"
+  },
+  {
+    "question": "If the radius of a circle is doubled, what happens to its area?",
+    "options": [
+      "It remains the same",
+      "It doubles",
+      "It triples",
+      "It quadruples"
+    ],
+    "correctOption": "It quadruples"
+  },
+  {
+    "question": "If the ages of A and B are in the ratio 3:5 and A is 9 years old, what is the age of B?",
+    "options": [
+      "15 years",
+      "18 years",
+      "21 years",
+      "24 years"
+    ],
+    "correctOption": "15 years"
+  },
+  {
+    "question": "A is the sister of B. B is the brother of C. C is the husband of D. How is A related to D?",
+    "options": [
+      "Sister",
+      "Sister-in-law",
+      "Cousin",
+      "Mother"
+    ],
+    "correctOption": "Sister-in-law"
+  },
+  {
+    "question": "If the sum of the squares of two numbers is 25 and their product is 12, what is the sum of the two numbers?",
+    "options": [
+      "3",
+      "5",
+      "7",
+      "8"
+    ],
+    "correctOption": "7"
+  },
+  {
+    "question": "If 6 people can complete a job in 12 days, how many days will it take 8 people to complete the same job?",
+    "options": [
+      "9 days",
+      "10 days",
+      "11 days",
+      "8 days"
+    ],
+    "correctOption": "9 days"
+  },
+  {
+    "question": "If the ratio of boys to girls in a class is 3:4 and there are 12 boys, how many girls are there?",
+    "options": [
+      "12",
+      "15",
+      "16",
+      "18"
+    ],
+    "correctOption": "16"
+  },
+  {
+    "question": "In a town, 20% of the population are children and 40% are women. If the total population is 10,000, how many are men?",
+    "options": [
+      "2000",
+      "3000",
+      "4000",
+      "6000"
+    ],
+    "correctOption": "4000"
+  },
+  {
+    "question": "If the average of five numbers is 30 and the average of three of them is 20, what is the average of the other two?",
+    "options": [
+      "30",
+      "40",
+      "50",
+      "60"
+    ],
+    "correctOption": "50"
+  },
+  {
+    "question": "If the area of a rectangle is 48 square units and its length is 8 units, what is its width?",
+    "options": [
+      "4 units",
+      "5 units",
+      "6 units",
+      "7 units"
+    ],
+    "correctOption": "6 units"
+  },
+  {
+    "question": "If a car travels at 60 km/hr for 4 hours, how far does it travel?",
+    "options": [
+      "200 km",
+      "220 km",
+      "240 km",
+      "260 km"
+    ],
+    "correctOption": "240 km"
+  },
+  {
+    "question": "If the price of a book is reduced by 20% and the new price is $24, what was the original price?",
+    "options": [
+      "$30",
+      "$32",
+      "$34",
+      "$36"
+    ],
+    "correctOption": "$30"
+  },
+  {
+    "question": "In a code language, 'GREAT' is written as 'HTFBS'. How is 'SMART' written in that code?",
+    "options": [
+      "TNBQU",
+      "TNBRT",
+      "TNBQT",
+      "TMBQT"
+    ],
+    "correctOption": "TNBQT"
+  },
+  {
+    "question": "If a tank fills at a rate of 5 liters per minute, how long will it take to fill a 200-liter tank?",
+    "options": [
+      "20 minutes",
+      "30 minutes",
+      "40 minutes",
+      "50 minutes"
+    ],
+    "correctOption": "40 minutes"
+  },
+  {
+    "question": "If the average of four numbers is 35 and the sum of three of them is 95, what is the fourth number?",
+    "options": [
+      "30",
+      "35",
+      "40",
+      "45"
+    ],
+    "correctOption": "45"
+  }
+]
