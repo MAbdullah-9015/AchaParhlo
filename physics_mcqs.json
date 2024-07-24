@@ -1,1 +1,673 @@
+[
+  {
+    "question": "What is the speed of light in a vacuum?",
+    "options": [
+      "3 × 10^6 m/s",
+      "3 × 10^7 m/s",
+      "3 × 10^8 m/s",
+      "3 × 10^9 m/s"
+    ],
+    "correctOption": "3 × 10^8 m/s"
+  },
+  {
+    "question": "What is the unit of force in the International System of Units (SI)?",
+    "options": [
+      "Newton",
+      "Joule",
+      "Watt",
+      "Pascal"
+    ],
+    "correctOption": "Newton"
+  },
+  {
+    "question": "What is the formula for gravitational potential energy?",
+    "options": [
+      "E = mc^2",
+      "E = 1/2 mv^2",
+      "E = mgh",
+      "E = Fd"
+    ],
+    "correctOption": "E = mgh"
+  },
+  {
+    "question": "Which of the following is a scalar quantity?",
+    "options": [
+      "Velocity",
+      "Force",
+      "Acceleration",
+      "Temperature"
+    ],
+    "correctOption": "Temperature"
+  },
+  {
+    "question": "What law states that for every action there is an equal and opposite reaction?",
+    "options": [
+      "Newton's First Law",
+      "Newton's Second Law",
+      "Newton's Third Law",
+      "Law of Universal Gravitation"
+    ],
+    "correctOption": "Newton's Third Law"
+  },
+  {
+    "question": "What is the unit of electric current?",
+    "options": [
+      "Volt",
+      "Ampere",
+      "Ohm",
+      "Coulomb"
+    ],
+    "correctOption": "Ampere"
+  },
+  {
+    "question": "Which of the following materials is a good conductor of electricity?",
+    "options": [
+      "Rubber",
+      "Wood",
+      "Copper",
+      "Glass"
+    ],
+    "correctOption": "Copper"
+  },
+  {
+    "question": "What is the formula for calculating acceleration?",
+    "options": [
+      "a = F/m",
+      "a = v/t",
+      "a = d/t",
+      "a = m/v"
+    ],
+    "correctOption": "a = F/m"
+  },
+  {
+    "question": "In the formula E = mc^2, what does 'c' represent?",
+    "options": [
+      "Speed of sound",
+      "Speed of light",
+      "Speed of the object",
+      "Speed of wave"
+    ],
+    "correctOption": "Speed of light"
+  },
+  {
+    "question": "What is the unit of work or energy?",
+    "options": [
+      "Joule",
+      "Newton",
+      "Watt",
+      "Pascal"
+    ],
+    "correctOption": "Joule"
+  },
+  {
+    "question": "What is the principle of conservation of energy?",
+    "options": [
+      "Energy cannot be created or destroyed",
+      "Energy is always increasing",
+      "Energy is always decreasing",
+      "Energy is created by machines"
+    ],
+    "correctOption": "Energy cannot be created or destroyed"
+  },
+  {
+    "question": "Which law describes the relationship between voltage, current, and resistance?",
+    "options": [
+      "Ohm's Law",
+      "Faraday's Law",
+      "Hooke's Law",
+      "Newton's Law"
+    ],
+    "correctOption": "Ohm's Law"
+  },
+  {
+    "question": "What is the formula for kinetic energy?",
+    "options": [
+      "E = mc^2",
+      "E = 1/2 mv^2",
+      "E = mgh",
+      "E = Fd"
+    ],
+    "correctOption": "E = 1/2 mv^2"
+  },
+  {
+    "question": "What does the term 'frequency' refer to in wave physics?",
+    "options": [
+      "Number of waves passing a point per second",
+      "Speed of the wave",
+      "Amplitude of the wave",
+      "Wavelength of the wave"
+    ],
+    "correctOption": "Number of waves passing a point per second"
+  },
+  {
+    "question": "What is the SI unit of temperature?",
+    "options": [
+      "Celsius",
+      "Fahrenheit",
+      "Kelvin",
+      "Newton"
+    ],
+    "correctOption": "Kelvin"
+  },
+  {
+    "question": "What type of energy is stored in a compressed spring?",
+    "options": [
+      "Kinetic energy",
+      "Potential energy",
+      "Thermal energy",
+      "Electrical energy"
+    ],
+    "correctOption": "Potential energy"
+  },
+  {
+    "question": "What is the speed of sound in air at room temperature (20°C)?",
+    "options": [
+      "343 m/s",
+      "300 m/s",
+      "1500 m/s",
+      "5000 m/s"
+    ],
+    "correctOption": "343 m/s"
+  },
+  {
+    "question": "What is the formula for calculating density?",
+    "options": [
+      "ρ = m/v",
+      "ρ = v/m",
+      "ρ = m × v",
+      "ρ = v × m"
+    ],
+    "correctOption": "ρ = m/v"
+  },
+  {
+    "question": "Which of the following is a vector quantity?",
+    "options": [
+      "Speed",
+      "Distance",
+      "Displacement",
+      "Time"
+    ],
+    "correctOption": "Displacement"
+  },
+  {
+    "question": "What is the gravitational acceleration near the surface of the Earth?",
+    "options": [
+      "9.8 m/s²",
+      "10 m/s²",
+      "11 m/s²",
+      "12 m/s²"
+    ],
+    "correctOption": "9.8 m/s²"
+  },
+  {
+    "question": "What is the formula for Ohm's Law?",
+    "options": [
+      "V = IR",
+      "V = I/R",
+      "V = R/I",
+      "V = I × R"
+    ],
+    "correctOption": "V = IR"
+  },
+  {
+    "question": "What is the unit of electrical resistance?",
+    "options": [
+      "Volt",
+      "Ampere",
+      "Ohm",
+      "Watt"
+    ],
+    "correctOption": "Ohm"
+  },
+  {
+    "question": "What is the principle behind the operation of a lever?",
+    "options": [
+      "Conservation of energy",
+      "Conservation of momentum",
+      "Mechanical advantage",
+      "Electromagnetic induction"
+    ],
+    "correctOption": "Mechanical advantage"
+  },
+  {
+    "question": "What is the unit of power in the International System of Units (SI)?",
+    "options": [
+      "Joule",
+      "Watt",
+      "Newton",
+      "Pascal"
+    ],
+    "correctOption": "Watt"
+  },
+  {
+    "question": "What type of wave requires a medium to travel through?",
+    "options": [
+      "Electromagnetic waves",
+      "Radio waves",
+      "Sound waves",
+      "Light waves"
+    ],
+    "correctOption": "Sound waves"
+  },
+  {
+    "question": "What is the energy of a photon proportional to?",
+    "options": [
+      "Its wavelength",
+      "Its frequency",
+      "Its mass",
+      "Its speed"
+    ],
+    "correctOption": "Its frequency"
+  },
+  {
+    "question": "What is the formula for calculating work done?",
+    "options": [
+      "W = F × d",
+      "W = F / d",
+      "W = d / F",
+      "W = F + d"
+    ],
+    "correctOption": "W = F × d"
+  },
+  {
+    "question": "What is the formula for calculating the period of a pendulum?",
+    "options": [
+      "T = 2π√(L/g)",
+      "T = √(L/g)",
+      "T = 2πL",
+      "T = √(g/L)"
+    ],
+    "correctOption": "T = 2π√(L/g)"
+  },
+  {
+    "question": "What is the unit of frequency?",
+    "options": [
+      "Hertz",
+      "Newton",
+      "Joule",
+      "Watt"
+    ],
+    "correctOption": "Hertz"
+  },
+  {
+    "question": "What is the term for the bending of light as it passes from one medium to another?",
+    "options": [
+      "Refraction",
+      "Reflection",
+      "Diffraction",
+      "Interference"
+    ],
+    "correctOption": "Refraction"
+  },
+  {
+    "question": "What is the formula for calculating momentum?",
+    "options": [
+      "p = m × v",
+      "p = m / v",
+      "p = v / m",
+      "p = m + v"
+    ],
+    "correctOption": "p = m × v"
+  },
+  {
+    "question": "What is the SI unit of energy?",
+    "options": [
+      "Joule",
+      "Newton",
+      "Watt",
+      "Pascal"
+    ],
+    "correctOption": "Joule"
+  },
+  {
+    "question": "What is the formula for calculating gravitational force between two masses?",
+    "options": [
+      "F = G(m1m2 / r²)",
+      "F = G(m1 + m2) / r",
+      "F = G(m1m2 + r)",
+      "F = G(r / m1m2)"
+    ],
+    "correctOption": "F = G(m1m2 / r²)"
+  },
+  {
+    "question": "What is the speed of a car traveling 60 km in 1 hour?",
+    "options": [
+      "60 km/h",
+      "30 km/h",
+      "90 km/h",
+      "120 km/h"
+    ],
+    "correctOption": "60 km/h"
+  },
+  {
+    "question": "What is the wavelength of a wave with a frequency of 5 Hz and a speed of 100 m/s?",
+    "options": [
+      "20 m",
+      "50 m",
+      "100 m",
+      "200 m"
+    ],
+    "correctOption": "20 m"
+  },
+  {
+    "question": "What is the formula for calculating the density of an object?",
+    "options": [
+      "Density = mass / volume",
+      "Density = volume / mass",
+      "Density = mass × volume",
+      "Density = volume × mass"
+    ],
+    "correctOption": "Density = mass / volume"
+  },
+  {
+    "question": "What is the unit of pressure in the SI system?",
+    "options": [
+      "Pascal",
+      "Joule",
+      "Newton",
+      "Watt"
+    ],
+    "correctOption": "Pascal"
+  },
+  {
+    "question": "What does the term 'inertia' refer to in physics?",
+    "options": [
+      "Resistance to change in motion",
+      "Rate of change of velocity",
+      "Force exerted on an object",
+      "Energy stored in an object"
+    ],
+    "correctOption": "Resistance to change in motion"
+  },
+  {
+    "question": "What is the force needed to accelerate a 5 kg mass at 2 m/s²?",
+    "options": [
+      "7 N",
+      "10 N",
+      "12 N",
+      "15 N"
+    ],
+    "correctOption": "10 N"
+  },
+  {
+    "question": "What is the term for the energy an object has due to its motion?",
+    "options": [
+      "Potential energy",
+      "Kinetic energy",
+      "Thermal energy",
+      "Chemical energy"
+    ],
+    "correctOption": "Kinetic energy"
+  },
+  {
+    "question": "What is the SI unit of electric charge?",
+    "options": [
+      "Coulomb",
+      "Ampere",
+      "Volt",
+      "Ohm"
+    ],
+    "correctOption": "Coulomb"
+  },
+  {
+    "question": "What is the principle behind a hydraulic lift?",
+    "options": [
+      "Conservation of energy",
+      "Pascal's principle",
+      "Archimedes' principle",
+      "Bernoulli's principle"
+    ],
+    "correctOption": "Pascal's principle"
+  },
+  {
+    "question": "What is the value of the gravitational constant G?",
+    "options": [
+      "6.67 × 10^-11 N m²/kg²",
+      "8.99 × 10^9 N m²/kg²",
+      "9.81 m/s²",
+      "1.38 × 10^-23 J/K"
+    ],
+    "correctOption": "6.67 × 10^-11 N m²/kg²"
+  },
+  {
+    "question": "What is the law that states energy cannot be created or destroyed, only transformed?",
+    "options": [
+      "Law of Conservation of Energy",
+      "Law of Conservation of Momentum",
+      "Newton's First Law",
+      "Ohm's Law"
+    ],
+    "correctOption": "Law of Conservation of Energy"
+  },
+  {
+    "question": "What is the force required to keep a 10 kg object moving at constant velocity on a frictionless surface?",
+    "options": [
+      "0 N",
+      "10 N",
+      "20 N",
+      "30 N"
+    ],
+    "correctOption": "0 N"
+  },
+  {
+    "question": "What is the formula for calculating work done when lifting an object?",
+    "options": [
+      "W = F × d",
+      "W = m × g × h",
+      "W = p × t",
+      "W = I × R"
+    ],
+    "correctOption": "W = m × g × h"
+  },
+  {
+    "question": "What is the velocity of an object falling freely after 3 seconds? (Assuming g = 9.8 m/s²)",
+    "options": [
+      "29.4 m/s",
+      "19.6 m/s",
+      "9.8 m/s",
+      "14.7 m/s"
+    ],
+    "correctOption": "29.4 m/s"
+  },
+  {
+    "question": "What is the term for the change in velocity over time?",
+    "options": [
+      "Speed",
+      "Acceleration",
+      "Displacement",
+      "Force"
+    ],
+    "correctOption": "Acceleration"
+  },
+  {
+    "question": "What is the term for the bending of light around the edge of an object?",
+    "options": [
+      "Refraction",
+      "Reflection",
+      "Diffraction",
+      "Interference"
+    ],
+    "correctOption": "Diffraction"
+  },
+  {
+    "question": "What is the formula for calculating the power of an electrical circuit?",
+    "options": [
+      "P = V × I",
+      "P = V / I",
+      "P = I / V",
+      "P = V + I"
+    ],
+    "correctOption": "P = V × I"
+  },
+  {
+    "question": "What is the wavelength of a wave with a frequency of 10 Hz and a speed of 50 m/s?",
+    "options": [
+      "5 m",
+      "10 m",
+      "20 m",
+      "50 m"
+    ],
+    "correctOption": "5 m"
+  },
+  {
+    "question": "What is the term for the amount of matter in an object?",
+    "options": [
+      "Weight",
+      "Mass",
+      "Volume",
+      "Density"
+    ],
+    "correctOption": "Mass"
+  },
+  {
+    "question": "What is the energy stored in an object due to its position or state called?",
+    "options": [
+      "Kinetic energy",
+      "Potential energy",
+      "Thermal energy",
+      "Chemical energy"
+    ],
+    "correctOption": "Potential energy"
+  },
+  {
+    "question": "What is the SI unit of magnetic flux?",
+    "options": [
+      "Tesla",
+      "Newton",
+      "Weber",
+      "Henry"
+    ],
+    "correctOption": "Weber"
+  },
+  {
+    "question": "What is the term for the rate at which work is done or energy is transferred?",
+    "options": [
+      "Power",
+      "Energy",
+      "Force",
+      "Work"
+    ],
+    "correctOption": "Power"
+  },
+  {
+    "question": "What is the unit of frequency in the SI system?",
+    "options": [
+      "Hertz",
+      "Joule",
+      "Watt",
+      "Newton"
+    ],
+    "correctOption": "Hertz"
+  },
+  {
+    "question": "What is the SI unit of energy?",
+    "options": [
+      "Joule",
+      "Newton",
+      "Watt",
+      "Pascal"
+    ],
+    "correctOption": "Joule"
+  },
+  {
+    "question": "What is the formula for calculating the work done in moving an object?",
+    "options": [
+      "W = F × d",
+      "W = F / d",
+      "W = m × g × h",
+      "W = p × t"
+    ],
+    "correctOption": "W = F × d"
+  },
+  {
+    "question": "What does the term 'amplitude' refer to in wave physics?",
+    "options": [
+      "Height of the wave",
+      "Speed of the wave",
+      "Frequency of the wave",
+      "Wavelength of the wave"
+    ],
+    "correctOption": "Height of the wave"
+  },
+  {
+    "question": "What is the acceleration due to gravity on the Moon (approximately)?",
+    "options": [
+      "1.6 m/s²",
+      "9.8 m/s²",
+      "12 m/s²",
+      "20 m/s²"
+    ],
+    "correctOption": "1.6 m/s²"
+  },
+  {
+    "question": "What is the formula for calculating the force exerted by an object?",
+    "options": [
+      "F = m × a",
+      "F = m / a",
+      "F = a / m",
+      "F = m + a"
+    ],
+    "correctOption": "F = m × a"
+  },
+  {
+    "question": "What is the term for the bending of light as it passes through different mediums?",
+    "options": [
+      "Refraction",
+      "Reflection",
+      "Diffraction",
+      "Interference"
+    ],
+    "correctOption": "Refraction"
+  },
+  {
+    "question": "What is the unit of electric potential difference?",
+    "options": [
+      "Volt",
+      "Ampere",
+      "Ohm",
+      "Coulomb"
+    ],
+    "correctOption": "Volt"
+  },
+  {
+    "question": "What is the term for the force that opposes the motion of an object through a fluid?",
+    "options": [
+      "Friction",
+      "Drag",
+      "Lift",
+      "Thrust"
+    ],
+    "correctOption": "Drag"
+  },
+  {
+    "question": "What is the energy of an object in motion called?",
+    "options": [
+      "Kinetic energy",
+      "Potential energy",
+      "Thermal energy",
+      "Chemical energy"
+    ],
+    "correctOption": "Kinetic energy"
+  },
+  {
+    "question": "What is the term for the resistance to motion in fluids like air or water?",
+    "options": [
+      "Friction",
+      "Drag",
+      "Lift",
+      "Thrust"
+    ],
+    "correctOption": "Drag"
+  },
+  {
+    "question": "What is the formula for calculating the period of a wave?",
+    "options": [
+      "T = 1 / f",
+      "T = f / 1",
+      "T = f × v",
+      "T = v / f"
+    ],
+    "correctOption": "T = 1 / f"
+  }
+]
 
