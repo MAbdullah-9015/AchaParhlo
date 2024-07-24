@@ -1,1 +1,643 @@
+[
+  {
+    "question": "What is the chemical symbol for gold?",
+    "options": [
+      "Au",
+      "Ag",
+      "Fe",
+      "Pb"
+    ],
+    "correctOption": "Au"
+  },
+  {
+    "question": "What is the molecular formula for water?",
+    "options": [
+      "H2O",
+      "CO2",
+      "NaCl",
+      "CH4"
+    ],
+    "correctOption": "H2O"
+  },
+  {
+    "question": "Which element is represented by the symbol 'O'?",
+    "options": [
+      "Oxygen",
+      "Gold",
+      "Silver",
+      "Iron"
+    ],
+    "correctOption": "Oxygen"
+  },
+  {
+    "question": "What is the pH value of a neutral solution?",
+    "options": [
+      "0",
+      "7",
+      "14",
+      "1"
+    ],
+    "correctOption": "7"
+  },
+  {
+    "question": "Which of the following is an alkali metal?",
+    "options": [
+      "Sodium",
+      "Calcium",
+      "Iron",
+      "Neon"
+    ],
+    "correctOption": "Sodium"
+  },
+  {
+    "question": "What is the chemical formula for table salt?",
+    "options": [
+      "NaCl",
+      "KCl",
+      "CaCO3",
+      "HCl"
+    ],
+    "correctOption": "NaCl"
+  },
+  {
+    "question": "Which gas is used in the process of respiration?",
+    "options": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "correctOption": "Oxygen"
+  },
+  {
+    "question": "What type of bond is formed by the sharing of electrons between atoms?",
+    "options": [
+      "Ionic bond",
+      "Covalent bond",
+      "Metallic bond",
+      "Hydrogen bond"
+    ],
+    "correctOption": "Covalent bond"
+  },
+  {
+    "question": "What is the chemical formula for sulfuric acid?",
+    "options": [
+      "H2SO4",
+      "HCl",
+      "HNO3",
+      "CH3COOH"
+    ],
+    "correctOption": "H2SO4"
+  },
+  {
+    "question": "What is the main component of natural gas?",
+    "options": [
+      "Methane",
+      "Ethane",
+      "Propane",
+      "Butane"
+    ],
+    "correctOption": "Methane"
+  },
+  {
+    "question": "Which element is essential for the formation of DNA?",
+    "options": [
+      "Carbon",
+      "Helium",
+      "Iron",
+      "Neon"
+    ],
+    "correctOption": "Carbon"
+  },
+  {
+    "question": "What is the atomic number of Carbon?",
+    "options": [
+      "6",
+      "8",
+      "12",
+      "14"
+    ],
+    "correctOption": "6"
+  },
+  {
+    "question": "What is the chemical formula for ethanol?",
+    "options": [
+      "C2H5OH",
+      "C2H4O2",
+      "C3H6O",
+      "CH4"
+    ],
+    "correctOption": "C2H5OH"
+  },
+  {
+    "question": "Which element is commonly used in light bulbs?",
+    "options": [
+      "Tungsten",
+      "Gold",
+      "Silver",
+      "Copper"
+    ],
+    "correctOption": "Tungsten"
+  },
+  {
+    "question": "What is the primary component of air?",
+    "options": [
+      "Nitrogen",
+      "Oxygen",
+      "Carbon Dioxide",
+      "Argon"
+    ],
+    "correctOption": "Nitrogen"
+  },
+  {
+    "question": "What is the process of separating a mixture by boiling and condensing called?",
+    "options": [
+      "Distillation",
+      "Filtration",
+      "Evaporation",
+      "Chromatography"
+    ],
+    "correctOption": "Distillation"
+  },
+  {
+    "question": "Which acid is found in citrus fruits?",
+    "options": [
+      "Citric acid",
+      "Acetic acid",
+      "Sulfuric acid",
+      "Hydrochloric acid"
+    ],
+    "correctOption": "Citric acid"
+  },
+  {
+    "question": "What is the chemical formula for glucose?",
+    "options": [
+      "C6H12O6",
+      "C6H6O6",
+      "C5H10O5",
+      "C5H5O5"
+    ],
+    "correctOption": "C6H12O6"
+  },
+  {
+    "question": "Which element is represented by the symbol 'Na'?",
+    "options": [
+      "Sodium",
+      "Neon",
+      "Nitrogen",
+      "Nickel"
+    ],
+    "correctOption": "Sodium"
+  },
+  {
+    "question": "What is the chemical formula for methane?",
+    "options": [
+      "CH4",
+      "C2H6",
+      "C3H8",
+      "C4H10"
+    ],
+    "correctOption": "CH4"
+  },
+  {
+    "question": "Which of the following is a noble gas?",
+    "options": [
+      "Neon",
+      "Chlorine",
+      "Oxygen",
+      "Nitrogen"
+    ],
+    "correctOption": "Neon"
+  },
+  {
+    "question": "What is the term for a solution that has a pH less than 7?",
+    "options": [
+      "Acidic",
+      "Basic",
+      "Neutral",
+      "Alkaline"
+    ],
+    "correctOption": "Acidic"
+  },
+  {
+    "question": "What is the name of the process where a solid changes directly into a gas?",
+    "options": [
+      "Sublimation",
+      "Condensation",
+      "Deposition",
+      "Evaporation"
+    ],
+    "correctOption": "Sublimation"
+  },
+  {
+    "question": "What is the common name for sodium chloride?",
+    "options": [
+      "Table salt",
+      "Baking soda",
+      "Epsom salt",
+      "Lime"
+    ],
+    "correctOption": "Table salt"
+  },
+  {
+    "question": "Which element is commonly used in batteries?",
+    "options": [
+      "Lithium",
+      "Iron",
+      "Lead",
+      "Copper"
+    ],
+    "correctOption": "Lithium"
+  },
+  {
+    "question": "What is the process of converting a liquid into a gas called?",
+    "options": [
+      "Evaporation",
+      "Condensation",
+      "Freezing",
+      "Melting"
+    ],
+    "correctOption": "Evaporation"
+  },
+  {
+    "question": "What is the name of the bond formed by the transfer of electrons between atoms?",
+    "options": [
+      "Ionic bond",
+      "Covalent bond",
+      "Metallic bond",
+      "Hydrogen bond"
+    ],
+    "correctOption": "Ionic bond"
+  },
+  {
+    "question": "What is the chemical formula for hydrochloric acid?",
+    "options": [
+      "HCl",
+      "H2SO4",
+      "HNO3",
+      "CH3COOH"
+    ],
+    "correctOption": "HCl"
+  },
+  {
+    "question": "Which element is the most abundant in the Earth's crust?",
+    "options": [
+      "Oxygen",
+      "Silicon",
+      "Aluminum",
+      "Iron"
+    ],
+    "correctOption": "Oxygen"
+  },
+  {
+    "question": "What is the name of the process where a gas turns into a liquid?",
+    "options": [
+      "Condensation",
+      "Evaporation",
+      "Sublimation",
+      "Deposition"
+    ],
+    "correctOption": "Condensation"
+  },
+  {
+    "question": "What is the chemical symbol for potassium?",
+    "options": [
+      "K",
+      "P",
+      "Po",
+      "Pt"
+    ],
+    "correctOption": "K"
+  },
+  {
+    "question": "What is the term for a substance that speeds up a chemical reaction without being consumed?",
+    "options": [
+      "Catalyst",
+      "Reagent",
+      "Solvent",
+      "Solute"
+    ],
+    "correctOption": "Catalyst"
+  },
+  {
+    "question": "What is the pH range of a basic solution?",
+    "options": [
+      "Greater than 7",
+      "Less than 7",
+      "Equal to 7",
+      "0-7"
+    ],
+    "correctOption": "Greater than 7"
+  },
+  {
+    "question": "Which element is used in the production of steel?",
+    "options": [
+      "Iron",
+      "Copper",
+      "Aluminum",
+      "Zinc"
+    ],
+    "correctOption": "Iron"
+  },
+  {
+    "question": "What is the name of the process where a liquid changes into a solid?",
+    "options": [
+      "Freezing",
+      "Melting",
+      "Sublimation",
+      "Condensation"
+    ],
+    "correctOption": "Freezing"
+  },
+  {
+    "question": "What is the chemical symbol for Silver?",
+    "options": [
+      "Ag",
+      "Au",
+      "Pb",
+      "Sn"
+    ],
+    "correctOption": "Ag"
+  },
+  {
+    "question": "Which of the following is a diatomic molecule?",
+    "options": [
+      "O2",
+      "H2O",
+      "CO2",
+      "CH4"
+    ],
+    "correctOption": "O2"
+  },
+  {
+    "question": "What is the chemical formula for acetic acid?",
+    "options": [
+      "CH3COOH",
+      "H2SO4",
+      "HCl",
+      "C6H12O6"
+    ],
+    "correctOption": "CH3COOH"
+  },
+  {
+    "question": "Which of the following is a common use of sulfur dioxide?",
+    "options": [
+      "Preservative",
+      "Antiseptic",
+      "Dye",
+      "Pesticide"
+    ],
+    "correctOption": "Preservative"
+  },
+  {
+    "question": "What is the process of combining two or more substances to form a new substance called?",
+    "options": [
+      "Chemical reaction",
+      "Physical change",
+      "Phase transition",
+      "Dissolution"
+    ],
+    "correctOption": "Chemical reaction"
+  },
+  {
+    "question": "Which acid is used in car batteries?",
+    "options": [
+      "Sulfuric acid",
+      "Hydrochloric acid",
+      "Nitric acid",
+      "Acetic acid"
+    ],
+    "correctOption": "Sulfuric acid"
+  },
+  {
+    "question": "What is the chemical symbol for chlorine?",
+    "options": [
+      "Cl",
+      "Ch",
+      "Cn",
+      "Co"
+    ],
+    "correctOption": "Cl"
+  },
+  {
+    "question": "What is the primary gas in the atmosphere of Mars?",
+    "options": [
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Oxygen",
+      "Argon"
+    ],
+    "correctOption": "Carbon Dioxide"
+  },
+  {
+    "question": "What is the name of the process where a solid turns directly into a gas?",
+    "options": [
+      "Sublimation",
+      "Deposition",
+      "Evaporation",
+      "Melting"
+    ],
+    "correctOption": "Sublimation"
+  },
+  {
+    "question": "What is the chemical symbol for Mercury?",
+    "options": [
+      "Hg",
+      "Mn",
+      "Mo",
+      "Mg"
+    ],
+    "correctOption": "Hg"
+  },
+  {
+    "question": "Which of the following is a type of hydrocarbon?",
+    "options": [
+      "Alkane",
+      "Sulfuric acid",
+      "Sodium chloride",
+      "Glucose"
+    ],
+    "correctOption": "Alkane"
+  },
+  {
+    "question": "What is the name of the bond formed between two metal atoms?",
+    "options": [
+      "Metallic bond",
+      "Covalent bond",
+      "Ionic bond",
+      "Hydrogen bond"
+    ],
+    "correctOption": "Metallic bond"
+  },
+  {
+    "question": "What is the chemical formula for ammonia?",
+    "options": [
+      "NH3",
+      "NH4",
+      "N2H4",
+      "N2O"
+    ],
+    "correctOption": "NH3"
+  },
+  {
+    "question": "Which element is essential for respiration in humans?",
+    "options": [
+      "Oxygen",
+      "Hydrogen",
+      "Nitrogen",
+      "Carbon Dioxide"
+    ],
+    "correctOption": "Oxygen"
+  },
+  {
+    "question": "What is the term for a substance that donates protons in a chemical reaction?",
+    "options": [
+      "Acid",
+      "Base",
+      "Salt",
+      "Solvent"
+    ],
+    "correctOption": "Acid"
+  },
+  {
+    "question": "What is the chemical formula for carbon dioxide?",
+    "options": [
+      "CO2",
+      "CO",
+      "C2H4",
+      "CH4"
+    ],
+    "correctOption": "CO2"
+  },
+  {
+    "question": "Which compound is commonly used as a disinfectant?",
+    "options": [
+      "Bleach",
+      "Ethanol",
+      "Hydrogen peroxide",
+      "Acetone"
+    ],
+    "correctOption": "Bleach"
+  },
+  {
+    "question": "What is the common name for the compound with the formula H2SO4?",
+    "options": [
+      "Sulfuric acid",
+      "Hydrochloric acid",
+      "Nitric acid",
+      "Acetic acid"
+    ],
+    "correctOption": "Sulfuric acid"
+  },
+  {
+    "question": "What is the name of the process where a liquid changes into a gas?",
+    "options": [
+      "Evaporation",
+      "Condensation",
+      "Freezing",
+      "Melting"
+    ],
+    "correctOption": "Evaporation"
+  },
+  {
+    "question": "Which of the following elements is a noble gas?",
+    "options": [
+      "Neon",
+      "Chlorine",
+      "Sulfur",
+      "Bromine"
+    ],
+    "correctOption": "Neon"
+  },
+  {
+    "question": "What is the term for a solution with a pH greater than 7?",
+    "options": [
+      "Basic",
+      "Acidic",
+      "Neutral",
+      "Super acidic"
+    ],
+    "correctOption": "Basic"
+  },
+  {
+    "question": "What is the chemical symbol for Iron?",
+    "options": [
+      "Fe",
+      "Ir",
+      "I",
+      "In"
+    ],
+    "correctOption": "Fe"
+  },
+  {
+    "question": "Which of the following is an organic molecule?",
+    "options": [
+      "Methane",
+      "Water",
+      "Sodium chloride",
+      "Sulfur dioxide"
+    ],
+    "correctOption": "Methane"
+  },
+  {
+    "question": "What is the name of the process in which an acid reacts with a base to form water and a salt?",
+    "options": [
+      "Neutralization",
+      "Oxidation",
+      "Reduction",
+      "Decomposition"
+    ],
+    "correctOption": "Neutralization"
+  },
+  {
+    "question": "Which of the following is a property of metals?",
+    "options": [
+      "Good conductors of electricity",
+      "Brittle",
+      "Dull appearance",
+      "Poor conductors of heat"
+    ],
+    "correctOption": "Good conductors of electricity"
+  },
+  {
+    "question": "What is the name of the process where a solid is separated from a liquid by filtering?",
+    "options": [
+      "Filtration",
+      "Distillation",
+      "Sublimation",
+      "Chromatography"
+    ],
+    "correctOption": "Filtration"
+  },
+  {
+    "question": "What is the chemical formula for hydrochloric acid?",
+    "options": [
+      "HCl",
+      "H2SO4",
+      "HNO3",
+      "CH3COOH"
+    ],
+    "correctOption": "HCl"
+  },
+  {
+    "question": "Which element is used to make light bulbs and heating elements?",
+    "options": [
+      "Tungsten",
+      "Gold",
+      "Copper",
+      "Zinc"
+    ],
+    "correctOption": "Tungsten"
+  },
+  {
+    "question": "What is the name of the process where a liquid changes into a gas at its boiling point?",
+    "options": [
+      "Boiling",
+      "Evaporation",
+      "Condensation",
+      "Freezing"
+    ],
+    "correctOption": "Boiling"
+  }
+]
 
