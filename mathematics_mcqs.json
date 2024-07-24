@@ -1,1 +1,472 @@
-
+[
+  {
+    "question": "What is the value of 7 + 3?",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "correctOption": "10"
+  },
+  {
+    "question": "What is 15% of 200?",
+    "options": [
+      "25",
+      "30",
+      "35",
+      "40"
+    ],
+    "correctOption": "30"
+  },
+  {
+    "question": "If 3x = 21, what is x?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctOption": "7"
+  },
+  {
+    "question": "What is the square root of 81?",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "correctOption": "9"
+  },
+  {
+    "question": "What is the value of 2^5?",
+    "options": [
+      "16",
+      "32",
+      "64",
+      "128"
+    ],
+    "correctOption": "32"
+  },
+  {
+    "question": "If x + y = 12 and x = 5, what is y?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "correctOption": "7"
+  },
+  {
+    "question": "What is the area of a rectangle with a length of 5 units and a width of 3 units?",
+    "options": [
+      "8 square units",
+      "12 square units",
+      "15 square units",
+      "18 square units"
+    ],
+    "correctOption": "15 square units"
+  },
+  {
+    "question": "What is the value of π (pi) to two decimal places?",
+    "options": [
+      "3.12",
+      "3.14",
+      "3.16",
+      "3.18"
+    ],
+    "correctOption": "3.14"
+  },
+  {
+    "question": "If 4x = 20, what is x?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctOption": "5"
+  },
+  {
+    "question": "What is the perimeter of a square with side length 6 units?",
+    "options": [
+      "18 units",
+      "20 units",
+      "22 units",
+      "24 units"
+    ],
+    "correctOption": "24 units"
+  },
+  {
+    "question": "What is 25% of 80?",
+    "options": [
+      "15",
+      "20",
+      "25",
+      "30"
+    ],
+    "correctOption": "20"
+  },
+  {
+    "question": "If y = 3x and x = 2, what is y?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctOption": "6"
+  },
+  {
+    "question": "What is the sum of the angles in a triangle?",
+    "options": [
+      "90 degrees",
+      "180 degrees",
+      "270 degrees",
+      "360 degrees"
+    ],
+    "correctOption": "180 degrees"
+  },
+  {
+    "question": "What is the value of 6 × 7?",
+    "options": [
+      "40",
+      "42",
+      "44",
+      "46"
+    ],
+    "correctOption": "42"
+  },
+  {
+    "question": "What is the value of 9 - 3?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctOption": "6"
+  },
+  {
+    "question": "What is the value of 4^2?",
+    "options": [
+      "8",
+      "12",
+      "16",
+      "20"
+    ],
+    "correctOption": "16"
+  },
+  {
+    "question": "If x - 5 = 10, what is x?",
+    "options": [
+      "13",
+      "14",
+      "15",
+      "16"
+    ],
+    "correctOption": "15"
+  },
+  {
+    "question": "What is the product of 8 and 9?",
+    "options": [
+      "64",
+      "72",
+      "80",
+      "88"
+    ],
+    "correctOption": "72"
+  },
+  {
+    "question": "What is the value of 3 + 2 × 5?",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "correctOption": "13"
+  },
+  {
+    "question": "If 5x = 25, what is x?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctOption": "5"
+  },
+  {
+    "question": "What is the value of 100 ÷ 4?",
+    "options": [
+      "20",
+      "25",
+      "30",
+      "35"
+    ],
+    "correctOption": "25"
+  },
+  {
+    "question": "What is the value of 2^3?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "correctOption": "8"
+  },
+  {
+    "question": "What is the perimeter of a rectangle with length 8 units and width 3 units?",
+    "options": [
+      "18 units",
+      "20 units",
+      "22 units",
+      "24 units"
+    ],
+    "correctOption": "22 units"
+  },
+  {
+    "question": "What is the value of 3! (3 factorial)?",
+    "options": [
+      "3",
+      "6",
+      "9",
+      "12"
+    ],
+    "correctOption": "6"
+  },
+  {
+    "question": "What is the value of 2π (pi) to two decimal places?",
+    "options": [
+      "5.12",
+      "5.24",
+      "6.28",
+      "6.42"
+    ],
+    "correctOption": "6.28"
+  },
+  {
+    "question": "What is the product of 4 and 7?",
+    "options": [
+      "24",
+      "28",
+      "32",
+      "36"
+    ],
+    "correctOption": "28"
+  },
+  {
+    "question": "What is the value of 8 - 3?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctOption": "5"
+  },
+  {
+    "question": "What is the value of 7^2?",
+    "options": [
+      "42",
+      "44",
+      "48",
+      "49"
+    ],
+    "correctOption": "49"
+  },
+  {
+    "question": "If y = x + 5 and x = 10, what is y?",
+    "options": [
+      "12",
+      "13",
+      "14",
+      "15"
+    ],
+    "correctOption": "15"
+  },
+  {
+    "question": "What is the value of 9 × 9?",
+    "options": [
+      "72",
+      "81",
+      "90",
+      "99"
+    ],
+    "correctOption": "81"
+  },
+  {
+    "question": "What is the sum of 15 and 28?",
+    "options": [
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "correctOption": "43"
+  },
+  {
+    "question": "What is the value of 6 ÷ 2?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctOption": "3"
+  },
+  {
+    "question": "What is the area of a triangle with base 6 units and height 4 units?",
+    "options": [
+      "10 square units",
+      "12 square units",
+      "14 square units",
+      "16 square units"
+    ],
+    "correctOption": "12 square units"
+  },
+  {
+    "question": "What is the value of 5 + 5 ÷ 5?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctOption": "6"
+  },
+  {
+    "question": "If x + 3 = 7, what is x?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctOption": "4"
+  },
+  {
+    "question": "What is the value of 10% of 500?",
+    "options": [
+      "30",
+      "40",
+      "50",
+      "60"
+    ],
+    "correctOption": "50"
+  },
+  {
+    "question": "What is the value of 10 + 4 × 2?",
+    "options": [
+      "16",
+      "18",
+      "20",
+      "22"
+    ],
+    "correctOption": "18"
+  },
+  {
+    "question": "If 12x = 48, what is x?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctOption": "4"
+  },
+  {
+    "question": "What is the value of 15 - 9?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctOption": "6"
+  },
+  {
+    "question": "What is the area of a circle with a radius of 3 units? (Use π = 3.14)",
+    "options": [
+      "18.84 square units",
+      "21.24 square units",
+      "28.26 square units",
+      "31.42 square units"
+    ],
+    "correctOption": "28.26 square units"
+  },
+  {
+    "question": "What is the value of 2^4?",
+    "options": [
+      "8",
+      "12",
+      "16",
+      "20"
+    ],
+    "correctOption": "16"
+  },
+  {
+    "question": "If 6x = 36, what is x?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctOption": "6"
+  },
+  {
+    "question": "What is the value of 3 × 3 × 3?",
+    "options": [
+      "9",
+      "18",
+      "27",
+      "36"
+    ],
+    "correctOption": "27"
+  },
+  {
+    "question": "What is the perimeter of a triangle with sides 3, 4, and 5 units?",
+    "options": [
+      "10 units",
+      "11 units",
+      "12 units",
+      "13 units"
+    ],
+    "correctOption": "12 units"
+  },
+  {
+    "question": "What is 20% of 50?",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "correctOption": "10"
+  },
+  {
+    "question": "If y = 2x and x = 7, what is y?",
+    "options": [
+      "12",
+      "13",
+      "14",
+      "15"
+    ],
+    "correctOption": "14"
+  },
+  {
+    "question": "What is the value of 3 × 4 + 2?",
+    "options": [
+      "10",
+      "12",
+      "14",
+      "16"
+    ],
+    "correctOption": "14"
+  }
+]
