@@ -1,1 +1,573 @@
+[
+  {
+    "question": "What is the basic unit of life?",
+    "options": [
+      "Cell",
+      "Tissue",
+      "Organ",
+      "Organism"
+    ],
+    "correctOption": "Cell"
+  },
+  {
+    "question": "What is the powerhouse of the cell?",
+    "options": [
+      "Mitochondria",
+      "Nucleus",
+      "Ribosome",
+      "Endoplasmic Reticulum"
+    ],
+    "correctOption": "Mitochondria"
+  },
+  {
+    "question": "Which molecule carries genetic information?",
+    "options": [
+      "DNA",
+      "RNA",
+      "Protein",
+      "Carbohydrate"
+    ],
+    "correctOption": "DNA"
+  },
+  {
+    "question": "What is the function of ribosomes in a cell?",
+    "options": [
+      "Protein synthesis",
+      "Energy production",
+      "DNA replication",
+      "Cell division"
+    ],
+    "correctOption": "Protein synthesis"
+  },
+  {
+    "question": "What is the process by which cells divide to form two identical daughter cells?",
+    "options": [
+      "Mitosis",
+      "Meiosis",
+      "Fertilization",
+      "Binary fission"
+    ],
+    "correctOption": "Mitosis"
+  },
+  {
+    "question": "What is the primary function of the chloroplast in plant cells?",
+    "options": [
+      "Photosynthesis",
+      "Cell respiration",
+      "Protein synthesis",
+      "Cell division"
+    ],
+    "correctOption": "Photosynthesis"
+  },
+  {
+    "question": "What is the name of the process by which plants make their food?",
+    "options": [
+      "Photosynthesis",
+      "Respiration",
+      "Fermentation",
+      "Transpiration"
+    ],
+    "correctOption": "Photosynthesis"
+  },
+  {
+    "question": "What type of bond holds the two strands of DNA together?",
+    "options": [
+      "Hydrogen bond",
+      "Covalent bond",
+      "Ionic bond",
+      "Metallic bond"
+    ],
+    "correctOption": "Hydrogen bond"
+  },
+  {
+    "question": "Which organelle is responsible for producing ATP?",
+    "options": [
+      "Mitochondria",
+      "Nucleus",
+      "Ribosome",
+      "Golgi apparatus"
+    ],
+    "correctOption": "Mitochondria"
+  },
+  {
+    "question": "What is the role of the endoplasmic reticulum in the cell?",
+    "options": [
+      "Protein and lipid synthesis",
+      "DNA replication",
+      "Energy production",
+      "Cell division"
+    ],
+    "correctOption": "Protein and lipid synthesis"
+  },
+  {
+    "question": "Which type of cell lacks a nucleus?",
+    "options": [
+      "Prokaryotic cell",
+      "Eukaryotic cell",
+      "Animal cell",
+      "Plant cell"
+    ],
+    "correctOption": "Prokaryotic cell"
+  },
+  {
+    "question": "What is the function of the cell membrane?",
+    "options": [
+      "Regulates what enters and exits the cell",
+      "Stores genetic information",
+      "Provides energy to the cell",
+      "Synthesizes proteins"
+    ],
+    "correctOption": "Regulates what enters and exits the cell"
+  },
+  {
+    "question": "Which structure in the cell is responsible for packaging and distributing proteins?",
+    "options": [
+      "Golgi apparatus",
+      "Endoplasmic reticulum",
+      "Mitochondria",
+      "Lysosome"
+    ],
+    "correctOption": "Golgi apparatus"
+  },
+  {
+    "question": "What is the basic unit of heredity?",
+    "options": [
+      "Gene",
+      "Chromosome",
+      "DNA",
+      "RNA"
+    ],
+    "correctOption": "Gene"
+  },
+  {
+    "question": "What is the role of lysosomes in the cell?",
+    "options": [
+      "Digestion of waste materials",
+      "Production of ATP",
+      "Protein synthesis",
+      "DNA replication"
+    ],
+    "correctOption": "Digestion of waste materials"
+  },
+  {
+    "question": "What is the term for the division of the nucleus during cell division?",
+    "options": [
+      "Mitosis",
+      "Meiosis",
+      "Cytokinesis",
+      "Fission"
+    ],
+    "correctOption": "Mitosis"
+  },
+  {
+    "question": "What is the role of the nucleus in the cell?",
+    "options": [
+      "Contains genetic material",
+      "Produces ATP",
+      "Synthesizes proteins",
+      "Stores nutrients"
+    ],
+    "correctOption": "Contains genetic material"
+  },
+  {
+    "question": "What is the function of the vacuole in plant cells?",
+    "options": [
+      "Storage of nutrients and waste",
+      "Energy production",
+      "Protein synthesis",
+      "Cell division"
+    ],
+    "correctOption": "Storage of nutrients and waste"
+  },
+  {
+    "question": "What is the name of the process by which cells obtain energy from glucose?",
+    "options": [
+      "Cellular respiration",
+      "Photosynthesis",
+      "Fermentation",
+      "Glycolysis"
+    ],
+    "correctOption": "Cellular respiration"
+  },
+  {
+    "question": "Which macromolecule is primarily responsible for genetic information?",
+    "options": [
+      "Nucleic acids",
+      "Proteins",
+      "Lipids",
+      "Carbohydrates"
+    ],
+    "correctOption": "Nucleic acids"
+  },
+  {
+    "question": "What is the process by which cells make more cells called?",
+    "options": [
+      "Cell division",
+      "Cell differentiation",
+      "Cell specialization",
+      "Cellular respiration"
+    ],
+    "correctOption": "Cell division"
+  },
+  {
+    "question": "What is the term for the study of heredity and the variation of inherited characteristics?",
+    "options": [
+      "Genetics",
+      "Biochemistry",
+      "Ecology",
+      "Evolution"
+    ],
+    "correctOption": "Genetics"
+  },
+  {
+    "question": "What is the term for the genetic makeup of an organism?",
+    "options": [
+      "Genotype",
+      "Phenotype",
+      "Allele",
+      "Chromosome"
+    ],
+    "correctOption": "Genotype"
+  },
+  {
+    "question": "What is the role of the ribosome in protein synthesis?",
+    "options": [
+      "Translates mRNA into amino acid sequence",
+      "Replicates DNA",
+      "Transcribes DNA into RNA",
+      "Packages proteins"
+    ],
+    "correctOption": "Translates mRNA into amino acid sequence"
+  },
+  {
+    "question": "What is the primary function of the cell wall in plant cells?",
+    "options": [
+      "Provides structural support",
+      "Stores genetic information",
+      "Facilitates cell division",
+      "Regulates material transport"
+    ],
+    "correctOption": "Provides structural support"
+  },
+  {
+    "question": "Which part of the cell is responsible for regulating the passage of substances in and out of the cell?",
+    "options": [
+      "Cell membrane",
+      "Nucleus",
+      "Cytoplasm",
+      "Endoplasmic reticulum"
+    ],
+    "correctOption": "Cell membrane"
+  },
+  {
+    "question": "What is the term for a change in the DNA sequence?",
+    "options": [
+      "Mutation",
+      "Transcription",
+      "Translation",
+      "Replication"
+    ],
+    "correctOption": "Mutation"
+  },
+  {
+    "question": "What process results in the formation of gametes?",
+    "options": [
+      "Meiosis",
+      "Mitosis",
+      "Binary fission",
+      "Fertilization"
+    ],
+    "correctOption": "Meiosis"
+  },
+  {
+    "question": "What is the role of the mitochondria in cellular respiration?",
+    "options": [
+      "Produces ATP",
+      "Stores DNA",
+      "Synthesizes proteins",
+      "Digests waste materials"
+    ],
+    "correctOption": "Produces ATP"
+  },
+  {
+    "question": "Which structure in the cell is involved in the synthesis of lipids?",
+    "options": [
+      "Smooth endoplasmic reticulum",
+      "Rough endoplasmic reticulum",
+      "Golgi apparatus",
+      "Lysosome"
+    ],
+    "correctOption": "Smooth endoplasmic reticulum"
+  },
+  {
+    "question": "What is the process by which RNA is synthesized from a DNA template?",
+    "options": [
+      "Transcription",
+      "Translation",
+      "Replication",
+      "Translocation"
+    ],
+    "correctOption": "Transcription"
+  },
+  {
+    "question": "What is the primary role of chlorophyll in plants?",
+    "options": [
+      "Absorbs light energy for photosynthesis",
+      "Stores water",
+      "Transport nutrients",
+      "Protects cells from damage"
+    ],
+    "correctOption": "Absorbs light energy for photosynthesis"
+  },
+  {
+    "question": "What is the term for the process by which cells remove waste products?",
+    "options": [
+      "Excretion",
+      "Absorption",
+      "Metabolism",
+      "Transport"
+    ],
+    "correctOption": "Excretion"
+  },
+  {
+    "question": "What is the name of the cell structure that contains digestive enzymes?",
+    "options": [
+      "Lysosome",
+      "Peroxisome",
+      "Ribosome",
+      "Golgi apparatus"
+    ],
+    "correctOption": "Lysosome"
+  },
+  {
+    "question": "What is the role of the cell's cytoskeleton?",
+    "options": [
+      "Provides structural support and shape",
+      "Stores genetic information",
+      "Synthesizes proteins",
+      "Regulates material transport"
+    ],
+    "correctOption": "Provides structural support and shape"
+  },
+  {
+    "question": "What is the term for the scientific study of organisms and their interactions with the environment?",
+    "options": [
+      "Ecology",
+      "Genetics",
+      "Physiology",
+      "Biochemistry"
+    ],
+    "correctOption": "Ecology"
+  },
+  {
+    "question": "What type of molecule is an enzyme?",
+    "options": [
+      "Protein",
+      "Carbohydrate",
+      "Lipid",
+      "Nucleic acid"
+    ],
+    "correctOption": "Protein"
+  },
+  {
+    "question": "What is the process by which cells convert glucose into energy in the presence of oxygen?",
+    "options": [
+      "Aerobic respiration",
+      "Anaerobic respiration",
+      "Photosynthesis",
+      "Fermentation"
+    ],
+    "correctOption": "Aerobic respiration"
+  },
+  {
+    "question": "What is the term for the movement of molecules from an area of higher concentration to an area of lower concentration?",
+    "options": [
+      "Diffusion",
+      "Osmosis",
+      "Active transport",
+      "Facilitated diffusion"
+    ],
+    "correctOption": "Diffusion"
+  },
+  {
+    "question": "What is the term for the process where cells divide to form reproductive cells?",
+    "options": [
+      "Meiosis",
+      "Mitosis",
+      "Binary fission",
+      "Cell differentiation"
+    ],
+    "correctOption": "Meiosis"
+  },
+  {
+    "question": "Which molecule carries amino acids to the ribosome during protein synthesis?",
+    "options": [
+      "tRNA",
+      "mRNA",
+      "rRNA",
+      "DNA"
+    ],
+    "correctOption": "tRNA"
+  },
+  {
+    "question": "What is the term for the process of forming new cells for growth and repair?",
+    "options": [
+      "Mitosis",
+      "Meiosis",
+      "Fission",
+      "Maturation"
+    ],
+    "correctOption": "Mitosis"
+  },
+  {
+    "question": "What is the term for a change in the observable characteristics of an organism?",
+    "options": [
+      "Phenotype",
+      "Genotype",
+      "Allele",
+      "Chromosome"
+    ],
+    "correctOption": "Phenotype"
+  },
+  {
+    "question": "What is the role of the nucleolus in the cell?",
+    "options": [
+      "Ribosome production",
+      "ATP production",
+      "Lipid synthesis",
+      "Waste removal"
+    ],
+    "correctOption": "Ribosome production"
+  },
+  {
+    "question": "What is the term for a set of three nucleotides on mRNA that codes for a specific amino acid?",
+    "options": [
+      "Codon",
+      "Anticodon",
+      "Exon",
+      "Intron"
+    ],
+    "correctOption": "Codon"
+  },
+  {
+    "question": "What is the function of the Golgi apparatus in the cell?",
+    "options": [
+      "Modifies, sorts, and packages proteins and lipids",
+      "Synthesizes ATP",
+      "Transcribes DNA",
+      "Replicates DNA"
+    ],
+    "correctOption": "Modifies, sorts, and packages proteins and lipids"
+  },
+  {
+    "question": "What is the name of the process by which cells convert glucose into energy without using oxygen?",
+    "options": [
+      "Anaerobic respiration",
+      "Aerobic respiration",
+      "Photosynthesis",
+      "Fermentation"
+    ],
+    "correctOption": "Anaerobic respiration"
+  },
+  {
+    "question": "What is the name of the cell structure that helps with the movement of chromosomes during cell division?",
+    "options": [
+      "Centrioles",
+      "Mitochondria",
+      "Lysosomes",
+      "Ribosomes"
+    ],
+    "correctOption": "Centrioles"
+  },
+  {
+    "question": "Which of the following is a key concept of Darwin's theory of evolution?",
+    "options": [
+      "Natural selection",
+      "Genetic engineering",
+      "Photosynthesis",
+      "Mendelian inheritance"
+    ],
+    "correctOption": "Natural selection"
+  },
+  {
+    "question": "What is the term for the process where cells become specialized for specific functions?",
+    "options": [
+      "Cell differentiation",
+      "Cell division",
+      "Cell replication",
+      "Cell fusion"
+    ],
+    "correctOption": "Cell differentiation"
+  },
+  {
+    "question": "What is the function of the cell's cytoplasm?",
+    "options": [
+      "Supports and suspends organelles",
+      "Stores genetic information",
+      "Processes nutrients",
+      "Produces ATP"
+    ],
+    "correctOption": "Supports and suspends organelles"
+  },
+  {
+    "question": "Which of the following is a primary component of the cell membrane?",
+    "options": [
+      "Phospholipids",
+      "Proteins",
+      "Carbohydrates",
+      "Nucleic acids"
+    ],
+    "correctOption": "Phospholipids"
+  },
+  {
+    "question": "What is the term for the series of biochemical reactions that convert glucose into energy?",
+    "options": [
+      "Glycolysis",
+      "Krebs cycle",
+      "Electron transport chain",
+      "Calvin cycle"
+    ],
+    "correctOption": "Glycolysis"
+  },
+  {
+    "question": "What is the term for the process of cell growth and replication?",
+    "options": [
+      "Cell cycle",
+      "Meiosis",
+      "Fertilization",
+      "Apoptosis"
+    ],
+    "correctOption": "Cell cycle"
+  },
+  {
+    "question": "What type of cell contains membrane-bound organelles?",
+    "options": [
+      "Eukaryotic cell",
+      "Prokaryotic cell",
+      "Bacterial cell",
+      "Archaea"
+    ],
+    "correctOption": "Eukaryotic cell"
+  },
+  {
+    "question": "What is the role of ATP in the cell?",
+    "options": [
+      "Provides energy",
+      "Stores genetic information",
+      "Synthesizes proteins",
+      "Facilitates cell division"
+    ],
+    "correctOption": "Provides energy"
+  },
+  {
+    "question": "What is the name of the process where a cell divides to form two daughter cells with half the number of chromosomes?",
+    "options": [
+      "Meiosis",
+      "Mitosis",
+      "Binary fission",
+      "Budding"
+    ],
+    "correctOption": "Meiosis"
+  }
+]
 
