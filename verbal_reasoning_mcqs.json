@@ -1,28 +1,833 @@
-{
-  "levels": {
-    "1": [
-      {
-        "question": "Question 1 for Level 1?",
-        "options": ["Option 1", "Option 2", "Option 3", "Option 4"],
-        "correctOption": "Option 1"
-      },
-      {
-        "question": "Question 2 for Level 1?",
-        "options": ["Option 1", "Option 2", "Option 3", "Option 4"],
-        "correctOption": "Option 2"
-      }
+[
+  {
+    "question": "Which of the following words is the odd one out?",
+    "options": [
+      "Apple",
+      "Banana",
+      "Carrot",
+      "Orange"
     ],
-    "2": [
-      {
-        "question": "Question 1 for Level 2?",
-        "options": ["Option 1", "Option 2", "Option 3", "Option 4"],
-        "correctOption": "Option 3"
-      },
-      {
-        "question": "Question 2 for Level 2?",
-        "options": ["Option 1", "Option 2", "Option 3", "Option 4"],
-        "correctOption": "Option 4"
-      }
-    ]
+    "correctOption": "Carrot"
+  },
+  {
+    "question": "Find the missing term in the series: 2, 5, 10, 17, __.",
+    "options": [
+      "24",
+      "26",
+      "28",
+      "30"
+    ],
+    "correctOption": "26"
+  },
+  {
+    "question": "Which of the following words is the synonym of 'abandon'?",
+    "options": [
+      "Leave",
+      "Adopt",
+      "Continue",
+      "Protect"
+    ],
+    "correctOption": "Leave"
+  },
+  {
+    "question": "If all roses are flowers and some flowers fade quickly, which of the following is true?",
+    "options": [
+      "Some roses fade quickly",
+      "All flowers are roses",
+      "All roses fade quickly",
+      "No flowers fade quickly"
+    ],
+    "correctOption": "Some roses fade quickly"
+  },
+  {
+    "question": "Which of the following can be arranged into a 5-letter English word?",
+    "options": [
+      "RAPET",
+      "ETARP",
+      "PTERA",
+      "TEAPR"
+    ],
+    "correctOption": "TEAPR"
+  },
+  {
+    "question": "Which word does NOT belong with the others?",
+    "options": [
+      "Book",
+      "Index",
+      "Glossary",
+      "Chapter"
+    ],
+    "correctOption": "Book"
+  },
+  {
+    "question": "Find the missing term in the series: A, D, G, J, __.",
+    "options": [
+      "K",
+      "M",
+      "N",
+      "P"
+    ],
+    "correctOption": "M"
+  },
+  {
+    "question": "Which of the following words is the antonym of 'reveal'?",
+    "options": [
+      "Conceal",
+      "Disclose",
+      "Show",
+      "Expose"
+    ],
+    "correctOption": "Conceal"
+  },
+  {
+    "question": "If B = 2 and C = 3, what does E equal?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctOption": "5"
+  },
+  {
+    "question": "Which word is a synonym of 'enormous'?",
+    "options": [
+      "Tiny",
+      "Small",
+      "Large",
+      "Minute"
+    ],
+    "correctOption": "Large"
+  },
+  {
+    "question": "Which of the following words can be used to complete this analogy? 'Kitten is to cat as puppy is to ___?'",
+    "options": [
+      "Lion",
+      "Dog",
+      "Tiger",
+      "Wolf"
+    ],
+    "correctOption": "Dog"
+  },
+  {
+    "question": "Find the next number in the series: 3, 9, 27, __.",
+    "options": [
+      "54",
+      "81",
+      "243",
+      "18"
+    ],
+    "correctOption": "81"
+  },
+  {
+    "question": "If all squares are rectangles and all rectangles are quadrilaterals, then which statement is true?",
+    "options": [
+      "All quadrilaterals are squares",
+      "Some quadrilaterals are squares",
+      "All quadrilaterals are rectangles",
+      "Some rectangles are squares"
+    ],
+    "correctOption": "Some quadrilaterals are squares"
+  },
+  {
+    "question": "Which of the following words is the odd one out?",
+    "options": [
+      "Car",
+      "Bus",
+      "Bicycle",
+      "Train"
+    ],
+    "correctOption": "Bicycle"
+  },
+  {
+    "question": "Which word can be used to complete this analogy? 'Apple is to fruit as carrot is to ___?'",
+    "options": [
+      "Vegetable",
+      "Fruit",
+      "Plant",
+      "Tree"
+    ],
+    "correctOption": "Vegetable"
+  },
+  {
+    "question": "Which of the following is the synonym of 'brave'?",
+    "options": [
+      "Cowardly",
+      "Timid",
+      "Courageous",
+      "Fearful"
+    ],
+    "correctOption": "Courageous"
+  },
+  {
+    "question": "Find the next term in the series: AB, CD, EF, __.",
+    "options": [
+      "GH",
+      "IJ",
+      "KL",
+      "MN"
+    ],
+    "correctOption": "GH"
+  },
+  {
+    "question": "If the code for 'TREE' is 'VSFF', what is the code for 'ROSE'?",
+    "options": [
+      "TPUG",
+      "TPTF",
+      "QTRE",
+      "QRSG"
+    ],
+    "correctOption": "TPUG"
+  },
+  {
+    "question": "Which word is the antonym of 'opaque'?",
+    "options": [
+      "Transparent",
+      "Translucent",
+      "Obscure",
+      "Cloudy"
+    ],
+    "correctOption": "Transparent"
+  },
+  {
+    "question": "Which of the following words does NOT belong with the others?",
+    "options": [
+      "Tennis",
+      "Soccer",
+      "Baseball",
+      "Basketball"
+    ],
+    "correctOption": "Soccer"
+  },
+  {
+    "question": "If L = 12 and M = 13, what does P equal?",
+    "options": [
+      "15",
+      "16",
+      "17",
+      "18"
+    ],
+    "correctOption": "16"
+  },
+  {
+    "question": "Which word is a synonym of 'begin'?",
+    "options": [
+      "End",
+      "Finish",
+      "Start",
+      "Close"
+    ],
+    "correctOption": "Start"
+  },
+  {
+    "question": "Which of the following is the opposite of 'increase'?",
+    "options": [
+      "Add",
+      "Grow",
+      "Expand",
+      "Decrease"
+    ],
+    "correctOption": "Decrease"
+  },
+  {
+    "question": "Find the missing number in the series: 1, 4, 9, 16, __.",
+    "options": [
+      "20",
+      "25",
+      "30",
+      "36"
+    ],
+    "correctOption": "25"
+  },
+  {
+    "question": "Which of the following words is the odd one out?",
+    "options": [
+      "Earth",
+      "Mars",
+      "Jupiter",
+      "Sun"
+    ],
+    "correctOption": "Sun"
+  },
+  {
+    "question": "Which word can be used to complete this analogy? 'Pen is to paper as brush is to ___?'",
+    "options": [
+      "Paint",
+      "Canvas",
+      "Ink",
+      "Book"
+    ],
+    "correctOption": "Canvas"
+  },
+  {
+    "question": "Which word is a synonym of 'quick'?",
+    "options": [
+      "Slow",
+      "Fast",
+      "Delayed",
+      "Lethargic"
+    ],
+    "correctOption": "Fast"
+  },
+  {
+    "question": "If A = 1 and B = 2, what does D equal?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctOption": "4"
+  },
+  {
+    "question": "Which of the following is the opposite of 'love'?",
+    "options": [
+      "Like",
+      "Adore",
+      "Hate",
+      "Cherish"
+    ],
+    "correctOption": "Hate"
+  },
+  {
+    "question": "Find the missing term in the series: Z, X, V, T, __.",
+    "options": [
+      "R",
+      "S",
+      "Q",
+      "P"
+    ],
+    "correctOption": "R"
+  },
+  {
+    "question": "Which word is a synonym of 'happy'?",
+    "options": [
+      "Sad",
+      "Joyful",
+      "Angry",
+      "Upset"
+    ],
+    "correctOption": "Joyful"
+  },
+  {
+    "question": "Which of the following words does NOT belong with the others?",
+    "options": [
+      "Bread",
+      "Butter",
+      "Jam",
+      "Milk"
+    ],
+    "correctOption": "Milk"
+  },
+  {
+    "question": "If Q = 17 and R = 18, what does T equal?",
+    "options": [
+      "19",
+      "20",
+      "21",
+      "22"
+    ],
+    "correctOption": "20"
+  },
+  {
+    "question": "Which word is a synonym of 'difficult'?",
+    "options": [
+      "Easy",
+      "Hard",
+      "Simple",
+      "Basic"
+    ],
+    "correctOption": "Hard"
+  },
+  {
+    "question": "Which of the following is the opposite of 'accept'?",
+    "options": [
+      "Reject",
+      "Receive",
+      "Take",
+      "Adopt"
+    ],
+    "correctOption": "Reject"
+  },
+  {
+    "question": "Find the missing number in the series: 3, 6, 12, 24, __.",
+    "options": [
+      "30",
+      "36",
+      "48",
+      "60"
+    ],
+    "correctOption": "48"
+  },
+  {
+    "question": "Which of the following words is the odd one out?",
+    "options": [
+      "Cat",
+      "Dog",
+      "Rabbit",
+      "Bird"
+    ],
+    "correctOption": "Bird"
+  },
+  {
+    "question": "Which word can be used to complete this analogy? 'Knife is to cut as broom is to ___?'",
+    "options": [
+      "Sweep",
+      "Wash",
+      "Clean",
+      "Dust"
+    ],
+    "correctOption": "Sweep"
+  },
+  {
+    "question": "Which word is a synonym of 'lively'?",
+    "options": [
+      "Dull",
+      "Energetic",
+      "Boring",
+      "Inactive"
+    ],
+    "correctOption": "Energetic"
+  },
+  {
+    "question": "If S = 19 and T = 20, what does V equal?",
+    "options": [
+      "21",
+      "22",
+      "23",
+      "24"
+    ],
+    "correctOption": "22"
+  },
+  {
+    "question": "Which of the following is the opposite of 'hot'?",
+    "options": [
+      "Warm",
+      "Cold",
+      "Cool",
+      "Mild"
+    ],
+    "correctOption": "Cold"
+  },
+  {
+    "question": "Find the missing term in the series: C, F, I, L, __.",
+    "options": [
+      "O",
+      "M",
+      "N",
+      "P"
+    ],
+    "correctOption": "O"
+  },
+  {
+    "question": "Which word is a synonym of 'angry'?",
+    "options": [
+      "Happy",
+      "Calm",
+      "Furious",
+      "Peaceful"
+    ],
+    "correctOption": "Furious"
+  },
+  {
+    "question": "Which of the following words does NOT belong with the others?",
+    "options": [
+      "Red",
+      "Blue",
+      "Green",
+      "Color"
+    ],
+    "correctOption": "Color"
+  },
+  {
+    "question": "If W = 23 and X = 24, what does Z equal?",
+    "options": [
+      "25",
+      "26",
+      "27",
+      "28"
+    ],
+    "correctOption": "26"
+  },
+  {
+    "question": "Which word is a synonym of 'tiny'?",
+    "options": [
+      "Huge",
+      "Small",
+      "Large",
+      "Massive"
+    ],
+    "correctOption": "Small"
+  },
+  {
+    "question": "Which of the following is the opposite of 'arrive'?",
+    "options": [
+      "Enter",
+      "Depart",
+      "Stay",
+      "Remain"
+    ],
+    "correctOption": "Depart"
+  },
+  {
+    "question": "Find the missing number in the series: 4, 8, 16, 32, __.",
+    "options": [
+      "40",
+      "48",
+      "60",
+      "64"
+    ],
+    "correctOption": "64"
+  },
+  {
+    "question": "Which of the following words is the odd one out?",
+    "options": [
+      "Square",
+      "Circle",
+      "Rectangle",
+      "Triangle"
+    ],
+    "correctOption": "Circle"
+  },
+  {
+    "question": "Which word can be used to complete this analogy? 'Fish is to water as bird is to ___?'",
+    "options": [
+      "Sky",
+      "Nest",
+      "Tree",
+      "Wings"
+    ],
+    "correctOption": "Sky"
+  },
+  {
+    "question": "Which word is a synonym of 'wealthy'?",
+    "options": [
+      "Poor",
+      "Rich",
+      "Destitute",
+      "Needy"
+    ],
+    "correctOption": "Rich"
+  },
+  {
+    "question": "If U = 21 and V = 22, what does X equal?",
+    "options": [
+      "23",
+      "24",
+      "25",
+      "26"
+    ],
+    "correctOption": "24"
+  },
+  {
+    "question": "Which of the following is the opposite of 'create'?",
+    "options": [
+      "Build",
+      "Destroy",
+      "Make",
+      "Form"
+    ],
+    "correctOption": "Destroy"
+  },
+  {
+    "question": "Find the missing term in the series: G, J, M, P, __.",
+    "options": [
+      "Q",
+      "R",
+      "S",
+      "T"
+    ],
+    "correctOption": "S"
+  },
+  {
+    "question": "Which word is a synonym of 'quiet'?",
+    "options": [
+      "Loud",
+      "Silent",
+      "Noisy",
+      "Boisterous"
+    ],
+    "correctOption": "Silent"
+  },
+  {
+    "question": "Which of the following words does NOT belong with the others?",
+    "options": [
+      "Spoon",
+      "Fork",
+      "Plate",
+      "Knife"
+    ],
+    "correctOption": "Plate"
+  },
+  {
+    "question": "If Y = 25 and Z = 26, what does B equal?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctOption": "2"
+  },
+  {
+    "question": "Which word is a synonym of 'beautiful'?",
+    "options": [
+      "Ugly",
+      "Pretty",
+      "Hideous",
+      "Plain"
+    ],
+    "correctOption": "Pretty"
+  },
+  {
+    "question": "Which of the following is the opposite of 'borrow'?",
+    "options": [
+      "Lend",
+      "Steal",
+      "Give",
+      "Take"
+    ],
+    "correctOption": "Lend"
+  },
+  {
+    "question": "Find the missing number in the series: 5, 10, 20, 40, __.",
+    "options": [
+      "60",
+      "80",
+      "100",
+      "120"
+    ],
+    "correctOption": "80"
+  },
+  {
+    "question": "Which of the following words is the odd one out?",
+    "options": [
+      "Lion",
+      "Tiger",
+      "Leopard",
+      "Shark"
+    ],
+    "correctOption": "Shark"
+  },
+  {
+    "question": "Which word can be used to complete this analogy? 'Hand is to glove as foot is to ___?'",
+    "options": [
+      "Shoe",
+      "Sock",
+      "Boot",
+      "Slipper"
+    ],
+    "correctOption": "Shoe"
+  },
+  {
+    "question": "Which word is a synonym of 'brave'?",
+    "options": [
+      "Cowardly",
+      "Timid",
+      "Courageous",
+      "Fearful"
+    ],
+    "correctOption": "Courageous"
+  },
+  {
+    "question": "If C = 3 and D = 4, what does F equal?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctOption": "6"
+  },
+  {
+    "question": "Which of the following is the opposite of 'dark'?",
+    "options": [
+      "Dim",
+      "Light",
+      "Shady",
+      "Gloomy"
+    ],
+    "correctOption": "Light"
+  },
+  {
+    "question": "Find the missing term in the series: B, E, H, K, __.",
+    "options": [
+      "M",
+      "N",
+      "O",
+      "P"
+    ],
+    "correctOption": "N"
+  },
+  {
+    "question": "Which word is a synonym of 'intelligent'?",
+    "options": [
+      "Dumb",
+      "Smart",
+      "Stupid",
+      "Foolish"
+    ],
+    "correctOption": "Smart"
+  },
+  {
+    "question": "Which of the following words does NOT belong with the others?",
+    "options": [
+      "Doctor",
+      "Nurse",
+      "Teacher",
+      "Pilot"
+    ],
+    "correctOption": "Pilot"
+  },
+  {
+    "question": "If G = 7 and H = 8, what does J equal?",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "correctOption": "10"
+  },
+  {
+    "question": "Which word is a synonym of 'sad'?",
+    "options": [
+      "Happy",
+      "Joyful",
+      "Miserable",
+      "Elated"
+    ],
+    "correctOption": "Miserable"
+  },
+  {
+    "question": "Which of the following is the opposite of 'ascend'?",
+    "options": [
+      "Climb",
+      "Rise",
+      "Descend",
+      "Soar"
+    ],
+    "correctOption": "Descend"
+  },
+  {
+    "question": "Find the missing number in the series: 6, 12, 24, 48, __.",
+    "options": [
+      "60",
+      "72",
+      "96",
+      "120"
+    ],
+    "correctOption": "96"
+  },
+  {
+    "question": "Which of the following words is the odd one out?",
+    "options": [
+      "Winter",
+      "Summer",
+      "Autumn",
+      "Month"
+    ],
+    "correctOption": "Month"
+  },
+  {
+    "question": "Which word can be used to complete this analogy? 'Writer is to book as painter is to ___?'",
+    "options": [
+      "Brush",
+      "Canvas",
+      "Paint",
+      "Color"
+    ],
+    "correctOption": "Canvas"
+  },
+  {
+    "question": "Which word is a synonym of 'healthy'?",
+    "options": [
+      "Ill",
+      "Sick",
+      "Fit",
+      "Weak"
+    ],
+    "correctOption": "Fit"
+  },
+  {
+    "question": "If K = 11 and L = 12, what does N equal?",
+    "options": [
+      "13",
+      "14",
+      "15",
+      "16"
+    ],
+    "correctOption": "14"
+  },
+  {
+    "question": "Which of the following is the opposite of 'build'?",
+    "options": [
+      "Construct",
+      "Create",
+      "Demolish",
+      "Assemble"
+    ],
+    "correctOption": "Demolish"
+  },
+  {
+    "question": "Find the missing term in the series: D, G, J, M, __.",
+    "options": [
+      "N",
+      "O",
+      "P",
+      "Q"
+    ],
+    "correctOption": "P"
+  },
+  {
+    "question": "Which word is a synonym of 'strong'?",
+    "options": [
+      "Weak",
+      "Sturdy",
+      "Frail",
+      "Feeble"
+    ],
+    "correctOption": "Sturdy"
+  },
+  {
+    "question": "Which of the following words does NOT belong with the others?",
+    "options": [
+      "Hammer",
+      "Nail",
+      "Screwdriver",
+      "Wrench"
+    ],
+    "correctOption": "Nail"
+  },
+  {
+    "question": "If M = 13 and N = 14, what does P equal?",
+    "options": [
+      "15",
+      "16",
+      "17",
+      "18"
+    ],
+    "correctOption": "16"
+  },
+  {
+    "question": "Which word is a synonym of 'empty'?",
+    "options": [
+      "Full",
+      "Vacant",
+      "Occupied",
+      "Loaded"
+    ],
+    "correctOption": "Vacant"
+  },
+  {
+    "question": "Which of the following is the opposite of 'gain'?",
+    "options": [
+      "Earn",
+      "Lose",
+      "Acquire",
+      "Attain"
+    ],
+    "correctOption": "Lose"
   }
-}
+]
+
