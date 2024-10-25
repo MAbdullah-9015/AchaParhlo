@@ -1,693 +1,252 @@
 [
   {
-    "question": "Who is the current President of Pakistan?",
+    "question": "Which planet in our solar system is known as the 'Red Planet'?",
     "options": [
-      "Arif Alvi",
-      "Asif Ali Zardari",
-      "Mamnoon Hussain",
-      "Pervez Musharraf"
+      "Mars",
+      "Venus",
+      "Jupiter",
+      "Saturn"
     ],
-    "correctOption": "Arif Alvi"
+    "correctOption": "Mars"
   },
   {
-    "question": "Which party won the majority in the 2018 general elections in Pakistan?",
+    "question": "What is the largest ocean on Earth?",
     "options": [
-      "Pakistan Tehreek-e-Insaf (PTI)",
-      "Pakistan Muslim League (N)",
-      "Pakistan Peoples Party (PPP)",
-      "Muttahida Qaumi Movement (MQM)"
+      "Pacific Ocean",
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
     ],
-    "correctOption": "Pakistan Tehreek-e-Insaf (PTI)"
+    "correctOption": "Pacific Ocean"
   },
   {
-    "question": "Who is the current Prime Minister of Pakistan?",
+    "question": "Which is the longest river in the world?",
     "options": [
-      "Imran Khan",
-      "Shehbaz Sharif",
-      "Nawaz Sharif",
-      "Benazir Bhutto"
+      "Nile",
+      "Amazon",
+      "Yangtze",
+      "Mississippi"
     ],
-    "correctOption": "Shehbaz Sharif"
+    "correctOption": "Nile"
   },
   {
-    "question": "Which Pakistani city is known as the 'City of Lights'?",
+    "question": "Which country will host the upcoming FIFA World Cup?",
     "options": [
-      "Karachi",
-      "Lahore",
-      "Islamabad",
-      "Rawalpindi"
+      "USA, Canada, and Mexico",
+      "Qatar",
+      "Brazil",
+      "Germany"
     ],
-    "correctOption": "Karachi"
+    "correctOption": "USA, Canada, and Mexico"
   },
   {
-    "question": "In which year was Pakistan's last general election held?",
+    "question": "Which country is the largest producer of coffee in the world?",
     "options": [
-      "2018",
-      "2013",
-      "2008",
-      "2003"
+      "Brazil",
+      "Colombia",
+      "Vietnam",
+      "Ethiopia"
     ],
-    "correctOption": "2018"
+    "correctOption": "Brazil"
   },
   {
-    "question": "Which Pakistani political leader was ousted from office in a no-confidence vote in 2022?",
+    "question": "Which scientist developed the theory of relativity?",
     "options": [
-      "Imran Khan",
-      "Shehbaz Sharif",
-      "Nawaz Sharif",
-      "Asif Ali Zardari"
+      "Albert Einstein",
+      "Isaac Newton",
+      "Nikola Tesla",
+      "Galileo Galilei"
     ],
-    "correctOption": "Imran Khan"
+    "correctOption": "Albert Einstein"
   },
   {
-    "question": "Who is the Chief of Army Staff of Pakistan?",
+    "question": "Which animal is known as the 'Ship of the Desert'?",
     "options": [
-      "General Syed Asim Munir",
-      "General Qamar Javed Bajwa",
-      "General Raheel Sharif",
-      "General Ashfaq Pervez Kayani"
+      "Camel",
+      "Horse",
+      "Elephant",
+      "Lion"
     ],
-    "correctOption": "General Syed Asim Munir"
+    "correctOption": "Camel"
   },
   {
-    "question": "Which Pakistani province is known for its rich natural resources, including coal and minerals?",
+    "question": "What is the capital of Australia?",
     "options": [
-      "Balochistan",
-      "Punjab",
-      "Sindh",
-      "Khyber Pakhtunkhwa"
+      "Canberra",
+      "Sydney",
+      "Melbourne",
+      "Brisbane"
     ],
-    "correctOption": "Balochistan"
+    "correctOption": "Canberra"
   },
   {
-    "question": "What is the name of Pakistan's national cricket team captain?",
+    "question": "Which language has the most native speakers worldwide?",
     "options": [
-      "Babar Azam",
-      "Sarfaraz Ahmed",
-      "Shoaib Malik",
-      "Wasim Akram"
+      "Mandarin Chinese",
+      "English",
+      "Spanish",
+      "Hindi"
     ],
-    "correctOption": "Babar Azam"
+    "correctOption": "Mandarin Chinese"
   },
   {
-    "question": "Which Pakistani city is the capital of the country?",
+    "question": "Who painted the Mona Lisa?",
     "options": [
-      "Islamabad",
-      "Lahore",
-      "Karachi",
-      "Quetta"
+      "Leonardo da Vinci",
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Michelangelo"
     ],
-    "correctOption": "Islamabad"
+    "correctOption": "Leonardo da Vinci"
   },
   {
-    "question": "In which year did Pakistan become a republic?",
+    "question": "What is the smallest country in the world by land area?",
     "options": [
-      "1956",
-      "1947",
-      "1965",
-      "1971"
+      "Vatican City",
+      "Monaco",
+      "San Marino",
+      "Liechtenstein"
     ],
-    "correctOption": "1956"
+    "correctOption": "Vatican City"
   },
   {
-    "question": "Who was the founder of Pakistan?",
+    "question": "Which element has the chemical symbol 'O'?",
     "options": [
-      "Muhammad Ali Jinnah",
-      "Allama Iqbal",
-      "Liaquat Ali Khan",
-      "Zulfikar Ali Bhutto"
+      "Oxygen",
+      "Osmium",
+      "Oganesson",
+      "Oxygenium"
     ],
-    "correctOption": "Muhammad Ali Jinnah"
+    "correctOption": "Oxygen"
   },
   {
-    "question": "Which political party is led by Shehbaz Sharif?",
+    "question": "Which country invented paper?",
     "options": [
-      "Pakistan Muslim League (N)",
-      "Pakistan Tehreek-e-Insaf (PTI)",
-      "Pakistan Peoples Party (PPP)",
-      "Muttahida Qaumi Movement (MQM)"
+      "China",
+      "Egypt",
+      "Greece",
+      "India"
     ],
-    "correctOption": "Pakistan Muslim League (N)"
+    "correctOption": "China"
   },
   {
-    "question": "Which organization is responsible for conducting elections in Pakistan?",
+    "question": "What is the tallest mountain in the world?",
     "options": [
-      "Election Commission of Pakistan",
-      "Supreme Court of Pakistan",
-      "National Assembly",
-      "Senate"
+      "Mount Everest",
+      "K2",
+      "Kangchenjunga",
+      "Lhotse"
     ],
-    "correctOption": "Election Commission of Pakistan"
+    "correctOption": "Mount Everest"
   },
   {
-    "question": "What is the name of the largest dam in Pakistan?",
+    "question": "In which country is the Great Barrier Reef located?",
     "options": [
-      "Tarbela Dam",
-      "Mangla Dam",
-      "Chashma Dam",
-      "Bhasha Dam"
+      "Australia",
+      "Brazil",
+      "India",
+      "Japan"
     ],
-    "correctOption": "Tarbela Dam"
+    "correctOption": "Australia"
   },
   {
-    "question": "Which Pakistani province is known for its tea gardens?",
+    "question": "Which desert is the largest hot desert in the world?",
     "options": [
-      "Khyber Pakhtunkhwa",
-      "Punjab",
-      "Sindh",
-      "Gilgit-Baltistan"
+      "Sahara",
+      "Arabian",
+      "Gobi",
+      "Kalahari"
     ],
-    "correctOption": "Khyber Pakhtunkhwa"
+    "correctOption": "Sahara"
   },
   {
-    "question": "Which Pakistani leader served as the Prime Minister before Imran Khan?",
+    "question": "What is the largest mammal in the world?",
     "options": [
-      "Shahid Khaqan Abbasi",
-      "Nawaz Sharif",
-      "Pervez Musharraf",
-      "Yousaf Raza Gillani"
+      "Blue Whale",
+      "Elephant",
+      "Giraffe",
+      "Hippopotamus"
     ],
-    "correctOption": "Shahid Khaqan Abbasi"
+    "correctOption": "Blue Whale"
   },
   {
-    "question": "Which Pakistani city is known as the cultural capital of the country?",
+    "question": "Which scientist is famous for his law of universal gravitation?",
     "options": [
-      "Lahore",
-      "Karachi",
-      "Islamabad",
-      "Peshawar"
+      "Isaac Newton",
+      "Albert Einstein",
+      "Galileo Galilei",
+      "Nikola Tesla"
     ],
-    "correctOption": "Lahore"
+    "correctOption": "Isaac Newton"
   },
   {
-    "question": "What is the name of the famous annual event held in Karachi celebrating literature and arts?",
+    "question": "Who invented the telephone?",
     "options": [
-      "Karachi Literature Festival",
-      "Lahore Literary Festival",
-      "Islamabad Book Fair",
-      "Peshawar Arts Festival"
+      "Alexander Graham Bell",
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Guglielmo Marconi"
     ],
-    "correctOption": "Karachi Literature Festival"
+    "correctOption": "Alexander Graham Bell"
   },
   {
-    "question": "Which Pakistani province is the most populous?",
+    "question": "What is the capital of Japan?",
     "options": [
-      "Punjab",
-      "Sindh",
-      "Khyber Pakhtunkhwa",
-      "Balochistan"
+      "Tokyo",
+      "Kyoto",
+      "Osaka",
+      "Nagoya"
     ],
-    "correctOption": "Punjab"
+    "correctOption": "Tokyo"
   },
   {
-    "question": "Which institution is responsible for Pakistan's foreign policy?",
+    "question": "Which is the longest wall in the world?",
     "options": [
-      "Ministry of Foreign Affairs",
-      "Supreme Court",
-      "National Assembly",
-      "Senate"
+      "Great Wall of China",
+      "Berlin Wall",
+      "Western Wall",
+      "Hadrian's Wall"
     ],
-    "correctOption": "Ministry of Foreign Affairs"
+    "correctOption": "Great Wall of China"
   },
   {
-    "question": "Which Pakistani leader was awarded the Nobel Peace Prize?",
+    "question": "Which is the second most abundant element in the Earth's crust?",
     "options": [
-      "Malala Yousafzai",
-      "Abdul Sattar Edhi",
-      "Benazir Bhutto",
-      "Imran Khan"
+      "Silicon",
+      "Oxygen",
+      "Aluminum",
+      "Iron"
     ],
-    "correctOption": "Malala Yousafzai"
+    "correctOption": "Silicon"
   },
   {
-    "question": "What is the name of Pakistan's largest seaport?",
+    "question": "What is the chemical symbol for Gold?",
     "options": [
-      "Gwadar Port",
-      "Karachi Port",
-      "Qasim Port",
-      "Port Qasim"
+      "Au",
+      "Ag",
+      "Pb",
+      "Pt"
     ],
-    "correctOption": "Gwadar Port"
+    "correctOption": "Au"
   },
   {
-    "question": "Who is the current Chief Justice of Pakistan?",
+    "question": "In which year did the Berlin Wall fall?",
     "options": [
-      "Omar Ata Bandial",
-      "Asif Saeed Khosa",
-      "Mian Saqib Nisar",
-      "Iftikhar Muhammad Chaudhry"
+      "1989",
+      "1975",
+      "1991",
+      "1985"
     ],
-    "correctOption": "Omar Ata Bandial"
+    "correctOption": "1989"
   },
   {
-    "question": "Which Pakistani leader was known for the slogan 'Roti, Kapra aur Makaan'?",
+    "question": "What is the capital of Egypt?",
     "options": [
-      "Zulfikar Ali Bhutto",
-      "Nawaz Sharif",
-      "Benazir Bhutto",
-      "Imran Khan"
+      "Cairo",
+      "Alexandria",
+      "Luxor",
+      "Giza"
     ],
-    "correctOption": "Zulfikar Ali Bhutto"
-  },
-  {
-    "question": "What is the name of the Pakistani film industry?",
-    "options": [
-      "Lollywood",
-      "Bollywood",
-      "Hollywood",
-      "Kollywood"
-    ],
-    "correctOption": "Lollywood"
-  },
-  {
-    "question": "Which Pakistani city hosted the 2022 Commonwealth Games?",
-    "options": [
-      "Lahore",
-      "Karachi",
-      "Islamabad",
-      "Quetta"
-    ],
-    "correctOption": "Lahore"
-  },
-  {
-    "question": "What is the name of the Pakistani national airline?",
-    "options": [
-      "Pakistan International Airlines (PIA)",
-      "Emirates",
-      "Qatar Airways",
-      "Etihad Airways"
-    ],
-    "correctOption": "Pakistan International Airlines (PIA)"
-  },
-  {
-    "question": "Which Pakistani political party is led by Bilawal Bhutto Zardari?",
-    "options": [
-      "Pakistan Peoples Party (PPP)",
-      "Pakistan Tehreek-e-Insaf (PTI)",
-      "Pakistan Muslim League (N)",
-      "Muttahida Qaumi Movement (MQM)"
-    ],
-    "correctOption": "Pakistan Peoples Party (PPP)"
-  },
-  {
-    "question": "What is the name of the Pakistani highest civil award?",
-    "options": [
-      "Nishan-e-Pakistan",
-      "Sitara-e-Shujaat",
-      "Hilal-e-Pakistan",
-      "Tamgha-e-Imtiaz"
-    ],
-    "correctOption": "Nishan-e-Pakistan"
-  },
-  {
-    "question": "Which Pakistani university is known for its excellence in engineering and technology?",
-    "options": [
-      "Pakistan Institute of Engineering and Applied Sciences (PIEAS)",
-      "University of the Punjab",
-      "Lahore University of Management Sciences (LUMS)",
-      "National University of Sciences and Technology (NUST)"
-    ],
-    "correctOption": "Pakistan Institute of Engineering and Applied Sciences (PIEAS)"
-  },
-  {
-    "question": "Which Pakistani city is famous for its historical site Mohenjo-Daro?",
-    "options": [
-      "Sindh",
-      "Punjab",
-      "Khyber Pakhtunkhwa",
-      "Balochistan"
-    ],
-    "correctOption": "Sindh"
-  },
-  {
-    "question": "Who is known as the 'Father of the Pakistani Nuclear Program'?",
-    "options": [
-      "Abdul Qadeer Khan",
-      "Zulfikar Ali Bhutto",
-      "Pervez Musharraf",
-      "Benazir Bhutto"
-    ],
-    "correctOption": "Abdul Qadeer Khan"
-  },
-  {
-    "question": "Which Pakistani province has the largest number of national parks?",
-    "options": [
-      "Khyber Pakhtunkhwa",
-      "Punjab",
-      "Sindh",
-      "Balochistan"
-    ],
-    "correctOption": "Khyber Pakhtunkhwa"
-  },
-  {
-    "question": "Which Pakistani city is known as the 'City of Gardens'?",
-    "options": [
-      "Lahore",
-      "Karachi",
-      "Islamabad",
-      "Peshawar"
-    ],
-    "correctOption": "Lahore"
-  },
-  {
-    "question": "What is the name of the largest hospital in Pakistan?",
-    "options": [
-      "Jinnah Postgraduate Medical Centre",
-      "Shaukat Khanum Memorial Cancer Hospital",
-      "Khyber Teaching Hospital",
-      "Liaquat University of Medical and Health Sciences"
-    ],
-    "correctOption": "Jinnah Postgraduate Medical Centre"
-  },
-  {
-    "question": "Who is the current Governor of Punjab?",
-    "options": [
-      "Mohsin Naqvi",
-      "Chaudhry Sarwar",
-      "Raja Basharat",
-      "Sardar Usman Buzdar"
-    ],
-    "correctOption": "Mohsin Naqvi"
-  },
-  {
-    "question": "Which Pakistani political party is known for its symbol of a 'bat'?",
-    "options": [
-      "Pakistan Tehreek-e-Insaf (PTI)",
-      "Pakistan Muslim League (N)",
-      "Pakistan Peoples Party (PPP)",
-      "Muttahida Qaumi Movement (MQM)"
-    ],
-    "correctOption": "Pakistan Tehreek-e-Insaf (PTI)"
-  },
-  {
-    "question": "What is the name of the largest glacier in Pakistan?",
-    "options": [
-      "Siachen Glacier",
-      "Baltoro Glacier",
-      "Biafo Glacier",
-      "Hispar Glacier"
-    ],
-    "correctOption": "Siachen Glacier"
-  },
-  {
-    "question": "Which Pakistani cricketer is known as 'Sultan of Swing'?",
-    "options": [
-      "Wasim Akram",
-      "Shoaib Akhtar",
-      "Imran Khan",
-      "Javed Miandad"
-    ],
-    "correctOption": "Wasim Akram"
-  },
-  {
-    "question": "Who was the first woman Prime Minister of Pakistan?",
-    "options": [
-      "Benazir Bhutto",
-      "Fatima Jinnah",
-      "Hina Rabbani Khar",
-      "Sherry Rehman"
-    ],
-    "correctOption": "Benazir Bhutto"
-  },
-  {
-    "question": "What is the name of Pakistan's largest river?",
-    "options": [
-      "Indus River",
-      "Chenab River",
-      "Jhelum River",
-      "Ravi River"
-    ],
-    "correctOption": "Indus River"
-  },
-  {
-    "question": "Which Pakistani city is known for its famous landmark, the Badshahi Mosque?",
-    "options": [
-      "Lahore",
-      "Karachi",
-      "Islamabad",
-      "Rawalpindi"
-    ],
-    "correctOption": "Lahore"
-  },
-  {
-    "question": "What is the name of the Pakistani political party led by Asif Ali Zardari?",
-    "options": [
-      "Pakistan Peoples Party (PPP)",
-      "Pakistan Muslim League (N)",
-      "Pakistan Tehreek-e-Insaf (PTI)",
-      "Muttahida Qaumi Movement (MQM)"
-    ],
-    "correctOption": "Pakistan Peoples Party (PPP)"
-  },
-  {
-    "question": "Which Pakistani province is known for its scenic beauty and mountains?",
-    "options": [
-      "Gilgit-Baltistan",
-      "Punjab",
-      "Sindh",
-      "Khyber Pakhtunkhwa"
-    ],
-    "correctOption": "Gilgit-Baltistan"
-  },
-  {
-    "question": "Which Pakistani leader was known for the slogan 'Vote for Change'?",
-    "options": [
-      "Imran Khan",
-      "Nawaz Sharif",
-      "Benazir Bhutto",
-      "Asif Ali Zardari"
-    ],
-    "correctOption": "Imran Khan"
-  },
-  {
-    "question": "What is the name of the Pakistani sports league for cricket?",
-    "options": [
-      "Pakistan Super League (PSL)",
-      "Indian Premier League (IPL)",
-      "Big Bash League (BBL)",
-      "Caribbean Premier League (CPL)"
-    ],
-    "correctOption": "Pakistan Super League (PSL)"
-  },
-  {
-    "question": "Which Pakistani city is known for its IT industry and software development?",
-    "options": [
-      "Karachi",
-      "Lahore",
-      "Islamabad",
-      "Rawalpindi"
-    ],
-    "correctOption": "Lahore"
-  },
-  {
-    "question": "Which Pakistani province is known for its cultural diversity and traditional festivals?",
-    "options": [
-      "Sindh",
-      "Punjab",
-      "Khyber Pakhtunkhwa",
-      "Balochistan"
-    ],
-    "correctOption": "Sindh"
-  },
-  {
-    "question": "Which Pakistani leader was known for the slogan 'Aik Naya Pakistan'?",
-    "options": [
-      "Imran Khan",
-      "Nawaz Sharif",
-      "Zulfikar Ali Bhutto",
-      "Benazir Bhutto"
-    ],
-    "correctOption": "Imran Khan"
-  },
-  {
-    "question": "What is the name of the Pakistani national educational testing service?",
-    "options": [
-      "National Testing Service (NTS)",
-      "Educational Testing Service (ETS)",
-      "Board of Intermediate and Secondary Education (BISE)",
-      "University of the Punjab"
-    ],
-    "correctOption": "National Testing Service (NTS)"
-  },
-  {
-    "question": "Which Pakistani leader was awarded the Nishan-e-Haider posthumously?",
-    "options": [
-      "Major Raja Aziz Bhatti",
-      "General Ayub Khan",
-      "General Zia-ul-Haq",
-      "General Pervez Musharraf"
-    ],
-    "correctOption": "Major Raja Aziz Bhatti"
-  },
-  {
-    "question": "What is the name of the Pakistani highest civilian award?",
-    "options": [
-      "Nishan-e-Pakistan",
-      "Hilal-e-Pakistan",
-      "Sitara-e-Shujaat",
-      "Tamgha-e-Imtiaz"
-    ],
-    "correctOption": "Nishan-e-Pakistan"
-  },
-  {
-    "question": "Which Pakistani city is known for its financial and commercial activities?",
-    "options": [
-      "Karachi",
-      "Lahore",
-      "Islamabad",
-      "Peshawar"
-    ],
-    "correctOption": "Karachi"
-  },
-  {
-    "question": "Who is the founder of the Pakistani political party Pakistan Tehreek-e-Insaf (PTI)?",
-    "options": [
-      "Imran Khan",
-      "Pervez Musharraf",
-      "Nawaz Sharif",
-      "Benazir Bhutto"
-    ],
-    "correctOption": "Imran Khan"
-  },
-  {
-    "question": "Which Pakistani city is known for the historical site of Mohenjo-Daro?",
-    "options": [
-      "Sindh",
-      "Punjab",
-      "Khyber Pakhtunkhwa",
-      "Balochistan"
-    ],
-    "correctOption": "Sindh"
-  },
-  {
-    "question": "Which Pakistani leader was the country's first military ruler?",
-    "options": [
-      "General Ayub Khan",
-      "General Zia-ul-Haq",
-      "Pervez Musharraf",
-      "General Ashfaq Pervez Kayani"
-    ],
-    "correctOption": "General Ayub Khan"
-  },
-  {
-    "question": "Which Pakistani city is known for its beautiful lakes and valleys?",
-    "options": [
-      "Muree",
-      "Karimabad",
-      "Peshawar",
-      "Quetta"
-    ],
-    "correctOption": "Karimabad"
-  },
-  {
-    "question": "What is the name of the Pakistani national television network?",
-    "options": [
-      "Pakistan Television Corporation (PTV)",
-      "Express News",
-      "Geo News",
-      "Dawn News"
-    ],
-    "correctOption": "Pakistan Television Corporation (PTV)"
-  },
-  {
-    "question": "Which Pakistani leader was known for the slogan 'Roti, Kapra aur Makaan'?",
-    "options": [
-      "Zulfikar Ali Bhutto",
-      "Nawaz Sharif",
-      "Benazir Bhutto",
-      "Imran Khan"
-    ],
-    "correctOption": "Zulfikar Ali Bhutto"
-  },
-  {
-    "question": "Which Pakistani city is known for its vibrant arts and music scene?",
-    "options": [
-      "Karachi",
-      "Lahore",
-      "Islamabad",
-      "Rawalpindi"
-    ],
-    "correctOption": "Karachi"
-  },
-  {
-    "question": "Which Pakistani province is known for its rich cultural heritage and historic monuments?",
-    "options": [
-      "Punjab",
-      "Sindh",
-      "Balochistan",
-      "Khyber Pakhtunkhwa"
-    ],
-    "correctOption": "Punjab"
-  },
-  {
-    "question": "Which Pakistani leader served as the Chief Martial Law Administrator before becoming President?",
-    "options": [
-      "General Zia-ul-Haq",
-      "General Pervez Musharraf",
-      "General Ayub Khan",
-      "General Yahya Khan"
-    ],
-    "correctOption": "General Zia-ul-Haq"
-  },
-  {
-    "question": "Which Pakistani city is known for its historical landmark, the Lahore Fort?",
-    "options": [
-      "Lahore",
-      "Karachi",
-      "Islamabad",
-      "Rawalpindi"
-    ],
-    "correctOption": "Lahore"
-  },
-  {
-    "question": "Which Pakistani province is home to the ancient city of Taxila?",
-    "options": [
-      "Punjab",
-      "Sindh",
-      "Khyber Pakhtunkhwa",
-      "Balochistan"
-    ],
-    "correctOption": "Punjab"
-  },
-  {
-    "question": "What is the name of the Pakistani annual festival celebrating the Sindhi culture?",
-    "options": [
-      "Sindh Festival",
-      "Lahore Arts Festival",
-      "Karachi Cultural Festival",
-      "Peshawar Literary Festival"
-    ],
-    "correctOption": "Sindh Festival"
-  },
-  {
-    "question": "Who is the current Federal Minister for Finance in Pakistan?",
-    "options": [
-      "Ishaq Dar",
-      "Asad Umar",
-      "Shaukat Tarin",
-      "Hafeez Sheikh"
-    ],
-    "correctOption": "Ishaq Dar"
-  },
-  {
-    "question": "Which Pakistani province is known for its traditional crafts and embroidery?",
-    "options": [
-      "Sindh",
-      "Punjab",
-      "Khyber Pakhtunkhwa",
-      "Balochistan"
-    ],
-    "correctOption": "Sindh"
-  },
-  {
-    "question": "Which Pakistani city is known for its famous annual event, the Karachi International Book Fair?",
-    "options": [
-      "Karachi",
-      "Lahore",
-      "Islamabad",
-      "Peshawar"
-    ],
-    "correctOption": "Karachi"
+    "correctOption": "Cairo"
   }
 ]
-
