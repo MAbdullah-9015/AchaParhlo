@@ -1,461 +1,1162 @@
 [
   {
-    "question": "A is taller than B. B is taller than C. C is taller than D. Who is the shortest?",
+    "question": "If a number is increased by 20% and the result is 60, what is the original number?",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "40",
+      "45",
+      "50",
+      "55"
     ],
-    "correctOption": "D"
+    "correctOption": "50"
   },
   {
-    "question": "If all Bloops are Razzies and all Razzies are Lazzies, then all Bloops are definitely Lazzies?",
+    "question": "What is the next number in the sequence: 2, 6, 12, 20, 30, ___?",
     "options": [
-      "True",
-      "False",
-      "Uncertain"
+      "40",
+      "42",
+      "44",
+      "46"
     ],
-    "correctOption": "True"
+    "correctOption": "42"
   },
   {
-    "question": "In a class of 30 students, 20 like Math and 15 like Science. If 5 students like neither subject, how many like both?",
+    "question": "If the perimeter of a rectangle is 30 units and its length is 10 units, what is its width?",
     "options": [
-      "5",
-      "10",
-      "15",
-      "20"
+      "5 units",
+      "10 units",
+      "15 units",
+      "20 units"
     ],
-    "correctOption": "10"
+    "correctOption": "5 units"
   },
   {
-    "question": "A train travels 60 miles per hour. How long will it take to travel 300 miles?",
+    "question": "A man buys a shirt for $40 and sells it for $50. What is his profit percentage?",
     "options": [
-      "3 hours",
-      "4 hours",
-      "5 hours",
-      "6 hours"
-    ],
-    "correctOption": "5 hours"
-  },
-  {
-    "question": "If it takes 3 people 3 days to build 3 houses, how long will it take 6 people to build 6 houses?",
-    "options": [
-      "3 days",
-      "6 days",
-      "9 days",
-      "12 days"
-    ],
-    "correctOption": "3 days"
-  },
-  {
-    "question": "If John's age is twice that of Mary's and Mary is 10 years old, how old is John?",
-    "options": [
-      "10 years",
-      "15 years",
-      "20 years",
-      "25 years"
-    ],
-    "correctOption": "20 years"
-  },
-  {
-    "question": "A clock shows the time as 3:15. What is the angle between the hour and minute hands?",
-    "options": [
-      "0 degrees",
-      "7.5 degrees",
-      "15 degrees",
-      "22.5 degrees"
-    ],
-    "correctOption": "7.5 degrees"
-  },
-  {
-    "question": "In a family of 6 members, A is the father of B. C is the sister of A. D is the son of C. E is the brother of B. Who is the uncle of E?",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctOption": "D"
-  },
-  {
-    "question": "If 5 cats can catch 5 mice in 5 minutes, how many cats are needed to catch 100 mice in 100 minutes?",
-    "options": [
-      "5",
-      "10",
-      "20",
-      "25"
-    ],
-    "correctOption": "5"
-  },
-  {
-    "question": "If a rectangle's length is doubled and its width is halved, what will be the effect on its area?",
-    "options": [
-      "It will be halved",
-      "It will remain the same",
-      "It will be doubled",
-      "It will be quadrupled"
-    ],
-    "correctOption": "It will remain the same"
-  },
-  {
-    "question": "In a code language, 'DICTIONARY' is written as 'EJDUPSBSZ'. How is 'ENCYCLOPEDIA' written in that code?",
-    "options": [
-      "FOCZDMQPFQJB",
-      "DMBXZDKNQDIB",
-      "FODZDMQPFQJB",
-      "FOCZDLQPFQIB"
-    ],
-    "correctOption": "FOCZDMQPFQJB"
-  },
-  {
-    "question": "If the second day of a month is Friday, what is the last day of the previous month?",
-    "options": [
-      "Wednesday",
-      "Thursday",
-      "Friday",
-      "Saturday"
-    ],
-    "correctOption": "Thursday"
-  },
-  {
-    "question": "In a race of 100 meters, A beats B by 10 meters and B beats C by 10 meters. By how many meters does A beat C?",
-    "options": [
-      "10 meters",
-      "19 meters",
-      "20 meters",
-      "21 meters"
-    ],
-    "correctOption": "19 meters"
-  },
-  {
-    "question": "If a cube's surface area is 54 square units, what is the volume of the cube?",
-    "options": [
-      "27 cubic units",
-      "54 cubic units",
-      "81 cubic units",
-      "108 cubic units"
-    ],
-    "correctOption": "27 cubic units"
-  },
-  {
-    "question": "A bag contains 3 red, 5 blue, and 2 green balls. If one ball is drawn at random, what is the probability that it is blue?",
-    "options": [
-      "1/10",
-      "1/5",
-      "1/2",
-      "3/5"
-    ],
-    "correctOption": "1/2"
-  },
-  {
-    "question": "If the ratio of the ages of two brothers is 5:7 and the sum of their ages is 36 years, what is the age of the younger brother?",
-    "options": [
-      "10 years",
-      "15 years",
-      "20 years",
-      "25 years"
-    ],
-    "correctOption": "15 years"
-  },
-  {
-    "question": "In a certain code, 'APPLE' is written as 'DSSOH'. How is 'MANGO' written in that code?",
-    "options": [
-      "OBPKQ",
-      "NCRGP",
-      "PBRHP",
-      "OCRGP"
-    ],
-    "correctOption": "OCRGP"
-  },
-  {
-    "question": "If the day before yesterday was Thursday, what will be the day after tomorrow?",
-    "options": [
-      "Wednesday",
-      "Thursday",
-      "Friday",
-      "Saturday"
-    ],
-    "correctOption": "Monday"
-  },
-  {
-    "question": "A car travels 60 km/hr for 2 hours and then 80 km/hr for 3 hours. What is the average speed of the car?",
-    "options": [
-      "68 km/hr",
-      "72 km/hr",
-      "76 km/hr",
-      "80 km/hr"
-    ],
-    "correctOption": "72 km/hr"
-  },
-  {
-    "question": "If a certain amount of money doubles in 5 years with simple interest, what is the annual interest rate?",
-    "options": [
-      "10%",
-      "15%",
       "20%",
-      "25%"
-    ],
-    "correctOption": "20%"
-  },
-  {
-    "question": "In a sequence of numbers, each number is the sum of the previous two numbers. If the first two numbers are 0 and 1, what is the 7th number in the sequence?",
-    "options": [
-      "5",
-      "8",
-      "13",
-      "21"
-    ],
-    "correctOption": "8"
-  },
-  {
-    "question": "If a triangle has sides of lengths 3, 4, and 5, what type of triangle is it?",
-    "options": [
-      "Equilateral",
-      "Isosceles",
-      "Scalene",
-      "Right-angled"
-    ],
-    "correctOption": "Right-angled"
-  },
-  {
-    "question": "In a group of 5 people, each person shakes hands with every other person exactly once. How many handshakes are there in total?",
-    "options": [
-      "5",
-      "10",
-      "15",
-      "20"
-    ],
-    "correctOption": "10"
-  },
-  {
-    "question": "If the perimeter of a square is 20 units, what is the area of the square?",
-    "options": [
-      "25 square units",
-      "20 square units",
-      "16 square units",
-      "15 square units"
-    ],
-    "correctOption": "25 square units"
-  },
-  {
-    "question": "If a car's speed is reduced by 20%, how much longer will it take to travel the same distance?",
-    "options": [
-      "20% more time",
-      "25% more time",
-      "30% more time",
-      "35% more time"
-    ],
-    "correctOption": "25% more time"
-  },
-  {
-    "question": "If a sum of money triples in 8 years at simple interest, what is the annual interest rate?",
-    "options": [
       "25%",
       "30%",
-      "35%",
-      "40%"
+      "35%"
     ],
     "correctOption": "25%"
   },
   {
-    "question": "A rectangular garden has a length of 10 meters and a width of 5 meters. What is the perimeter of the garden?",
+    "question": "If 3x + 5 = 20, what is the value of x?",
     "options": [
-      "15 meters",
-      "25 meters",
-      "30 meters",
-      "40 meters"
+      "3",
+      "5",
+      "7",
+      "9"
     ],
-    "correctOption": "30 meters"
+    "correctOption": "5"
   },
   {
-    "question": "If the average of three numbers is 24 and the sum of two of the numbers is 34, what is the third number?",
+    "question": "What is the square root of 144?",
     "options": [
+      "10",
+      "12",
       "14",
-      "18",
-      "22",
-      "28"
+      "16"
     ],
-    "correctOption": "14"
+    "correctOption": "12"
   },
   {
-    "question": "In a certain code, 'BOOK' is written as 'CPLM'. How is 'PEN' written in that code?",
+    "question": "If a train travels 300 km in 5 hours, what is its speed?",
     "options": [
-      "QFO",
-      "QDL",
-      "ODL",
-      "OFO"
+      "50 km/h",
+      "60 km/h",
+      "70 km/h",
+      "80 km/h"
     ],
-    "correctOption": "QFO"
+    "correctOption": "60 km/h"
   },
   {
-    "question": "If the sum of three consecutive integers is 54, what is the middle integer?",
+    "question": "What is the smallest prime number?",
     "options": [
-      "17",
+      "1",
+      "2",
+      "3",
+      "5"
+    ],
+    "correctOption": "2"
+  },
+  {
+    "question": "If the area of a circle is 154 square units, what is its radius? (Use π = 22/7)",
+    "options": [
+      "7 units",
+      "14 units",
+      "21 units",
+      "28 units"
+    ],
+    "correctOption": "7 units"
+  },
+  {
+    "question": "What is the value of 2^5?",
+    "options": [
+      "16",
+      "32",
+      "64",
+      "128"
+    ],
+    "correctOption": "32"
+  },
+  {
+    "question": "If the sum of two numbers is 15 and their difference is 5, what is the larger number?",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    "correctOption": "10"
+  },
+  {
+    "question": "What is the cube of 3?",
+    "options": [
+      "9",
       "18",
-      "19",
+      "27",
+      "36"
+    ],
+    "correctOption": "27"
+  },
+  {
+    "question": "If 20% of a number is 50, what is the number?",
+    "options": [
+      "100",
+      "200",
+      "250",
+      "300"
+    ],
+    "correctOption": "250"
+  },
+  {
+    "question": "What is the sum of the angles in a triangle?",
+    "options": [
+      "90 degrees",
+      "180 degrees",
+      "270 degrees",
+      "360 degrees"
+    ],
+    "correctOption": "180 degrees"
+  },
+  {
+    "question": "If a car travels 240 km in 4 hours, what is its speed in m/s?",
+    "options": [
+      "10 m/s",
+      "15 m/s",
+      "20 m/s",
+      "25 m/s"
+    ],
+    "correctOption": "20 m/s"
+  },
+  {
+    "question": "What is the value of 5! (5 factorial)?",
+    "options": [
+      "60",
+      "120",
+      "240",
+      "720"
+    ],
+    "correctOption": "120"
+  },
+  {
+    "question": "If the ratio of boys to girls in a class is 2:3 and there are 12 boys, how many girls are there?",
+    "options": [
+      "12",
+      "15",
+      "18",
       "20"
     ],
     "correctOption": "18"
   },
   {
-    "question": "If a box weighs 3 kg plus half its own weight, what is the total weight of the box?",
+    "question": "What is the sum of the first 10 natural numbers?",
     "options": [
-      "4 kg",
-      "5 kg",
-      "6 kg",
-      "7 kg"
+      "45",
+      "50",
+      "55",
+      "60"
     ],
-    "correctOption": "6 kg"
+    "correctOption": "55"
   },
   {
-    "question": "In a row of 30 students, A is 5th from the left end and B is 6th from the right end. How many students are there between A and B?",
+    "question": "If the price of a book is reduced by 25% and the new price is $30, what was the original price?",
     "options": [
-      "18",
-      "19",
-      "20",
-      "21"
+      "$35",
+      "$40",
+      "$45",
+      "$50"
     ],
-    "correctOption": "18"
+    "correctOption": "$40"
   },
   {
-    "question": "If the radius of a circle is doubled, what happens to its area?",
+    "question": "What is the value of 0.1 × 0.1?",
     "options": [
-      "It remains the same",
-      "It doubles",
-      "It triples",
-      "It quadruples"
+      "0.01",
+      "0.1",
+      "1",
+      "10"
     ],
-    "correctOption": "It quadruples"
+    "correctOption": "0.01"
   },
   {
-    "question": "If the ages of A and B are in the ratio 3:5 and A is 9 years old, what is the age of B?",
+    "question": "If the sum of three consecutive even numbers is 54, what is the smallest number?",
     "options": [
-      "15 years",
-      "18 years",
-      "21 years",
-      "24 years"
-    ],
-    "correctOption": "15 years"
-  },
-  {
-    "question": "A is the sister of B. B is the brother of C. C is the husband of D. How is A related to D?",
-    "options": [
-      "Sister",
-      "Sister-in-law",
-      "Cousin",
-      "Mother"
-    ],
-    "correctOption": "Sister-in-law"
-  },
-  {
-    "question": "If the sum of the squares of two numbers is 25 and their product is 12, what is the sum of the two numbers?",
-    "options": [
-      "3",
-      "5",
-      "7",
-      "8"
-    ],
-    "correctOption": "7"
-  },
-  {
-    "question": "If 6 people can complete a job in 12 days, how many days will it take 8 people to complete the same job?",
-    "options": [
-      "9 days",
-      "10 days",
-      "11 days",
-      "8 days"
-    ],
-    "correctOption": "9 days"
-  },
-  {
-    "question": "If the ratio of boys to girls in a class is 3:4 and there are 12 boys, how many girls are there?",
-    "options": [
-      "12",
-      "15",
       "16",
-      "18"
+      "18",
+      "20",
+      "22"
     ],
     "correctOption": "16"
   },
   {
-    "question": "In a town, 20% of the population are children and 40% are women. If the total population is 10,000, how many are men?",
+    "question": "What is the value of 1/2 + 1/4?",
     "options": [
-      "2000",
-      "3000",
-      "4000",
-      "6000"
+      "1/6",
+      "1/4",
+      "3/4",
+      "1/2"
     ],
-    "correctOption": "4000"
+    "correctOption": "3/4"
   },
   {
-    "question": "If the average of five numbers is 30 and the average of three of them is 20, what is the average of the other two?",
+    "question": "If the area of a square is 64 square units, what is the length of one side?",
+    "options": [
+      "4 units",
+      "6 units",
+      "8 units",
+      "10 units"
+    ],
+    "correctOption": "8 units"
+  },
+  {
+    "question": "What is the value of 3^4?",
+    "options": [
+      "27",
+      "64",
+      "81",
+      "128"
+    ],
+    "correctOption": "81"
+  },
+  {
+    "question": "If the sum of two numbers is 25 and their difference is 5, what is the smaller number?",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    "correctOption": "10"
+  },
+  {
+    "question": "What is the value of 0.5 × 0.2?",
+    "options": [
+      "0.01",
+      "0.1",
+      "1",
+      "10"
+    ],
+    "correctOption": "0.1"
+  },
+  {
+    "question": "If the perimeter of a square is 40 units, what is the area of the square?",
+    "options": [
+      "50 square units",
+      "100 square units",
+      "150 square units",
+      "200 square units"
+    ],
+    "correctOption": "100 square units"
+  },
+  {
+    "question": "What is the value of 10% of 500?",
+    "options": [
+      "10",
+      "50",
+      "100",
+      "500"
+    ],
+    "correctOption": "50"
+  },
+  {
+    "question": "If the sum of the angles in a quadrilateral is 360 degrees, what is the sum of the angles in a pentagon?",
+    "options": [
+      "360 degrees",
+      "450 degrees",
+      "540 degrees",
+      "720 degrees"
+    ],
+    "correctOption": "540 degrees"
+  },
+  {
+    "question": "What is the value of 2^3 + 3^2?",
+    "options": [
+      "10",
+      "13",
+      "17",
+      "20"
+    ],
+    "correctOption": "17"
+  },
+  {
+    "question": "If the ratio of the ages of two brothers is 4:5 and the sum of their ages is 36 years, what is the age of the younger brother?",
+    "options": [
+      "12 years",
+      "16 years",
+      "18 years",
+      "20 years"
+    ],
+    "correctOption": "16 years"
+  },
+  {
+    "question": "What is the value of 1/3 + 1/6?",
+    "options": [
+      "1/6",
+      "1/3",
+      "1/2",
+      "2/3"
+    ],
+    "correctOption": "1/2"
+  },
+  {
+    "question": "If the area of a rectangle is 48 square units and its width is 6 units, what is its length?",
+    "options": [
+      "6 units",
+      "8 units",
+      "10 units",
+      "12 units"
+    ],
+    "correctOption": "8 units"
+  },
+  {
+    "question": "What is the value of 0.25 × 0.4?",
+    "options": [
+      "0.01",
+      "0.1",
+      "1",
+      "10"
+    ],
+    "correctOption": "0.1"
+  },
+  {
+    "question": "If the sum of three consecutive odd numbers is 45, what is the middle number?",
+    "options": [
+      "13",
+      "15",
+      "17",
+      "19"
+    ],
+    "correctOption": "15"
+  },
+  {
+    "question": "What is the value of 4^3?",
+    "options": [
+      "16",
+      "32",
+      "64",
+      "128"
+    ],
+    "correctOption": "64"
+  },
+  {
+    "question": "If the perimeter of a rectangle is 50 units and its length is 15 units, what is its width?",
+    "options": [
+      "5 units",
+      "10 units",
+      "15 units",
+      "20 units"
+    ],
+    "correctOption": "10 units"
+  },
+  {
+    "question": "What is the value of 0.75 × 0.8?",
+    "options": [
+      "0.6",
+      "0.7",
+      "0.8",
+      "0.9"
+    ],
+    "correctOption": "0.6"
+  },
+  {
+    "question": "If the sum of two numbers is 30 and their difference is 10, what is the larger number?",
+    "options": [
+      "10",
+      "15",
+      "20",
+      "25"
+    ],
+    "correctOption": "20"
+  },
+  {
+    "question": "What is the value of 5^2 + 3^3?",
+    "options": [
+      "25",
+      "34",
+      "52",
+      "64"
+    ],
+    "correctOption": "34"
+  },
+  {
+    "question": "If the area of a circle is 616 square units, what is its radius? (Use π = 22/7)",
+    "options": [
+      "7 units",
+      "14 units",
+      "21 units",
+      "28 units"
+    ],
+    "correctOption": "14 units"
+  },
+  {
+    "question": "What is the value of 1/4 + 1/8?",
+    "options": [
+      "1/8",
+      "1/4",
+      "3/8",
+      "1/2"
+    ],
+    "correctOption": "3/8"
+  },
+  {
+    "question": "If the perimeter of a square is 60 units, what is the area of the square?",
+    "options": [
+      "100 square units",
+      "150 square units",
+      "200 square units",
+      "225 square units"
+    ],
+    "correctOption": "225 square units"
+  },
+  {
+    "question": "What is the value of 0.2 × 0.3?",
+    "options": [
+      "0.06",
+      "0.6",
+      "6",
+      "60"
+    ],
+    "correctOption": "0.06"
+  },
+  {
+    "question": "If the sum of three consecutive even numbers is 60, what is the largest number?",
+    "options": [
+      "18",
+      "20",
+      "22",
+      "24"
+    ],
+    "correctOption": "22"
+  },
+  {
+    "question": "What is the value of 6^2 + 4^3?",
+    "options": [
+      "36",
+      "64",
+      "100",
+      "128"
+    ],
+    "correctOption": "100"
+  },
+  {
+    "question": "If the area of a rectangle is 72 square units and its length is 12 units, what is its width?",
+    "options": [
+      "4 units",
+      "6 units",
+      "8 units",
+      "10 units"
+    ],
+    "correctOption": "6 units"
+  },
+  {
+    "question": "What is the value of 0.5 × 0.4?",
+    "options": [
+      "0.02",
+      "0.2",
+      "2",
+      "20"
+    ],
+    "correctOption": "0.2"
+  },
+  {
+    "question": "If the sum of two numbers is 40 and their difference is 10, what is the smaller number?",
+    "options": [
+      "10",
+      "15",
+      "20",
+      "25"
+    ],
+    "correctOption": "15"
+  },
+  {
+    "question": "What is the value of 7^2 + 5^2?",
+    "options": [
+      "49",
+      "64",
+      "74",
+      "84"
+    ],
+    "correctOption": "74"
+  },
+  {
+    "question": "If the area of a circle is 154 square units, what is its diameter? (Use π = 22/7)",
+    "options": [
+      "7 units",
+      "14 units",
+      "21 units",
+      "28 units"
+    ],
+    "correctOption": "14 units"
+  },
+  {
+    "question": "What is the value of 1/5 + 1/10?",
+    "options": [
+      "1/10",
+      "1/5",
+      "3/10",
+      "1/2"
+    ],
+    "correctOption": "3/10"
+  },
+  {
+    "question": "If the perimeter of a square is 80 units, what is the area of the square?",
+    "options": [
+      "100 square units",
+      "200 square units",
+      "300 square units",
+      "400 square units"
+    ],
+    "correctOption": "400 square units"
+  },
+  {
+    "question": "What is the value of 0.3 × 0.4?",
+    "options": [
+      "0.12",
+      "0.24",
+      "0.36",
+      "0.48"
+    ],
+    "correctOption": "0.12"
+  },
+  {
+    "question": "If the sum of three consecutive odd numbers is 75, what is the smallest number?",
+    "options": [
+      "21",
+      "23",
+      "25",
+      "27"
+    ],
+    "correctOption": "23"
+  },
+  {
+    "question": "What is the value of 8^2 + 6^2?",
+    "options": [
+      "64",
+      "100",
+      "128",
+      "164"
+    ],
+    "correctOption": "100"
+  },
+  {
+    "question": "If the area of a rectangle is 96 square units and its width is 8 units, what is its length?",
+    "options": [
+      "8 units",
+      "10 units",
+      "12 units",
+      "14 units"
+    ],
+    "correctOption": "12 units"
+  },
+  {
+    "question": "What is the value of 0.4 × 0.5?",
+    "options": [
+      "0.02",
+      "0.2",
+      "2",
+      "20"
+    ],
+    "correctOption": "0.2"
+  },
+  {
+    "question": "If the sum of two numbers is 50 and their difference is 10, what is the larger number?",
+    "options": [
+      "20",
+      "25",
+      "30",
+      "35"
+    ],
+    "correctOption": "30"
+  },
+  {
+    "question": "What is the value of 9^2 + 7^2?",
+    "options": [
+      "81",
+      "130",
+      "149",
+      "164"
+    ],
+    "correctOption": "130"
+  },
+  {
+    "question": "If the area of a circle is 616 square units, what is its circumference? (Use π = 22/7)",
+    "options": [
+      "44 units",
+      "88 units",
+      "132 units",
+      "176 units"
+    ],
+    "correctOption": "88 units"
+  },
+  {
+    "question": "What is the value of 1/6 + 1/12?",
+    "options": [
+      "1/12",
+      "1/6",
+      "1/4",
+      "1/2"
+    ],
+    "correctOption": "1/4"
+  },
+  {
+    "question": "If the perimeter of a square is 100 units, what is the area of the square?",
+    "options": [
+      "400 square units",
+      "500 square units",
+      "600 square units",
+      "625 square units"
+    ],
+    "correctOption": "625 square units"
+  },
+  {
+    "question": "What is the value of 0.6 × 0.7?",
+    "options": [
+      "0.42",
+      "0.49",
+      "4.2",
+      "4.9"
+    ],
+    "correctOption": "0.42"
+  },
+  {
+    "question": "If the sum of three consecutive even numbers is 90, what is the middle number?",
+    "options": [
+      "28",
+      "30",
+      "32",
+      "34"
+    ],
+    "correctOption": "30"
+  },
+  {
+    "question": "What is the value of 10^2 + 8^2?",
+    "options": [
+      "100",
+      "164",
+      "180",
+      "200"
+    ],
+    "correctOption": "164"
+  },
+  {
+    "question": "If the area of a rectangle is 120 square units and its length is 15 units, what is its width?",
+    "options": [
+      "6 units",
+      "8 units",
+      "10 units",
+      "12 units"
+    ],
+    "correctOption": "8 units"
+  },
+  {
+    "question": "What is the value of 0.7 × 0.8?",
+    "options": [
+      "0.56",
+      "0.64",
+      "5.6",
+      "6.4"
+    ],
+    "correctOption": "0.56"
+  },
+  {
+    "question": "If the sum of two numbers is 60 and their difference is 20, what is the smaller number?",
+    "options": [
+      "10",
+      "20",
+      "30",
+      "40"
+    ],
+    "correctOption": "20"
+  },
+  {
+    "question": "What is the value of 11^2 + 9^2?",
+    "options": [
+      "121",
+      "202",
+      "221",
+      "242"
+    ],
+    "correctOption": "202"
+  },
+  {
+    "question": "If the area of a circle is 154 square units, what is its radius? (Use π = 22/7)",
+    "options": [
+      "7 units",
+      "14 units",
+      "21 units",
+      "28 units"
+    ],
+    "correctOption": "7 units"
+  },
+  {
+    "question": "What is the value of 1/7 + 1/14?",
+    "options": [
+      "1/14",
+      "1/7",
+      "3/14",
+      "1/2"
+    ],
+    "correctOption": "3/14"
+  },
+  {
+    "question": "If the perimeter of a square is 120 units, what is the area of the square?",
+    "options": [
+      "900 square units",
+      "1000 square units",
+      "1100 square units",
+      "1200 square units"
+    ],
+    "correctOption": "900 square units"
+  },
+  {
+    "question": "What is the value of 0.8 × 0.9?",
+    "options": [
+      "0.72",
+      "0.81",
+      "7.2",
+      "8.1"
+    ],
+    "correctOption": "0.72"
+  },
+  {
+    "question": "If the sum of three consecutive odd numbers is 105, what is the largest number?",
+    "options": [
+      "33",
+      "35",
+      "37",
+      "39"
+    ],
+    "correctOption": "37"
+  },
+  {
+    "question": "What is the value of 12^2 + 10^2?",
+    "options": [
+      "144",
+      "244",
+      "264",
+      "344"
+    ],
+    "correctOption": "244"
+  },
+  {
+    "question": "If the area of a rectangle is 150 square units and its width is 10 units, what is its length?",
+    "options": [
+      "10 units",
+      "12 units",
+      "15 units",
+      "20 units"
+    ],
+    "correctOption": "15 units"
+  },
+  {
+    "question": "What is the value of 0.9 × 0.1?",
+    "options": [
+      "0.09",
+      "0.9",
+      "9",
+      "90"
+    ],
+    "correctOption": "0.09"
+  },
+  {
+    "question": "If the sum of two numbers is 70 and their difference is 30, what is the larger number?",
+    "options": [
+      "20",
+      "30",
+      "40",
+      "50"
+    ],
+    "correctOption": "50"
+  },
+  {
+    "question": "What is the value of 13^2 + 11^2?",
+    "options": [
+      "169",
+      "290",
+      "310",
+      "330"
+    ],
+    "correctOption": "290"
+  },
+  {
+    "question": "If the area of a circle is 616 square units, what is its diameter? (Use π = 22/7)",
+    "options": [
+      "14 units",
+      "28 units",
+      "42 units",
+      "56 units"
+    ],
+    "correctOption": "28 units"
+  },
+  {
+    "question": "What is the value of 1/8 + 1/16?",
+    "options": [
+      "1/16",
+      "1/8",
+      "3/16",
+      "1/4"
+    ],
+    "correctOption": "3/16"
+  },
+  {
+    "question": "If the perimeter of a square is 140 units, what is the area of the square?",
+    "options": [
+      "1225 square units",
+      "1300 square units",
+      "1400 square units",
+      "1500 square units"
+    ],
+    "correctOption": "1225 square units"
+  },
+  {
+    "question": "What is the value of 0.1 × 0.2?",
+    "options": [
+      "0.02",
+      "0.2",
+      "2",
+      "20"
+    ],
+    "correctOption": "0.02"
+  },
+  {
+    "question": "If the sum of three consecutive even numbers is 120, what is the smallest number?",
+    "options": [
+      "36",
+      "38",
+      "40",
+      "42"
+    ],
+    "correctOption": "38"
+  },
+  {
+    "question": "What is the value of 14^2 + 12^2?",
+    "options": [
+      "196",
+      "340",
+      "360",
+      "400"
+    ],
+    "correctOption": "340"
+  },
+  {
+    "question": "If the area of a rectangle is 180 square units and its length is 18 units, what is its width?",
+    "options": [
+      "8 units",
+      "10 units",
+      "12 units",
+      "15 units"
+    ],
+    "correctOption": "10 units"
+  },
+  {
+    "question": "What is the value of 0.2 × 0.5?",
+    "options": [
+      "0.01",
+      "0.1",
+      "1",
+      "10"
+    ],
+    "correctOption": "0.1"
+  },
+  {
+    "question": "If the sum of two numbers is 80 and their difference is 40, what is the smaller number?",
+    "options": [
+      "20",
+      "30",
+      "40",
+      "50"
+    ],
+    "correctOption": "20"
+  },
+  {
+    "question": "What is the value of 15^2 + 13^2?",
+    "options": [
+      "225",
+      "394",
+      "450",
+      "500"
+    ],
+    "correctOption": "394"
+  },
+  {
+    "question": "If the area of a circle is 154 square units, what is its circumference? (Use π = 22/7)",
+    "options": [
+      "44 units",
+      "88 units",
+      "132 units",
+      "176 units"
+    ],
+    "correctOption": "44 units"
+  },
+  {
+    "question": "What is the value of 1/9 + 1/18?",
+    "options": [
+      "1/18",
+      "1/9",
+      "1/6",
+      "1/3"
+    ],
+    "correctOption": "1/6"
+  },
+  {
+    "question": "If the perimeter of a square is 160 units, what is the area of the square?",
+    "options": [
+      "1600 square units",
+      "1700 square units",
+      "1800 square units",
+      "1900 square units"
+    ],
+    "correctOption": "1600 square units"
+  },
+  {
+    "question": "What is the value of 0.3 × 0.6?",
+    "options": [
+      "0.18",
+      "0.24",
+      "0.36",
+      "0.48"
+    ],
+    "correctOption": "0.18"
+  },
+  {
+    "question": "If the sum of three consecutive odd numbers is 135, what is the middle number?",
+    "options": [
+      "43",
+      "45",
+      "47",
+      "49"
+    ],
+    "correctOption": "45"
+  },
+  {
+    "question": "What is the value of 16^2 + 14^2?",
+    "options": [
+      "256",
+      "452",
+      "500",
+      "512"
+    ],
+    "correctOption": "452"
+  },
+  {
+    "question": "If the area of a rectangle is 200 square units and its width is 10 units, what is its length?",
+    "options": [
+      "10 units",
+      "15 units",
+      "20 units",
+      "25 units"
+    ],
+    "correctOption": "20 units"
+  },
+  {
+    "question": "What is the value of 0.4 × 0.6?",
+    "options": [
+      "0.24",
+      "0.36",
+      "2.4",
+      "3.6"
+    ],
+    "correctOption": "0.24"
+  },
+  {
+    "question": "If the sum of two numbers is 90 and their difference is 30, what is the larger number?",
     "options": [
       "30",
       "40",
       "50",
       "60"
     ],
-    "correctOption": "50"
+    "correctOption": "60"
   },
   {
-    "question": "If the area of a rectangle is 48 square units and its length is 8 units, what is its width?",
+    "question": "What is the value of 17^2 + 15^2?",
     "options": [
-      "4 units",
-      "5 units",
-      "6 units",
-      "7 units"
+      "289",
+      "514",
+      "550",
+      "600"
     ],
-    "correctOption": "6 units"
+    "correctOption": "514"
   },
   {
-    "question": "If a car travels at 60 km/hr for 4 hours, how far does it travel?",
+    "question": "If the area of a circle is 154 square units, what is its radius? (Use π = 22/7)",
     "options": [
-      "200 km",
-      "220 km",
-      "240 km",
-      "260 km"
+      "7 units",
+      "14 units",
+      "21 units",
+      "28 units"
     ],
-    "correctOption": "240 km"
+    "correctOption": "7 units"
   },
   {
-    "question": "If the price of a book is reduced by 20% and the new price is $24, what was the original price?",
+    "question": "What is the value of 1/10 + 1/20?",
     "options": [
-      "$30",
-      "$32",
-      "$34",
-      "$36"
+      "1/20",
+      "1/10",
+      "3/20",
+      "1/5"
     ],
-    "correctOption": "$30"
+    "correctOption": "3/20"
   },
   {
-    "question": "In a code language, 'GREAT' is written as 'HTFBS'. How is 'SMART' written in that code?",
+    "question": "If the perimeter of a square is 180 units, what is the area of the square?",
     "options": [
-      "TNBQU",
-      "TNBRT",
-      "TNBQT",
-      "TMBQT"
+      "2025 square units",
+      "2100 square units",
+      "2200 square units",
+      "2300 square units"
     ],
-    "correctOption": "TNBQT"
+    "correctOption": "2025 square units"
   },
   {
-    "question": "If a tank fills at a rate of 5 liters per minute, how long will it take to fill a 200-liter tank?",
+    "question": "What is the value of 0.5 × 0.6?",
     "options": [
-      "20 minutes",
-      "30 minutes",
-      "40 minutes",
-      "50 minutes"
+      "0.3",
+      "0.4",
+      "0.5",
+      "0.6"
     ],
-    "correctOption": "40 minutes"
+    "correctOption": "0.3"
   },
   {
-    "question": "If the average of four numbers is 35 and the sum of three of them is 95, what is the fourth number?",
+    "question": "If the sum of three consecutive even numbers is 150, what is the largest number?",
     "options": [
+      "48",
+      "50",
+      "52",
+      "54"
+    ],
+    "correctOption": "52"
+  },
+  {
+    "question": "What is the value of 18^2 + 16^2?",
+    "options": [
+      "324",
+      "580",
+      "600",
+      "648"
+    ],
+    "correctOption": "580"
+  },
+  {
+    "question": "If the area of a rectangle is 240 square units and its length is 20 units, what is its width?",
+    "options": [
+      "10 units",
+      "12 units",
+      "15 units",
+      "20 units"
+    ],
+    "correctOption": "12 units"
+  },
+  {
+    "question": "What is the value of 0.6 × 0.7?",
+    "options": [
+      "0.42",
+      "0.49",
+      "4.2",
+      "4.9"
+    ],
+    "correctOption": "0.42"
+  },
+  {
+    "question": "If the sum of two numbers is 100 and their difference is 40, what is the smaller number?",
+    "options": [
+      "20",
       "30",
-      "35",
       "40",
-      "45"
+      "50"
     ],
-    "correctOption": "45"
+    "correctOption": "30"
+  },
+  {
+    "question": "What is the value of 19^2 + 17^2?",
+    "options": [
+      "361",
+      "650",
+      "700",
+      "750"
+    ],
+    "correctOption": "650"
+  },
+  {
+    "question": "If the area of a circle is 154 square units, what is its circumference? (Use π = 22/7)",
+    "options": [
+      "44 units",
+      "88 units",
+      "132 units",
+      "176 units"
+    ],
+    "correctOption": "44 units"
+  },
+  {
+    "question": "What is the value of 1/11 + 1/22?",
+    "options": [
+      "1/22",
+      "1/11",
+      "3/22",
+      "1/5"
+    ],
+    "correctOption": "3/22"
+  },
+  {
+    "question": "If the perimeter of a square is 200 units, what is the area of the square?",
+    "options": [
+      "2500 square units",
+      "2600 square units",
+      "2700 square units",
+      "2800 square units"
+    ],
+    "correctOption": "2500 square units"
+  },
+  {
+    "question": "What is the value of 0.7 × 0.8?",
+    "options": [
+      "0.56",
+      "0.64",
+      "5.6",
+      "6.4"
+    ],
+    "correctOption": "0.56"
+  },
+  {
+    "question": "If the sum of three consecutive odd numbers is 165, what is the smallest number?",
+    "options": [
+      "51",
+      "53",
+      "55",
+      "57"
+    ],
+    "correctOption": "51"
+  },
+  {
+    "question": "What is the value of 20^2 + 18^2?",
+    "options": [
+      "400",
+      "724",
+      "800",
+      "900"
+    ],
+    "correctOption": "724"
   }
 ]
